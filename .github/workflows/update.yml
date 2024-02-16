@@ -727,6 +727,9 @@ jobs:
         # 规则名称:Shopify
         curl -L -o Matrixio-repo/Clash/Ruleset/Shopify.yaml "https://raw.githubusercontent.com/whiskerside/Matrixio/update/Ruleset/Shopify.list"
 
+        # 规则名称:Personal
+        curl -L -o Matrixio-repo/Clash/Ruleset/Personal.yaml "https://raw.githubusercontent.com/whiskerside/Matrixio/update/Ruleset/Personal.list"
+
     # 规则处理:Clash 🧸
     - name: Clash\Ruleset
       run: |
@@ -1632,6 +1635,9 @@ jobs:
         # 规则名称:Shopify
         curl -L -o Matrixio-repo/Egern/Ruleset/Shopify.yaml "https://raw.githubusercontent.com/whiskerside/Matrixio/update/Ruleset/Shopify.list"
 
+        # 规则名称:Personal
+        curl -L -o Matrixio-repo/Egern/Ruleset/Personal.yaml "https://raw.githubusercontent.com/whiskerside/Matrixio/update/Ruleset/Personal.list"
+
     # 规则处理:Egern 🧸
     - name: Egern\Ruleset
       run: |
@@ -2535,6 +2541,9 @@ jobs:
 
         # 规则名称:Shopify
         curl -L -o Matrixio-repo/QuantumultX/Ruleset/Shopify.list "https://raw.githubusercontent.com/whiskerside/Matrixio/update/Ruleset/Shopify.list"
+
+        # 规则名称:Personal
+        curl -L -o Matrixio-repo/QuantumultX/Ruleset/Personal.list "https://raw.githubusercontent.com/whiskerside/Matrixio/update/Ruleset/Personal.list"
 
     # 规则处理:QuantumultX 🧸
     - name: QuantumultX\Ruleset
@@ -4522,6 +4531,14 @@ jobs:
             echo "$file not found."
           fi
 
+          # 处理规则:Personal
+          file="Personal.list"
+          if [ -f "$file" ]; then
+            sed -i 's/,MATRIX-IO/,Personal/g' "$file"
+          else
+            echo "$file not found."
+          fi
+
     - name: QuantumultX\Ruleset
       run: |
         cd Matrixio-repo/QuantumultX/Ruleset
@@ -5250,6 +5267,9 @@ jobs:
 
         # 规则名称:Shopify
         curl -L -o Matrixio-repo/Shadowrocket/Ruleset/Shopify.list "https://raw.githubusercontent.com/whiskerside/Matrixio/update/Ruleset/Shopify.list"
+
+        # 规则名称:Personal
+        curl -L -o Matrixio-repo/Shadowrocket/Ruleset/Personal.list "https://raw.githubusercontent.com/whiskerside/Matrixio/update/Ruleset/Personal.list"
 
     # 规则处理:Shadowrocket 🧸
     - name: Shadowrocket\Ruleset
