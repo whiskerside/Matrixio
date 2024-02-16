@@ -1,5 +1,5 @@
 # 规则名称:Google
-# 规则统计:24
+# 规则统计:25
 
 domain_suffix_set:
   - 1e100.net
@@ -10,6 +10,7 @@ domain_suffix_set:
   - goo.gl
   - googleapis.cn
   - googleapis.com
+  - googleusercontent.com
   - gstatic.cn
   - gstatic.com
   - gvt0.com
