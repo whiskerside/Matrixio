@@ -1,5 +1,5 @@
 # 规则名称:Shopify
-# 规则统计:10
+# 规则统计:11
 
 domain_set:
   - admin.shopify.com
@@ -8,6 +8,7 @@ domain_set:
   - otlp-http-production.shopifysvc.com
   - otlp-http-production-cli.shopifysvc.com
 domain_suffix_set:
+  - shopifysvc.com
   - shopify.io
   - shopify.dev
   - shopifyapps.com

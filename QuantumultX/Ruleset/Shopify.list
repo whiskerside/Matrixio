@@ -1,11 +1,12 @@
 # 规则名称:Shopify
-# 规则统计:10
+# 规则统计:11
 
 HOST,admin.shopify.com,Shopify
 HOST,shops.shopify.com,Shopify
 HOST,partners.shopify.com,Shopify
 HOST,otlp-http-production.shopifysvc.com,Shopify
 HOST,otlp-http-production-cli.shopifysvc.com,Shopify
+HOST-SUFFIX,shopifysvc.com,Shopify
 HOST-SUFFIX,shopify.io,Shopify
 HOST-SUFFIX,shopify.dev,Shopify
 HOST-SUFFIX,shopifyapps.com,Shopify

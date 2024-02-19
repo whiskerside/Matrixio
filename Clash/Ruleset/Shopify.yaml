@@ -1,5 +1,5 @@
 # 规则名称:Shopify
-# 规则统计:10
+# 规则统计:11
 
 payload:
   - DOMAIN,admin.shopify.com
@@ -7,6 +7,7 @@ payload:
   - DOMAIN,partners.shopify.com
   - DOMAIN,otlp-http-production.shopifysvc.com
   - DOMAIN,otlp-http-production-cli.shopifysvc.com
+  - DOMAIN-SUFFIX,shopifysvc.com
   - DOMAIN-SUFFIX,shopify.io
   - DOMAIN-SUFFIX,shopify.dev
   - DOMAIN-SUFFIX,shopifyapps.com
