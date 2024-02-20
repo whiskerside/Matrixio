@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:6163
+# 规则统计:6165
 
 payload:
   - '+.000webhost.com'
@@ -2692,6 +2692,7 @@ payload:
   - '+.hulkshare.com'
   - '+.hulu.com'
   - '+.huluim.com'
+  - '+.humanparty.me'
   - '+.humanrightspressawards.org'
   - '+.hung-ya.com'
   - '+.hungerstrikeforaids.org'
@@ -4946,6 +4947,7 @@ payload:
   - '+.telesco.pe'
   - '+.tellme.pw'
   - '+.tenacy.com'
+  - '+.tenor.com'
   - '+.tensorflow.org'
   - '+.tenzinpalmo.com'
   - '+.terabox.com'
