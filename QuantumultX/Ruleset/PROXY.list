@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:24121
+# 规则统计:24119
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -1084,7 +1084,6 @@ HOST-SUFFIX,accountkit.com,PROXY
 HOST-SUFFIX,accountpaypal.com,PROXY
 HOST-SUFFIX,accountpaypal.net,PROXY
 HOST-SUFFIX,accountpaypal.org,PROXY
-HOST-SUFFIX,accounts.googlers.com,PROXY
 HOST-SUFFIX,accuweather.com,PROXY
 HOST-SUFFIX,accv.es,PROXY
 HOST-SUFFIX,acebooik.com,PROXY
@@ -9136,7 +9135,6 @@ HOST-SUFFIX,gclubs.com,PROXY
 HOST-SUFFIX,gcmasia.com,PROXY
 HOST-SUFFIX,gcolle.net,PROXY
 HOST-SUFFIX,gcpnews.com,PROXY
-HOST-SUFFIX,gcpnode.com,PROXY
 HOST-SUFFIX,gcr.io,PROXY
 HOST-SUFFIX,gcrtires.com,PROXY
 HOST-SUFFIX,gdansk-amazon.com,PROXY
@@ -17880,6 +17878,7 @@ HOST-SUFFIX,reaxys.com,PROXY
 HOST-SUFFIX,rebates.jp,PROXY
 HOST-SUFFIX,rebatesrule.net,PROXY
 HOST-SUFFIX,rebrandly.com,PROXY
+HOST-SUFFIX,recaptcha-cn.net,PROXY
 HOST-SUFFIX,recaptcha.net,PROXY
 HOST-SUFFIX,recelebrity.com,PROXY
 HOST-SUFFIX,reckitt.net,PROXY
@@ -21145,7 +21144,6 @@ HOST-SUFFIX,unwire.hk,PROXY
 HOST-SUFFIX,uo.com,PROXY
 HOST-SUFFIX,uocn.org,PROXY
 HOST-SUFFIX,uoherald.com,PROXY
-HOST-SUFFIX,up.gcp.googlers.com,PROXY
 HOST-SUFFIX,up01.cc,PROXY
 HOST-SUFFIX,update.crashlytics.com,PROXY
 HOST-SUFFIX,updatetube.com,PROXY
