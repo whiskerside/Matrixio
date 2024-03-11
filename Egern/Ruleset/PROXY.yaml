@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:24124
+# 规则统计:24134
 
 domain_set:
   - 3dns-1.adobe.com
@@ -2930,6 +2930,7 @@ domain_suffix_set:
   - bbc.co.uk
   - bbc.com
   - bbc.in
+  - bbc.mp-pxcdn.com
   - bbc.net.uk
   - bbcchinese.com
   - bbchat.tv
@@ -5041,6 +5042,7 @@ domain_suffix_set:
   - cfake.com
   - cfblob.com
   - cfhks.org.hk
+  - cfl.re
   - cfna.com
   - cfos.de
   - cfr.org
@@ -14390,6 +14392,7 @@ domain_suffix_set:
   - modelsfreecams.com
   - modeltv.com
   - modernchinastudies.org
+  - modperl.pl
   - modrinth.com
   - modular.im
   - moeero-library.com
@@ -15897,6 +15900,9 @@ domain_suffix_set:
   - okex.com
   - okk.tw
   - okkisokuho.com
+  - okx-dns.com
+  - okx-dns1.com
+  - okx-dns2.com
   - okx.com
   - old-cat.net
   - old.honeynet.org
@@ -17907,6 +17913,7 @@ domain_suffix_set:
   - redchinacn.net
   - redchinacn.org
   - redd.it
+  - reddit.app.link
   - reddit.com
   - redditlist.com
   - redditmail.com
@@ -19883,6 +19890,8 @@ domain_suffix_set:
   - taiav.com
   - tail-f.com
   - tailf.com
+  - tailscale.com
+  - tailscale.io
   - tailwindtraders.com
   - taiolongdh.sbs
   - taipeisociety.org
@@ -20744,6 +20753,7 @@ domain_suffix_set:
   - tryrating.com
   - tryst.link
   - ts.la
+  - ts.net
   - tsctv.net
   - tsdr.uspto.gov
   - tsemtulku.com

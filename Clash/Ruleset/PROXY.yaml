@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:24124
+# 规则统计:24134
 
 payload:
   - '3dns-1.adobe.com'
@@ -2929,6 +2929,7 @@ payload:
   - '+.bbc.co.uk'
   - '+.bbc.com'
   - '+.bbc.in'
+  - '+.bbc.mp-pxcdn.com'
   - '+.bbc.net.uk'
   - '+.bbcchinese.com'
   - '+.bbchat.tv'
@@ -5040,6 +5041,7 @@ payload:
   - '+.cfake.com'
   - '+.cfblob.com'
   - '+.cfhks.org.hk'
+  - '+.cfl.re'
   - '+.cfna.com'
   - '+.cfos.de'
   - '+.cfr.org'
@@ -14389,6 +14391,7 @@ payload:
   - '+.modelsfreecams.com'
   - '+.modeltv.com'
   - '+.modernchinastudies.org'
+  - '+.modperl.pl'
   - '+.modrinth.com'
   - '+.modular.im'
   - '+.moeero-library.com'
@@ -15896,6 +15899,9 @@ payload:
   - '+.okex.com'
   - '+.okk.tw'
   - '+.okkisokuho.com'
+  - '+.okx-dns.com'
+  - '+.okx-dns1.com'
+  - '+.okx-dns2.com'
   - '+.okx.com'
   - '+.old-cat.net'
   - '+.old.honeynet.org'
@@ -17906,6 +17912,7 @@ payload:
   - '+.redchinacn.net'
   - '+.redchinacn.org'
   - '+.redd.it'
+  - '+.reddit.app.link'
   - '+.reddit.com'
   - '+.redditlist.com'
   - '+.redditmail.com'
@@ -19882,6 +19889,8 @@ payload:
   - '+.taiav.com'
   - '+.tail-f.com'
   - '+.tailf.com'
+  - '+.tailscale.com'
+  - '+.tailscale.io'
   - '+.tailwindtraders.com'
   - '+.taiolongdh.sbs'
   - '+.taipeisociety.org'
@@ -20743,6 +20752,7 @@ payload:
   - '+.tryrating.com'
   - '+.tryst.link'
   - '+.ts.la'
+  - '+.ts.net'
   - '+.tsctv.net'
   - '+.tsdr.uspto.gov'
   - '+.tsemtulku.com'
