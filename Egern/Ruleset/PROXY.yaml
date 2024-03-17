@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:24135
+# 规则统计:24140
 
 domain_set:
   - 3dns-1.adobe.com
@@ -216,6 +216,7 @@ domain_set:
   - production-openaicom-storage.azureedge.net
   - psg-int-centralus.cloudapp.net
   - psg-int-eastus.cloudapp.net
+  - public-us-pingsx.api.clonoth.com
   - push-apple.com.akadns.net
   - pvr-hamivideo.cdn.hinet.net
   - qualcomm.sc.omtrdc.net
@@ -16704,6 +16705,7 @@ domain_suffix_set:
   - pinflix.com
   - ping.fm
   - ping.pe
+  - ping.sx
   - pingguotv.xyz
   - pingxiangpuer.com
   - pinimg.com
@@ -20462,6 +20464,8 @@ domain_suffix_set:
   - tiktokd.net
   - tiktokd.org
   - tiktokv.com
+  - tiktokv.us
+  - tiktokw.us
   - tiltbrush.com
   - timdir.com
   - time.com
@@ -23520,6 +23524,7 @@ domain_suffix_set:
   - yam.org.tw
   - yamaxun
   - yamaxun.com
+  - yamibo.com
   - yammer.com
   - yamoon.club
   - yande.re

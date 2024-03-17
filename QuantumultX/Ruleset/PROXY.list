@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:24135
+# 规则统计:24140
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -215,6 +215,7 @@ HOST,prd-priconne-redive.akamaized.net,PROXY
 HOST,production-openaicom-storage.azureedge.net,PROXY
 HOST,psg-int-centralus.cloudapp.net,PROXY
 HOST,psg-int-eastus.cloudapp.net,PROXY
+HOST,public-us-pingsx.api.clonoth.com,PROXY
 HOST,push-apple.com.akadns.net,PROXY
 HOST,pvr-hamivideo.cdn.hinet.net,PROXY
 HOST,qualcomm.sc.omtrdc.net,PROXY
@@ -16702,6 +16703,7 @@ HOST-SUFFIX,pinduck.com,PROXY
 HOST-SUFFIX,pinflix.com,PROXY
 HOST-SUFFIX,ping.fm,PROXY
 HOST-SUFFIX,ping.pe,PROXY
+HOST-SUFFIX,ping.sx,PROXY
 HOST-SUFFIX,pingguotv.xyz,PROXY
 HOST-SUFFIX,pingxiangpuer.com,PROXY
 HOST-SUFFIX,pinimg.com,PROXY
@@ -20460,6 +20462,8 @@ HOST-SUFFIX,tiktokcdn.com,PROXY
 HOST-SUFFIX,tiktokd.net,PROXY
 HOST-SUFFIX,tiktokd.org,PROXY
 HOST-SUFFIX,tiktokv.com,PROXY
+HOST-SUFFIX,tiktokv.us,PROXY
+HOST-SUFFIX,tiktokw.us,PROXY
 HOST-SUFFIX,tiltbrush.com,PROXY
 HOST-SUFFIX,timdir.com,PROXY
 HOST-SUFFIX,time.com,PROXY
@@ -23518,6 +23522,7 @@ HOST-SUFFIX,yam.com,PROXY
 HOST-SUFFIX,yam.org.tw,PROXY
 HOST-SUFFIX,yamaxun,PROXY
 HOST-SUFFIX,yamaxun.com,PROXY
+HOST-SUFFIX,yamibo.com,PROXY
 HOST-SUFFIX,yammer.com,PROXY
 HOST-SUFFIX,yamoon.club,PROXY
 HOST-SUFFIX,yande.re,PROXY
