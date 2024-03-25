@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:24140
+# 规则统计:24143
 
 domain_set:
   - 3dns-1.adobe.com
@@ -459,6 +459,7 @@ domain_set:
   - wwis-dubc1-vip99.adobe.com
   - www-cdn.icloud.com.akadns.net
   - zeenews-fonts.s3.amazonaws.com
+  - ztedevices.com
 domain_suffix_set:
   - 000webhost.com
   - 01.org
@@ -646,6 +647,7 @@ domain_suffix_set:
   - 2017.hk
   - 2019baidu.xyz
   - 2021hkcharter.com
+  - 2023aga.oen.tw
   - 2047.name
   - 20thcenturystudios.com.au
   - 20thcenturystudios.com.br
@@ -5714,6 +5716,7 @@ domain_suffix_set:
   - corumcollege.com
   - cos-moe.com
   - cosca.myqcloud.com
+  - cosfans-tw.com
   - cosger.myqcloud.com
   - coshk.myqcloud.com
   - cosmic.monar.ch
