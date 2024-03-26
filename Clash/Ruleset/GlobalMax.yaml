@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:24304
+# 规则统计:24307
 
 payload:
   - DOMAIN,adobeereg.com
@@ -76,6 +76,7 @@ payload:
   - DOMAIN,widgets.stripst.com
   - DOMAIN,wrds-www.wharton.upenn.edu
   - DOMAIN,www-cdn.icloud.com.akadns.net
+  - DOMAIN,ztedevices.com
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
   - DOMAIN,cloud.oracle.com
@@ -228,6 +229,7 @@ payload:
   - DOMAIN-SUFFIX,2014cheapbeatsbydre.com
   - DOMAIN-SUFFIX,2019baidu.xyz
   - DOMAIN-SUFFIX,2022.dev
+  - DOMAIN-SUFFIX,2023aga.oen.tw
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
   - DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -4245,6 +4247,7 @@ payload:
   - DOMAIN-SUFFIX,cortanaskills.com
   - DOMAIN-SUFFIX,cortexrpg.com
   - DOMAIN-SUFFIX,cosca.myqcloud.com
+  - DOMAIN-SUFFIX,cosfans-tw.com
   - DOMAIN-SUFFIX,cosger.myqcloud.com
   - DOMAIN-SUFFIX,coshk.myqcloud.com
   - DOMAIN-SUFFIX,cosmosdb.info
