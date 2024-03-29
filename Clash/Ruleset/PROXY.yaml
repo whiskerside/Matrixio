@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:24143
+# 规则统计:24146
 
 payload:
   - '3dns-1.adobe.com'
@@ -2349,6 +2349,7 @@ payload:
   - '+.applw.com'
   - '+.appmediagroup.com'
   - '+.approvedusedbmw.com'
+  - '+.apps.evozi.com'
   - '+.apps5.oingo.com'
   - '+.appsflayer.com'
   - '+.appshopper.com'
@@ -2385,6 +2386,7 @@ payload:
   - '+.archive.fo'
   - '+.archive.is'
   - '+.archive.li'
+  - '+.archive.md'
   - '+.archive.org'
   - '+.archive.ph'
   - '+.archive.today'
@@ -5307,6 +5309,7 @@ payload:
   - '+.ci-en.jp'
   - '+.ci-en.net'
   - '+.ciattackers.com'
+  - '+.ciciai.com'
   - '+.cienen.com'
   - '+.cilk.com'
   - '+.cilk.net'
