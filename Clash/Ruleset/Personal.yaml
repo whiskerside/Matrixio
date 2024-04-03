@@ -1,7 +1,8 @@
 # 规则名称:Personal
-# 规则统计:3
+# 规则统计:4
 
 payload:
   - DOMAIN-SUFFIX,ngrok.io
   - DOMAIN-SUFFIX,ngrok-free.app
   - DOMAIN-SUFFIX,freshworksapi.com
+  - DOMAIN-SUFFIX,ngrok-agent.com
