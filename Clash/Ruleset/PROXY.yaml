@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:24213
+# 规则统计:24214
 
 payload:
   - '3dns-1.adobe.com'
@@ -1455,8 +1455,6 @@ payload:
   - '+.akadns.com'
   - '+.akadns.net'
   - '+.akadns6.net'
-  - '+.akadns88.net'
-  - '+.akadns99.net'
   - '+.akaeai.com'
   - '+.akafms.net'
   - '+.akagtm.org'
@@ -5529,6 +5527,9 @@ payload:
   - '+.cnappinstall.googleadapis.com'
   - '+.cnbc.com'
   - '+.cnbcfm.com'
+  - '+.cnbeta.com'
+  - '+.cnbeta.com.tw'
+  - '+.cnbetacdn.com'
   - '+.cncrivals.com'
   - '+.cnd.org'
   - '+.cnet.com'
@@ -7229,7 +7230,6 @@ payload:
   - '+.edgedatg.com'
   - '+.edgefonts.net'
   - '+.edgekey.net'
-  - '+.edgekey88.net'
   - '+.edgemeplease.com'
   - '+.edgesuite.net'
   - '+.edicypages.com'
@@ -8407,6 +8407,7 @@ payload:
   - '+.firstpost.com'
   - '+.firstrade.com'
   - '+.fishmpegs.com'
+  - '+.fitgirl-repacks.site'
   - '+.fitnakedgirls.com'
   - '+.fivestarpornsites.com'
   - '+.fixtracking.com'
