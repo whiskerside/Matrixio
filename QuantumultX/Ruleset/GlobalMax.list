@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:24900
+# 规则统计:24902
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -50,7 +50,6 @@ HOST,imperial.insendi.com,GlobalMax
 HOST,lgelectronics.122.2o7.net,GlobalMax
 HOST,linkedin.sc.omtrdc.net,GlobalMax
 HOST,live-patreon-marketing.pantheonsite.io,GlobalMax
-HOST,location.microsoft.com,GlobalMax
 HOST,mdn.mozillademos.org,GlobalMax
 HOST,medone-education.thieme.com,GlobalMax
 HOST,mscrl.microsoft.com,GlobalMax
@@ -79,6 +78,9 @@ HOST,ztedevices.com,GlobalMax
 HOST,api.waqi.info,GlobalMax
 HOST,aqi.aqicn.org,GlobalMax
 HOST,cloud.oracle.com,GlobalMax
+HOST,location.microsoft.com,GlobalMax
+HOST,login.microsoftonline.com,GlobalMax
+HOST,self.events.data.microsoft.com,GlobalMax
 HOST-SUFFIX,01.org,GlobalMax
 HOST-SUFFIX,02weqj32.com,GlobalMax
 HOST-SUFFIX,04647.club,GlobalMax
@@ -2834,7 +2836,6 @@ HOST-SUFFIX,binancezh.top,GlobalMax
 HOST-SUFFIX,bing123.com,GlobalMax
 HOST-SUFFIX,bingads.com,GlobalMax
 HOST-SUFFIX,bingagencyawards.com,GlobalMax
-HOST-SUFFIX,bingapis.com,GlobalMax
 HOST-SUFFIX,bingapistatistics.com,GlobalMax
 HOST-SUFFIX,bingparachute.com,GlobalMax
 HOST-SUFFIX,bingsandbox.com,GlobalMax
@@ -11000,7 +11001,6 @@ HOST-SUFFIX,miaopa.net,GlobalMax
 HOST-SUFFIX,mickey.tv,GlobalMax
 HOST-SUFFIX,mickybells.com,GlobalMax
 HOST-SUFFIX,microbit.org,GlobalMax
-HOST-SUFFIX,microsoft-falcon.io,GlobalMax
 HOST-SUFFIX,microsoft-give.com,GlobalMax
 HOST-SUFFIX,microsoft-int.com,GlobalMax
 HOST-SUFFIX,microsoft-ppe.com,GlobalMax
@@ -11050,7 +11050,6 @@ HOST-SUFFIX,microsoftads.com,GlobalMax
 HOST-SUFFIX,microsoftadvertising.com,GlobalMax
 HOST-SUFFIX,microsoftadvertisingregionalawards.com,GlobalMax
 HOST-SUFFIX,microsoftaffiliates.com,GlobalMax
-HOST-SUFFIX,microsoftapp.net,GlobalMax
 HOST-SUFFIX,microsoftazuresponsorships.com,GlobalMax
 HOST-SUFFIX,microsoftcloud.com,GlobalMax
 HOST-SUFFIX,microsoftcloudsummit.com,GlobalMax
@@ -19411,6 +19410,7 @@ HOST-SUFFIX,billypan.com,GlobalMax
 HOST-SUFFIX,binance.com,GlobalMax
 HOST-SUFFIX,bing.com,GlobalMax
 HOST-SUFFIX,bing.net,GlobalMax
+HOST-SUFFIX,bingapis.com,GlobalMax
 HOST-SUFFIX,bintray.com,GlobalMax
 HOST-SUFFIX,binux.me,GlobalMax
 HOST-SUFFIX,binwang.me,GlobalMax
@@ -21983,6 +21983,8 @@ HOST-SUFFIX,mgstage.com,GlobalMax
 HOST-SUFFIX,mh4u.org,GlobalMax
 HOST-SUFFIX,michaelanti.com,GlobalMax
 HOST-SUFFIX,michaelmarketl.com,GlobalMax
+HOST-SUFFIX,microsoft-falcon.io,GlobalMax
+HOST-SUFFIX,microsoftapp.net,GlobalMax
 HOST-SUFFIX,microsofttranslator.com,GlobalMax
 HOST-SUFFIX,microvpn.com,GlobalMax
 HOST-SUFFIX,middle-way.net,GlobalMax

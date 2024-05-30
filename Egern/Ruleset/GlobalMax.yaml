@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:24900
+# 规则统计:24902
 
 domain_set:
   - adobeereg.com
@@ -51,7 +51,6 @@ domain_set:
   - lgelectronics.122.2o7.net
   - linkedin.sc.omtrdc.net
   - live-patreon-marketing.pantheonsite.io
-  - location.microsoft.com
   - mdn.mozillademos.org
   - medone-education.thieme.com
   - mscrl.microsoft.com
@@ -80,6 +79,9 @@ domain_set:
   - api.waqi.info
   - aqi.aqicn.org
   - cloud.oracle.com
+  - location.microsoft.com
+  - login.microsoftonline.com
+  - self.events.data.microsoft.com
 domain_suffix_set:
   - 01.org
   - 02weqj32.com
@@ -2836,7 +2838,6 @@ domain_suffix_set:
   - bing123.com
   - bingads.com
   - bingagencyawards.com
-  - bingapis.com
   - bingapistatistics.com
   - bingparachute.com
   - bingsandbox.com
@@ -11002,7 +11003,6 @@ domain_suffix_set:
   - mickey.tv
   - mickybells.com
   - microbit.org
-  - microsoft-falcon.io
   - microsoft-give.com
   - microsoft-int.com
   - microsoft-ppe.com
@@ -11052,7 +11052,6 @@ domain_suffix_set:
   - microsoftadvertising.com
   - microsoftadvertisingregionalawards.com
   - microsoftaffiliates.com
-  - microsoftapp.net
   - microsoftazuresponsorships.com
   - microsoftcloud.com
   - microsoftcloudsummit.com
@@ -19413,6 +19412,7 @@ domain_suffix_set:
   - binance.com
   - bing.com
   - bing.net
+  - bingapis.com
   - bintray.com
   - binux.me
   - binwang.me
@@ -21985,6 +21985,8 @@ domain_suffix_set:
   - mh4u.org
   - michaelanti.com
   - michaelmarketl.com
+  - microsoft-falcon.io
+  - microsoftapp.net
   - microsofttranslator.com
   - microvpn.com
   - middle-way.net
