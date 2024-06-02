@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:6181
+# 规则统计:6182
 
 payload:
   - '+.000webhost.com'
@@ -4229,6 +4229,7 @@ payload:
   - '+.pythonhackers.com'
   - '+.pytorch.org'
   - '+.qanote.com'
+  - '+.qbittorrent.org'
   - '+.qgirl.com.tw'
   - '+.qhigh.com'
   - '+.qi-gong.me'
