@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:24952
+# 规则统计:24953
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -211,10 +211,12 @@ HOST,practivate.adobe.ipp,PROXY
 HOST,practivate.adobe.newoa,PROXY
 HOST,practivate.adobe.ntp,PROXY
 HOST,prd-priconne-redive.akamaized.net,PROXY
+HOST,preprod-publicca.googleapis.com,PROXY
 HOST,production-openaicom-storage.azureedge.net,PROXY
 HOST,psg-int-centralus.cloudapp.net,PROXY
 HOST,psg-int-eastus.cloudapp.net,PROXY
 HOST,public-us-pingsx.api.clonoth.com,PROXY
+HOST,publicca.googleapis.com,PROXY
 HOST,push-apple.com.akadns.net,PROXY
 HOST,pvr-hamivideo.cdn.hinet.net,PROXY
 HOST,qualcomm.sc.omtrdc.net,PROXY
@@ -23169,7 +23171,6 @@ HOST-SUFFIX,weiming.info,PROXY
 HOST-SUFFIX,weinvoiceit.com,PROXY
 HOST-SUFFIX,weiquanwang.org,PROXY
 HOST-SUFFIX,weisuo.ws,PROXY
-HOST-SUFFIX,weixinbridge.com,PROXY
 HOST-SUFFIX,weiyuksj.com,PROXY
 HOST-SUFFIX,weknowporn.com,PROXY
 HOST-SUFFIX,welcometobestbuy.ca,PROXY
