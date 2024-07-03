@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:25027
+# 规则统计:25028
 
 payload:
   - DOMAIN,adobeereg.com
@@ -68,6 +68,7 @@ payload:
   - DOMAIN,push-apple.com.akadns.net
   - DOMAIN,qualcomm.sc.omtrdc.net
   - DOMAIN,tesla-cdn.thron.com
+  - DOMAIN,translomatic.foxfortmobile.com
   - DOMAIN,vmware.tt.omtrdc.net
   - DOMAIN,vscode.search.windows.net
   - DOMAIN,vsmarketplacebadge.apphb.com
@@ -3482,6 +3483,7 @@ payload:
   - DOMAIN-SUFFIX,bookclubcorner.com
   - DOMAIN-SUFFIX,bookclubgirl.com
   - DOMAIN-SUFFIX,bookfi.net
+  - DOMAIN-SUFFIX,booking.com
   - DOMAIN-SUFFIX,booklive.jp
   - DOMAIN-SUFFIX,bookmark.xxx
   - DOMAIN-SUFFIX,bookmybridgestonetyre.com
@@ -24895,7 +24897,6 @@ payload:
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
-  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,instagram
