@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:25043
+# 规则统计:25055
 
 payload:
   - DOMAIN,adobeereg.com
@@ -4495,6 +4495,11 @@ payload:
   - DOMAIN-SUFFIX,cordcloud.org
   - DOMAIN-SUFFIX,coreduo.com
   - DOMAIN-SUFFIX,coreextreme.com
+  - DOMAIN-SUFFIX,corel.com
+  - DOMAIN-SUFFIX,corel.net
+  - DOMAIN-SUFFIX,coreldraw.app
+  - DOMAIN-SUFFIX,coreldraw.com
+  - DOMAIN-SUFFIX,corelstore.com
   - DOMAIN-SUFFIX,coreml.net
   - DOMAIN-SUFFIX,coreoptics.net
   - DOMAIN-SUFFIX,corepublishingsolutions.com
@@ -8403,6 +8408,7 @@ payload:
   - DOMAIN-SUFFIX,homestylerapp.com
   - DOMAIN-SUFFIX,homestylernews.com
   - DOMAIN-SUFFIX,hometrack.com.au
+  - DOMAIN-SUFFIX,hominis.media
   - DOMAIN-SUFFIX,homo.xxx
   - DOMAIN-SUFFIX,honawalaan.com
   - DOMAIN-SUFFIX,honestpornreviews.com
@@ -9958,6 +9964,8 @@ payload:
   - DOMAIN-SUFFIX,jquerymobile.com
   - DOMAIN-SUFFIX,jr24h.com
   - DOMAIN-SUFFIX,js.org
+  - DOMAIN-SUFFIX,jsati.com
+  - DOMAIN-SUFFIX,jsatmobile.com
   - DOMAIN-SUFFIX,jsbridgestone.com
   - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,jstage.jst.go.jp
@@ -15182,6 +15190,8 @@ payload:
   - DOMAIN-SUFFIX,skype.net
   - DOMAIN-SUFFIX,skypeassets.com
   - DOMAIN-SUFFIX,skypeassets.net
+  - DOMAIN-SUFFIX,skyperfectjsat.space
+  - DOMAIN-SUFFIX,skyperfectv.co.jp
   - DOMAIN-SUFFIX,skyporn.online
   - DOMAIN-SUFFIX,skysports.com
   - DOMAIN-SUFFIX,skysports.fr
@@ -15422,6 +15432,7 @@ payload:
   - DOMAIN-SUFFIX,spankmonster.com
   - DOMAIN-SUFFIX,spankred3d.com
   - DOMAIN-SUFFIX,sparknotes.com
+  - DOMAIN-SUFFIX,spcc-sp.com
   - DOMAIN-SUFFIX,spearhead.kr
   - DOMAIN-SUFFIX,specialtyheadphones.com
   - DOMAIN-SUFFIX,spectraltube.com
@@ -15468,6 +15479,7 @@ payload:
   - DOMAIN-SUFFIX,spring13.top
   - DOMAIN-SUFFIX,springernature.com
   - DOMAIN-SUFFIX,sprinklesapp.com
+  - DOMAIN-SUFFIX,sptvbroadcast.com
   - DOMAIN-SUFFIX,spyjinx.com
   - DOMAIN-SUFFIX,sqlite.org
   - DOMAIN-SUFFIX,sqlserveronlinux.com
