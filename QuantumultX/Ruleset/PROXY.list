@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25026
+# 规则统计:25034
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -1374,7 +1374,11 @@ HOST-SUFFIX,afriboyz.com,PROXY
 HOST-SUFFIX,aga-expo.com,PROXY
 HOST-SUFFIX,agag.tw,PROXY
 HOST-SUFFIX,age.tv,PROXY
+HOST-SUFFIX,agedm.app,PROXY
 HOST-SUFFIX,agedm.org,PROXY
+HOST-SUFFIX,agedm.tv,PROXY
+HOST-SUFFIX,agefans.com,PROXY
+HOST-SUFFIX,agemys.org,PROXY
 HOST-SUFFIX,agendaweek.com,PROXY
 HOST-SUFFIX,agnesb.fr,PROXY
 HOST-SUFFIX,agoogleaday.com,PROXY
@@ -2577,6 +2581,8 @@ HOST-SUFFIX,astm.org,PROXY
 HOST-SUFFIX,asto.re,PROXY
 HOST-SUFFIX,astrill.com,PROXY
 HOST-SUFFIX,asus.com,PROXY
+HOST-SUFFIX,asuscloud.com,PROXY
+HOST-SUFFIX,asuswebstorage.com,PROXY
 HOST-SUFFIX,atandt.com,PROXY
 HOST-SUFFIX,atc.org.au,PROXY
 HOST-SUFFIX,atchinese.com,PROXY
@@ -9904,8 +9910,10 @@ HOST-SUFFIX,gogle.com,PROXY
 HOST-SUFFIX,gogo-load.com,PROXY
 HOST-SUFFIX,gogoanime.vc,PROXY
 HOST-SUFFIX,gogoanime.wiki,PROXY
+HOST-SUFFIX,gogoanime3.co,PROXY
 HOST-SUFFIX,gogocdn.net,PROXY
 HOST-SUFFIX,gogole.com,PROXY
+HOST-SUFFIX,gogotaku.info,PROXY
 HOST-SUFFIX,gogotunnel.com,PROXY
 HOST-SUFFIX,gohappy.com.tw,PROXY
 HOST-SUFFIX,gohentai.net,PROXY

@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25026
+# 规则统计:25034
 
 payload:
   - '3dns-1.adobe.com'
@@ -1375,7 +1375,11 @@ payload:
   - '+.aga-expo.com'
   - '+.agag.tw'
   - '+.age.tv'
+  - '+.agedm.app'
   - '+.agedm.org'
+  - '+.agedm.tv'
+  - '+.agefans.com'
+  - '+.agemys.org'
   - '+.agendaweek.com'
   - '+.agnesb.fr'
   - '+.agoogleaday.com'
@@ -2578,6 +2582,8 @@ payload:
   - '+.asto.re'
   - '+.astrill.com'
   - '+.asus.com'
+  - '+.asuscloud.com'
+  - '+.asuswebstorage.com'
   - '+.atandt.com'
   - '+.atc.org.au'
   - '+.atchinese.com'
@@ -9905,8 +9911,10 @@ payload:
   - '+.gogo-load.com'
   - '+.gogoanime.vc'
   - '+.gogoanime.wiki'
+  - '+.gogoanime3.co'
   - '+.gogocdn.net'
   - '+.gogole.com'
+  - '+.gogotaku.info'
   - '+.gogotunnel.com'
   - '+.gohappy.com.tw'
   - '+.gohentai.net'

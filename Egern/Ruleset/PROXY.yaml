@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25026
+# 规则统计:25034
 
 domain_set:
   - 3dns-1.adobe.com
@@ -1376,7 +1376,11 @@ domain_suffix_set:
   - aga-expo.com
   - agag.tw
   - age.tv
+  - agedm.app
   - agedm.org
+  - agedm.tv
+  - agefans.com
+  - agemys.org
   - agendaweek.com
   - agnesb.fr
   - agoogleaday.com
@@ -2579,6 +2583,8 @@ domain_suffix_set:
   - asto.re
   - astrill.com
   - asus.com
+  - asuscloud.com
+  - asuswebstorage.com
   - atandt.com
   - atc.org.au
   - atchinese.com
@@ -9906,8 +9912,10 @@ domain_suffix_set:
   - gogo-load.com
   - gogoanime.vc
   - gogoanime.wiki
+  - gogoanime3.co
   - gogocdn.net
   - gogole.com
+  - gogotaku.info
   - gogotunnel.com
   - gohappy.com.tw
   - gohentai.net
