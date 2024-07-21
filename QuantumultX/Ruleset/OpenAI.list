@@ -1,5 +1,5 @@
 # 规则名称:OpenAI
-# 规则统计:18
+# 规则统计:21
 
 HOST-SUFFIX,api.statsig.com,OpenAI
 HOST-SUFFIX,auth0.com,OpenAI
@@ -19,3 +19,6 @@ HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
 HOST-SUFFIX,turn.livekit.cloud,OpenAI
 HOST-KEYWORD,openai,OpenAI
+HOST,cdn.usefathom.com,OpenAI
+HOST-SUFFIX,anthropic.com,OpenAI
+HOST-SUFFIX,claude.ai,OpenAI

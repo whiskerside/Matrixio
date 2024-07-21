@@ -1,5 +1,5 @@
 # 规则名称:OpenAI
-# 规则统计:18
+# 规则统计:21
 
 domain_suffix_set:
   - api.statsig.com
@@ -21,3 +21,7 @@ domain_suffix_set:
   - turn.livekit.cloud
 domain_keyword_set:
   - openai
+domain_set:
+  - cdn.usefathom.com
+  - anthropic.com
+  - claude.ai
