@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:25178
+# 规则统计:25180
 
 payload:
   - DOMAIN,adobeereg.com
@@ -9131,7 +9131,6 @@ payload:
   - DOMAIN-SUFFIX,imagebam.com
   - DOMAIN-SUFFIX,imagecurl.com
   - DOMAIN-SUFFIX,imagecurl.org
-  - DOMAIN-SUFFIX,imageglass.org
   - DOMAIN-SUFFIX,imagemodeler.com
   - DOMAIN-SUFFIX,imagepost.com
   - DOMAIN-SUFFIX,imageshack.com
@@ -19561,6 +19560,7 @@ payload:
   - DOMAIN-SUFFIX,axureformac.com
   - DOMAIN-SUFFIX,azerbaycan.tv
   - DOMAIN-SUFFIX,azerimix.com
+  - DOMAIN-SUFFIX,azirevpn.com
   - DOMAIN-SUFFIX,azubu.tv
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,azureedge.net
@@ -20130,6 +20130,7 @@ payload:
   - DOMAIN-SUFFIX,clyp.it
   - DOMAIN-SUFFIX,cmail19.com
   - DOMAIN-SUFFIX,cmcn.org
+  - DOMAIN-SUFFIX,cmegroup.com
   - DOMAIN-SUFFIX,cmi.org.tw
   - DOMAIN-SUFFIX,cmoinc.org
   - DOMAIN-SUFFIX,cms.gov
@@ -21596,6 +21597,7 @@ payload:
   - DOMAIN-SUFFIX,imageab.com
   - DOMAIN-SUFFIX,imagefap.com
   - DOMAIN-SUFFIX,imageflea.com
+  - DOMAIN-SUFFIX,imageglass.org
   - DOMAIN-SUFFIX,images-gaytube.com
   - DOMAIN-SUFFIX,imageshack.us
   - DOMAIN-SUFFIX,imagevenue.com
