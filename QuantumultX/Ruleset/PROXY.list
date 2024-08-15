@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25167
+# 规则统计:25175
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -1929,8 +1929,10 @@ HOST-SUFFIX,and,PROXY
 HOST-SUFFIX,andfaraway.net,PROXY
 HOST-SUFFIX,android-x86.org,PROXY
 HOST-SUFFIX,android.com,PROXY
+HOST-SUFFIX,androidauthority.com,PROXY
 HOST-SUFFIX,androidify.com,PROXY
 HOST-SUFFIX,androidplus.co,PROXY
+HOST-SUFFIX,androidpolice.com,PROXY
 HOST-SUFFIX,androidtv.com,PROXY
 HOST-SUFFIX,andygod.com,PROXY
 HOST-SUFFIX,andysparis.com,PROXY
@@ -5509,7 +5511,6 @@ HOST-SUFFIX,chinese-memorial.org,PROXY
 HOST-SUFFIX,chinese-porn-videos.com,PROXY
 HOST-SUFFIX,chinese-xnxx.com,PROXY
 HOST-SUFFIX,chinese.donga.com,PROXY
-HOST-SUFFIX,chinese.engadget.com,PROXY
 HOST-SUFFIX,chinese.irib.ir,PROXY
 HOST-SUFFIX,chinese.soifind.com,PROXY
 HOST-SUFFIX,chinesedaily.com,PROXY
@@ -6304,7 +6305,6 @@ HOST-SUFFIX,dalailama-archives.org,PROXY
 HOST-SUFFIX,dalailama.com,PROXY
 HOST-SUFFIX,dalailama.mn,PROXY
 HOST-SUFFIX,dalailama.ru,PROXY
-HOST-SUFFIX,dalailama.usc.edu,PROXY
 HOST-SUFFIX,dalailama80.org,PROXY
 HOST-SUFFIX,dalailamacenter.org,PROXY
 HOST-SUFFIX,dalailamafellows.org,PROXY
@@ -6635,6 +6635,7 @@ HOST-SUFFIX,digitalpack.com,PROXY
 HOST-SUFFIX,digitalplayground.com,PROXY
 HOST-SUFFIX,digitalplaygroundnetwork.com,PROXY
 HOST-SUFFIX,digitalprototyping.com,PROXY
+HOST-SUFFIX,digitaltrends.com,PROXY
 HOST-SUFFIX,diigo.com,PROXY
 HOST-SUFFIX,dilber.se,PROXY
 HOST-SUFFIX,dilcdn.com,PROXY
@@ -7761,6 +7762,7 @@ HOST-SUFFIX,enfamil.es,PROXY
 HOST-SUFFIX,enfamil.pl,PROXY
 HOST-SUFFIX,enfamil.pt,PROXY
 HOST-SUFFIX,enfasmart.com,PROXY
+HOST-SUFFIX,engadget.com,PROXY
 HOST-SUFFIX,engagedaily.org,PROXY
 HOST-SUFFIX,engineeringvillage.com,PROXY
 HOST-SUFFIX,englishforeveryone.org,PROXY
@@ -20529,6 +20531,7 @@ HOST-SUFFIX,store-bridgestonesports.com,PROXY
 HOST-SUFFIX,storesense.com,PROXY
 HOST-SUFFIX,storiesonline.net,PROXY
 HOST-SUFFIX,storify.com,PROXY
+HOST-SUFFIX,storj.io,PROXY
 HOST-SUFFIX,storm.mg,PROXY
 HOST-SUFFIX,stormmediagroup.com,PROXY
 HOST-SUFFIX,storyful.com,PROXY
@@ -20944,6 +20947,7 @@ HOST-SUFFIX,techliquidators.com,PROXY
 HOST-SUFFIX,technews.tw,PROXY
 HOST-SUFFIX,technics.com,PROXY
 HOST-SUFFIX,technologyandsociety.org,PROXY
+HOST-SUFFIX,techradar.com,PROXY
 HOST-SUFFIX,techspot.com,PROXY
 HOST-SUFFIX,techstreet.com,PROXY
 HOST-SUFFIX,techtimes.com,PROXY
@@ -21506,6 +21510,7 @@ HOST-SUFFIX,tokyotosho.info,PROXY
 HOST-SUFFIX,tokyotosho.se,PROXY
 HOST-SUFFIX,tomatespodres.com,PROXY
 HOST-SUFFIX,tomonews.net,PROXY
+HOST-SUFFIX,tomsguide.com,PROXY
 HOST-SUFFIX,tonec.com,PROXY
 HOST-SUFFIX,tongil.or.kr,PROXY
 HOST-SUFFIX,tonicmovies.com,PROXY
@@ -22197,6 +22202,7 @@ HOST-SUFFIX,usaco.org,PROXY
 HOST-SUFFIX,usaip.eu,PROXY
 HOST-SUFFIX,usatoday.com,PROXY
 HOST-SUFFIX,usatodaynetworkservice.com,PROXY
+HOST-SUFFIX,uscardforum.com,PROXY
 HOST-SUFFIX,uscnpm.org,PROXY
 HOST-SUFFIX,uselessjunk.com,PROXY
 HOST-SUFFIX,useplannr.com,PROXY
@@ -24987,7 +24993,9 @@ HOST-SUFFIX,zb.live,PROXY
 HOST-SUFFIX,zbporn.com,PROXY
 HOST-SUFFIX,zctb.buzz,PROXY
 HOST-SUFFIX,zdassets.com,PROXY
+HOST-SUFFIX,zdnet.com,PROXY
 HOST-SUFFIX,zdnet.com.tw,PROXY
+HOST-SUFFIX,zdnet.redvideo.io,PROXY
 HOST-SUFFIX,zdusercontent.com,PROXY
 HOST-SUFFIX,zee.com,PROXY
 HOST-SUFFIX,zee5.com,PROXY
