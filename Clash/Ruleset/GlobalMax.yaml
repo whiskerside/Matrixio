@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:25206
+# 规则统计:25214
 
 payload:
   - DOMAIN,adobeereg.com
@@ -1291,6 +1291,8 @@ payload:
   - DOMAIN-SUFFIX,anatomy.tv
   - DOMAIN-SUFFIX,anb.org
   - DOMAIN-SUFFIX,ancensored.com
+  - DOMAIN-SUFFIX,androidauthority.com
+  - DOMAIN-SUFFIX,androidpolice.com
   - DOMAIN-SUFFIX,andysparis.com
   - DOMAIN-SUFFIX,anfutong.com
   - DOMAIN-SUFFIX,angel-gto.com
@@ -16057,6 +16059,7 @@ payload:
   - DOMAIN-SUFFIX,techliquidators.com
   - DOMAIN-SUFFIX,technics.com
   - DOMAIN-SUFFIX,technologyandsociety.org
+  - DOMAIN-SUFFIX,techradar.com
   - DOMAIN-SUFFIX,techstreet.com
   - DOMAIN-SUFFIX,techtimes.com
   - DOMAIN-SUFFIX,ted.com
@@ -16412,6 +16415,7 @@ payload:
   - DOMAIN-SUFFIX,tokyotosho.se
   - DOMAIN-SUFFIX,tomatespodres.com
   - DOMAIN-SUFFIX,tomovie.net
+  - DOMAIN-SUFFIX,tomsguide.com
   - DOMAIN-SUFFIX,tonec.com
   - DOMAIN-SUFFIX,tonicmovies.com
   - DOMAIN-SUFFIX,toolforge.org
@@ -19045,6 +19049,8 @@ payload:
   - DOMAIN-SUFFIX,zbporn.com
   - DOMAIN-SUFFIX,zctb.buzz
   - DOMAIN-SUFFIX,zdassets.com
+  - DOMAIN-SUFFIX,zdnet.com
+  - DOMAIN-SUFFIX,zdnet.redvideo.io
   - DOMAIN-SUFFIX,zdusercontent.com
   - DOMAIN-SUFFIX,zee.com
   - DOMAIN-SUFFIX,zee5.com
@@ -23716,6 +23722,7 @@ payload:
   - DOMAIN-SUFFIX,stoptibetcrisis.net
   - DOMAIN-SUFFIX,storagenewsletter.com
   - DOMAIN-SUFFIX,storify.com
+  - DOMAIN-SUFFIX,storj.io
   - DOMAIN-SUFFIX,storm.mg
   - DOMAIN-SUFFIX,stormmediagroup.com
   - DOMAIN-SUFFIX,stoweboyd.com
@@ -24395,6 +24402,7 @@ payload:
   - DOMAIN-SUFFIX,usacn.com
   - DOMAIN-SUFFIX,usaip.eu
   - DOMAIN-SUFFIX,usc.edu
+  - DOMAIN-SUFFIX,uscardforum.com
   - DOMAIN-SUFFIX,uscnpm.org
   - DOMAIN-SUFFIX,usembassy.gov
   - DOMAIN-SUFFIX,usertrust.com
