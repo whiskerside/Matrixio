@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25175
+# 规则统计:25178
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -22,6 +22,7 @@ HOST,adobe-dns-3.adobe.com,PROXY
 HOST,adobe-dns-4.adobe.com,PROXY
 HOST,adobe-dns.adobe.com,PROXY
 HOST,adobeereg.com,PROXY
+HOST,alkalimakersuite-pa.clients6.google.com,PROXY
 HOST,alt1-mtalk.google.com,PROXY
 HOST,alt2-mtalk.google.com,PROXY
 HOST,alt3-mtalk.google.com,PROXY
@@ -303,6 +304,7 @@ HOST,scholar.google.sk,PROXY
 HOST,scholar.googleusercontent.com,PROXY
 HOST,scholar.l.google.com,PROXY
 HOST,sentry.ppy.sh,PROXY
+HOST,servd-anthropic-website.b-cdn.net,PROXY
 HOST,sni1dcb6gl.wpc.edgecastcdn.net,PROXY
 HOST,spectator.ppy.sh,PROXY
 HOST,spotify.com.edgesuite.net,PROXY
@@ -23846,6 +23848,7 @@ HOST-SUFFIX,x-berry.com,PROXY
 HOST-SUFFIX,x-caprice.com,PROXY
 HOST-SUFFIX,x-fetish.org,PROXY
 HOST-SUFFIX,x-wall.org,PROXY
+HOST-SUFFIX,x.ai,PROXY
 HOST-SUFFIX,x.co,PROXY
 HOST-SUFFIX,x.com,PROXY
 HOST-SUFFIX,x.company,PROXY
