@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25175
+# 规则统计:25182
 
 domain_set:
   - 3dns-1.adobe.com
@@ -23,6 +23,8 @@ domain_set:
   - adobe-dns-4.adobe.com
   - adobe-dns.adobe.com
   - adobeereg.com
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - alt1-mtalk.google.com
   - alt2-mtalk.google.com
@@ -1079,6 +1081,7 @@ domain_suffix_set:
   - abema-tv.com
   - abema.io
   - abema.tv
+  - abematv.co.jp
   - abgsp1.buzz
   - abigass.com
   - abitno.linpie.com
@@ -1409,6 +1412,7 @@ domain_suffix_set:
   - ai-kan.net
   - ai-wen.net
   - ai.binwang.me
+  - ai.com
   - ai7995.site
   - ai91porn.cc
   - aiaa.org
@@ -5695,6 +5699,7 @@ domain_suffix_set:
   - clinicalkey.com
   - clip16.com
   - clipcake.com
+  - clipdrop.co
   - clipfish.de
   - cliphayho.com
   - cliphunter.com
@@ -6617,6 +6622,7 @@ domain_suffix_set:
   - didimobility.co.jp
   - dierectv.com
   - difangwenge.org
+  - dify.ai
   - digicert-cn.com
   - digicert-validation.com
   - digicert.com
@@ -12735,6 +12741,7 @@ domain_suffix_set:
   - jasa3dmax.com
   - jasaautocad.com
   - jasmin.com
+  - jasper.ai
   - jav-angel.net
   - jav-subtitles.com
   - jav-vr.net

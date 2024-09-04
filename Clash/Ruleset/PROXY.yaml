@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25175
+# 规则统计:25182
 
 payload:
   - '3dns-1.adobe.com'
@@ -23,6 +23,8 @@ payload:
   - 'adobe-dns-4.adobe.com'
   - 'adobe-dns.adobe.com'
   - 'adobeereg.com'
+  - 'ai.google.dev'
+  - 'alkalicore-pa.clients6.google.com'
   - 'alkalimakersuite-pa.clients6.google.com'
   - 'alt1-mtalk.google.com'
   - 'alt2-mtalk.google.com'
@@ -1078,6 +1080,7 @@ payload:
   - '+.abema-tv.com'
   - '+.abema.io'
   - '+.abema.tv'
+  - '+.abematv.co.jp'
   - '+.abgsp1.buzz'
   - '+.abigass.com'
   - '+.abitno.linpie.com'
@@ -1408,6 +1411,7 @@ payload:
   - '+.ai-kan.net'
   - '+.ai-wen.net'
   - '+.ai.binwang.me'
+  - '+.ai.com'
   - '+.ai7995.site'
   - '+.ai91porn.cc'
   - '+.aiaa.org'
@@ -5694,6 +5698,7 @@ payload:
   - '+.clinicalkey.com'
   - '+.clip16.com'
   - '+.clipcake.com'
+  - '+.clipdrop.co'
   - '+.clipfish.de'
   - '+.cliphayho.com'
   - '+.cliphunter.com'
@@ -6616,6 +6621,7 @@ payload:
   - '+.didimobility.co.jp'
   - '+.dierectv.com'
   - '+.difangwenge.org'
+  - '+.dify.ai'
   - '+.digicert-cn.com'
   - '+.digicert-validation.com'
   - '+.digicert.com'
@@ -12734,6 +12740,7 @@ payload:
   - '+.jasa3dmax.com'
   - '+.jasaautocad.com'
   - '+.jasmin.com'
+  - '+.jasper.ai'
   - '+.jav-angel.net'
   - '+.jav-subtitles.com'
   - '+.jav-vr.net'
