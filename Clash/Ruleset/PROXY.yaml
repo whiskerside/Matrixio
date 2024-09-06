@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25182
+# 规则统计:25178
 
 payload:
   - '3dns-1.adobe.com'
@@ -338,7 +338,6 @@ payload:
   - 'ubisoft-uplay-savegames.s3.amazonaws.com'
   - 'ubistatic3-a.akamaihd.net'
   - 'ulrichsweb.serialssolutions.com'
-  - 'upos-hz-mirrorakam.akamaized.net'
   - 've-dash-uk-live.akamaized.net'
   - 've-uhd-push-uk-live.akamaized.net'
   - 'venmo.s3.amazonaws.com'
@@ -3727,8 +3726,6 @@ payload:
   - '+.bili2.cc'
   - '+.bili888.com'
   - '+.bili999.com'
-  - '+.bilibili.tv'
-  - '+.biliintl.com'
   - '+.biliplus.com'
   - '+.biliworld.com'
   - '+.bill-safe.com'
@@ -7065,7 +7062,6 @@ payload:
   - '+.drdreprobeatssale.com'
   - '+.dreamamateurs.com'
   - '+.dreambmw.ca'
-  - '+.dreamcast.hk'
   - '+.dreamforce.com'
   - '+.dreammovies.com'
   - '+.dreamteamfc.com'
@@ -12559,7 +12555,6 @@ payload:
   - '+.iptv.com.tw'
   - '+.iptvbin.com'
   - '+.ipvanish.com'
-  - '+.iq.com'
   - '+.iqiyiavlive.buzz'
   - '+.iqq2.cc'
   - '+.iqq3.cc'
@@ -14771,6 +14766,7 @@ payload:
   - '+.mindrolling.org'
   - '+.minecraft.net'
   - '+.minecraft.wiki'
+  - '+.minecraftservices.com'
   - '+.minecraftshop.com'
   - '+.mingdemedia.org'
   - '+.minghui-a.org'
