@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:25224
+# 规则统计:25225
 
 payload:
   - DOMAIN,adobeereg.com
@@ -11333,6 +11333,7 @@ payload:
   - DOMAIN-SUFFIX,mindmeld.com
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,minecraft.wiki
+  - DOMAIN-SUFFIX,minecraftservices.com
   - DOMAIN-SUFFIX,minecraftshop.com
   - DOMAIN-SUFFIX,minghui.org
   - DOMAIN-SUFFIX,mingky.org
