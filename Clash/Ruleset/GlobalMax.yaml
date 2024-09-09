@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:25225
+# 规则统计:25226
 
 payload:
   - DOMAIN,adobeereg.com
@@ -8328,6 +8328,7 @@ payload:
   - DOMAIN-SUFFIX,herringnetwork.com
   - DOMAIN-SUFFIX,hetzner.cloud
   - DOMAIN-SUFFIX,hetzner.com
+  - DOMAIN-SUFFIX,hetzner.company
   - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,hex.pm
   - DOMAIN-SUFFIX,hexatronik.com

@@ -2,9 +2,9 @@
 # 规则统计:11
 
 payload:
-  - DOMAIN,admin.shopify.com
-  - DOMAIN,shops.shopify.com
-  - DOMAIN,partners.shopify.com
+#DOMAIN,admin.shopify.com
+#DOMAIN,shops.shopify.com
+#DOMAIN,partners.shopify.com
   - DOMAIN,otlp-http-production.shopifysvc.com
   - DOMAIN,otlp-http-production-cli.shopifysvc.com
   - DOMAIN-SUFFIX,shopifysvc.com
