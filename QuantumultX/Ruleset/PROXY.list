@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:30809
+# 规则统计:30829
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -173,6 +173,7 @@ HOST,gamer2-cds.cdn.hinet.net,PROXY
 HOST,gigabyte2.azureedge.net,PROXY
 HOST,github-cloud.s3.amazonaws.com,PROXY
 HOST,gitlab-assets.oss-cn-hongkong.aliyuncs.com,PROXY
+HOST,google-ohttp-relay-safebrowsing.fastly-edge.com,PROXY
 HOST,hamivideo.hinet.net,PROXY
 HOST,hammerandchisel.ssl.zendesk.com,PROXY
 HOST,heads-ak-spotify-com.akamaized.net,PROXY
@@ -1491,6 +1492,7 @@ HOST-SUFFIX,aerospace-training-wales.ac.uk,PROXY
 HOST-SUFFIX,aes.ac.uk,PROXY
 HOST-SUFFIX,aesworkshops.com,PROXY
 HOST-SUFFIX,aex.com,PROXY
+HOST-SUFFIX,af-north-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,af-south-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,af.mil,PROXY
 HOST-SUFFIX,afantibbs.com,PROXY
@@ -2089,6 +2091,7 @@ HOST-SUFFIX,amof.ac.uk,PROXY
 HOST-SUFFIX,amoiist.com,PROXY
 HOST-SUFFIX,amourangels.com,PROXY
 HOST-SUFFIX,amp.dev,PROXY
+HOST-SUFFIX,amplifi.com,PROXY
 HOST-SUFFIX,amplifyapp.com,PROXY
 HOST-SUFFIX,amplifyframework.com,PROXY
 HOST-SUFFIX,ampproject.com,PROXY
@@ -6737,6 +6740,7 @@ HOST-SUFFIX,classicnike.com,PROXY
 HOST-SUFFIX,classics.ac.uk,PROXY
 HOST-SUFFIX,classymomsex.com,PROXY
 HOST-SUFFIX,claude.ai,PROXY
+HOST-SUFFIX,claudeusercontent.com,PROXY
 HOST-SUFFIX,clb.org.hk,PROXY
 HOST-SUFFIX,clc-london.ac.uk,PROXY
 HOST-SUFFIX,clco.cc,PROXY
@@ -9956,6 +9960,7 @@ HOST-SUFFIX,facebook.br,PROXY
 HOST-SUFFIX,facebook.ca,PROXY
 HOST-SUFFIX,facebook.cc,PROXY
 HOST-SUFFIX,facebook.com,PROXY
+HOST-SUFFIX,facebook.de,PROXY
 HOST-SUFFIX,facebook.design,PROXY
 HOST-SUFFIX,facebook.hu,PROXY
 HOST-SUFFIX,facebook.in,PROXY
@@ -10331,8 +10336,10 @@ HOST-SUFFIX,fastestvpn.com,PROXY
 HOST-SUFFIX,fastindianporn.com,PROXY
 HOST-SUFFIX,fastlane.ci,PROXY
 HOST-SUFFIX,fastlane.tools,PROXY
+HOST-SUFFIX,fastly-edge.com,PROXY
 HOST-SUFFIX,fastly-terrarium.com,PROXY
 HOST-SUFFIX,fastly.com,PROXY
+HOST-SUFFIX,fastly.io,PROXY
 HOST-SUFFIX,fastly.net,PROXY
 HOST-SUFFIX,fastlylabs.com,PROXY
 HOST-SUFFIX,fastlylb.net,PROXY
@@ -11189,6 +11196,7 @@ HOST-SUFFIX,frontier.ac.uk,PROXY
 HOST-SUFFIX,frontiersin.org,PROXY
 HOST-SUFFIX,frontiersofoncology.ac.uk,PROXY
 HOST-SUFFIX,frontlinedefenders.org,PROXY
+HOST-SUFFIX,frontrow.com,PROXY
 HOST-SUFFIX,froogle.com,PROXY
 HOST-SUFFIX,frootvpn.com,PROXY
 HOST-SUFFIX,frostbite.com,PROXY
@@ -11787,6 +11795,7 @@ HOST-SUFFIX,github.dev,PROXY
 HOST-SUFFIX,github.io,PROXY
 HOST-SUFFIX,githubapp.com,PROXY
 HOST-SUFFIX,githubassets.com,PROXY
+HOST-SUFFIX,githubcopilot.com,PROXY
 HOST-SUFFIX,githubhackathon.com,PROXY
 HOST-SUFFIX,githubnext.com,PROXY
 HOST-SUFFIX,githubpreview.dev,PROXY
@@ -13732,6 +13741,7 @@ HOST-SUFFIX,https443.org,PROXY
 HOST-SUFFIX,httpsfacebook.com,PROXY
 HOST-SUFFIX,httpwwwfacebook.com,PROXY
 HOST-SUFFIX,htvncdn.net,PROXY
+HOST-SUFFIX,htx.com,PROXY
 HOST-SUFFIX,htyj-bj.com,PROXY
 HOST-SUFFIX,hu1u.com,PROXY
 HOST-SUFFIX,hua-yue.net,PROXY
@@ -18712,6 +18722,7 @@ HOST-SUFFIX,mxmcdn.net,PROXY
 HOST-SUFFIX,mxshm.site,PROXY
 HOST-SUFFIX,my-enema.com,PROXY
 HOST-SUFFIX,my-formosa.com,PROXY
+HOST-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,my-magazine.me,PROXY
 HOST-SUFFIX,my-private-network.co.uk,PROXY
 HOST-SUFFIX,my-proxy.com,PROXY
@@ -23227,6 +23238,7 @@ HOST-SUFFIX,rti.org.tw,PROXY
 HOST-SUFFIX,rti.tw,PROXY
 HOST-SUFFIX,rtings.com,PROXY
 HOST-SUFFIX,rtycminnesota.org,PROXY
+HOST-SUFFIX,ru-moscow-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ru-northwest-2.myhuaweicloud.com,PROXY
 HOST-SUFFIX,rua-project.ac.uk,PROXY
 HOST-SUFFIX,ruanyifeng.com,PROXY
@@ -24278,6 +24290,7 @@ HOST-SUFFIX,signal.art,PROXY
 HOST-SUFFIX,signal.org,PROXY
 HOST-SUFFIX,signalbar.com,PROXY
 HOST-SUFFIX,signalprocessingsociety.org,PROXY
+HOST-SUFFIX,signalr.net,PROXY
 HOST-SUFFIX,signalusers.org,PROXY
 HOST-SUFFIX,sihe.ac.uk,PROXY
 HOST-SUFFIX,sijihuisuo.club,PROXY
@@ -26613,6 +26626,7 @@ HOST-SUFFIX,torrentproject.se,PROXY
 HOST-SUFFIX,torrenty.org,PROXY
 HOST-SUFFIX,torrentz.eu,PROXY
 HOST-SUFFIX,torrindex.net,PROXY
+HOST-SUFFIX,tortoisesvn.net,PROXY
 HOST-SUFFIX,torvpn.com,PROXY
 HOST-SUFFIX,tosh.comedycentral.com,PROXY
 HOST-SUFFIX,tospo-keiba.jp,PROXY
@@ -27160,6 +27174,7 @@ HOST-SUFFIX,ubi.com,PROXY
 HOST-SUFFIX,ubisoft.com,PROXY
 HOST-SUFFIX,ubisoftconnect.com,PROXY
 HOST-SUFFIX,ubn.ac.uk,PROXY
+HOST-SUFFIX,ubncloud.com,PROXY
 HOST-SUFFIX,ubnw.net,PROXY
 HOST-SUFFIX,ubuntu-touch.io,PROXY
 HOST-SUFFIX,ubuntu.com,PROXY
@@ -27254,10 +27269,12 @@ HOST-SUFFIX,uhr.ac.uk,PROXY
 HOST-SUFFIX,uhrp.org,PROXY
 HOST-SUFFIX,uhsl.ac.uk,PROXY
 HOST-SUFFIX,uhub.com,PROXY
+HOST-SUFFIX,ui.com,PROXY
 HOST-SUFFIX,uighur.narod.ru,PROXY
 HOST-SUFFIX,uighur.nl,PROXY
 HOST-SUFFIX,uighurbiz.net,PROXY
 HOST-SUFFIX,uiporn.com,PROXY
+HOST-SUFFIX,uisp.com,PROXY
 HOST-SUFFIX,ujapanesesex.com,PROXY
 HOST-SUFFIX,ujizzcn.com,PROXY
 HOST-SUFFIX,uk-cdi.ac.uk,PROXY
@@ -28218,6 +28235,7 @@ HOST-SUFFIX,vk.com,PROXY
 HOST-SUFFIX,vk.design,PROXY
 HOST-SUFFIX,vk.link,PROXY
 HOST-SUFFIX,vk.me,PROXY
+HOST-SUFFIX,vk.ru,PROXY
 HOST-SUFFIX,vkcache.com,PROXY
 HOST-SUFFIX,vkgo.app,PROXY
 HOST-SUFFIX,vklive.app,PROXY
@@ -29009,6 +29027,7 @@ HOST-SUFFIX,wifesharingpics.com,PROXY
 HOST-SUFFIX,wifevideos.net,PROXY
 HOST-SUFFIX,wifewantstoplay.com,PROXY
 HOST-SUFFIX,wifi-mx.com,PROXY
+HOST-SUFFIX,wifiman.com,PROXY
 HOST-SUFFIX,wigan-leigh.ac.uk,PROXY
 HOST-SUFFIX,wigs.ac.uk,PROXY
 HOST-SUFFIX,wigstoncollege.ac.uk,PROXY
@@ -30653,6 +30672,7 @@ HOST-SUFFIX,zencdn.net,PROXY
 HOST-SUFFIX,zencoder.com,PROXY
 HOST-SUFFIX,zendesk.com,PROXY
 HOST-SUFFIX,zengjinyan.org,PROXY
+HOST-SUFFIX,zenlesszonezero.com,PROXY
 HOST-SUFFIX,zenmate.com,PROXY
 HOST-SUFFIX,zenmate.com.ru,PROXY
 HOST-SUFFIX,zenodo.org,PROXY

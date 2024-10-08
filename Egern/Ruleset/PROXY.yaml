@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:30809
+# 规则统计:30829
 
 domain_set:
   - 3dns-1.adobe.com
@@ -174,6 +174,7 @@ domain_set:
   - gigabyte2.azureedge.net
   - github-cloud.s3.amazonaws.com
   - gitlab-assets.oss-cn-hongkong.aliyuncs.com
+  - google-ohttp-relay-safebrowsing.fastly-edge.com
   - hamivideo.hinet.net
   - hammerandchisel.ssl.zendesk.com
   - heads-ak-spotify-com.akamaized.net
@@ -1493,6 +1494,7 @@ domain_suffix_set:
   - aes.ac.uk
   - aesworkshops.com
   - aex.com
+  - af-north-1.myhuaweicloud.com
   - af-south-1.myhuaweicloud.com
   - af.mil
   - afantibbs.com
@@ -2091,6 +2093,7 @@ domain_suffix_set:
   - amoiist.com
   - amourangels.com
   - amp.dev
+  - amplifi.com
   - amplifyapp.com
   - amplifyframework.com
   - ampproject.com
@@ -6739,6 +6742,7 @@ domain_suffix_set:
   - classics.ac.uk
   - classymomsex.com
   - claude.ai
+  - claudeusercontent.com
   - clb.org.hk
   - clc-london.ac.uk
   - clco.cc
@@ -9958,6 +9962,7 @@ domain_suffix_set:
   - facebook.ca
   - facebook.cc
   - facebook.com
+  - facebook.de
   - facebook.design
   - facebook.hu
   - facebook.in
@@ -10333,8 +10338,10 @@ domain_suffix_set:
   - fastindianporn.com
   - fastlane.ci
   - fastlane.tools
+  - fastly-edge.com
   - fastly-terrarium.com
   - fastly.com
+  - fastly.io
   - fastly.net
   - fastlylabs.com
   - fastlylb.net
@@ -11191,6 +11198,7 @@ domain_suffix_set:
   - frontiersin.org
   - frontiersofoncology.ac.uk
   - frontlinedefenders.org
+  - frontrow.com
   - froogle.com
   - frootvpn.com
   - frostbite.com
@@ -11789,6 +11797,7 @@ domain_suffix_set:
   - github.io
   - githubapp.com
   - githubassets.com
+  - githubcopilot.com
   - githubhackathon.com
   - githubnext.com
   - githubpreview.dev
@@ -13734,6 +13743,7 @@ domain_suffix_set:
   - httpsfacebook.com
   - httpwwwfacebook.com
   - htvncdn.net
+  - htx.com
   - htyj-bj.com
   - hu1u.com
   - hua-yue.net
@@ -18714,6 +18724,7 @@ domain_suffix_set:
   - mxshm.site
   - my-enema.com
   - my-formosa.com
+  - my-kualalumpur-1.myhuaweicloud.com
   - my-magazine.me
   - my-private-network.co.uk
   - my-proxy.com
@@ -23229,6 +23240,7 @@ domain_suffix_set:
   - rti.tw
   - rtings.com
   - rtycminnesota.org
+  - ru-moscow-1.myhuaweicloud.com
   - ru-northwest-2.myhuaweicloud.com
   - rua-project.ac.uk
   - ruanyifeng.com
@@ -24280,6 +24292,7 @@ domain_suffix_set:
   - signal.org
   - signalbar.com
   - signalprocessingsociety.org
+  - signalr.net
   - signalusers.org
   - sihe.ac.uk
   - sijihuisuo.club
@@ -26615,6 +26628,7 @@ domain_suffix_set:
   - torrenty.org
   - torrentz.eu
   - torrindex.net
+  - tortoisesvn.net
   - torvpn.com
   - tosh.comedycentral.com
   - tospo-keiba.jp
@@ -27162,6 +27176,7 @@ domain_suffix_set:
   - ubisoft.com
   - ubisoftconnect.com
   - ubn.ac.uk
+  - ubncloud.com
   - ubnw.net
   - ubuntu-touch.io
   - ubuntu.com
@@ -27256,10 +27271,12 @@ domain_suffix_set:
   - uhrp.org
   - uhsl.ac.uk
   - uhub.com
+  - ui.com
   - uighur.narod.ru
   - uighur.nl
   - uighurbiz.net
   - uiporn.com
+  - uisp.com
   - ujapanesesex.com
   - ujizzcn.com
   - uk-cdi.ac.uk
@@ -28220,6 +28237,7 @@ domain_suffix_set:
   - vk.design
   - vk.link
   - vk.me
+  - vk.ru
   - vkcache.com
   - vkgo.app
   - vklive.app
@@ -29011,6 +29029,7 @@ domain_suffix_set:
   - wifevideos.net
   - wifewantstoplay.com
   - wifi-mx.com
+  - wifiman.com
   - wigan-leigh.ac.uk
   - wigs.ac.uk
   - wigstoncollege.ac.uk
@@ -30655,6 +30674,7 @@ domain_suffix_set:
   - zencoder.com
   - zendesk.com
   - zengjinyan.org
+  - zenlesszonezero.com
   - zenmate.com
   - zenmate.com.ru
   - zenodo.org

@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:6193
+# 规则统计:6196
 
 payload:
   - '+.000webhost.com'
@@ -1664,6 +1664,7 @@ payload:
   - '+.fa.gov.tw'
   - '+.facebook.br'
   - '+.facebook.com'
+  - '+.facebook.de'
   - '+.facebook.design'
   - '+.facebook.hu'
   - '+.facebook.in'
@@ -3395,6 +3396,7 @@ payload:
   - '+.meshrep.com'
   - '+.mesotw.com'
   - '+.messenger.com'
+  - '+.meta.com'
   - '+.metacafe.com'
   - '+.metafilter.com'
   - '+.metart.com'
@@ -5202,6 +5204,7 @@ payload:
   - '+.torrentproject.se'
   - '+.torrenty.org'
   - '+.torrentz.eu'
+  - '+.tortoisesvn.net'
   - '+.torvpn.com'
   - '+.tosh.comedycentral.com'
   - '+.totalvpn.com'
