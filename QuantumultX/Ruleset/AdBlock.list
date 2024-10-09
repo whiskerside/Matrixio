@@ -1,5 +1,5 @@
 # 规则名称:AdBlock
-# 规则统计:98307
+# 规则统计:98319
 
 HOST-SUFFIX,000dn.com,REJECT
 HOST-SUFFIX,0013.cc,REJECT
@@ -12923,6 +12923,7 @@ HOST-SUFFIX,bhaoea.cn,REJECT
 HOST-SUFFIX,bharalhallahs.com,REJECT
 HOST-SUFFIX,bharsilked.com,REJECT
 HOST-SUFFIX,bhartianteact.com,REJECT
+HOST-SUFFIX,sentry.bhbapp.cn,REJECT
 HOST-SUFFIX,bhcont.com,REJECT
 HOST-SUFFIX,bhcostefja.com,REJECT
 HOST-SUFFIX,bhcumsc.com,REJECT
@@ -18173,6 +18174,7 @@ HOST-SUFFIX,x.china1715.com,REJECT
 HOST-SUFFIX,china99315.cn,REJECT
 HOST-SUFFIX,bdjsfl.chinabig.com.cn,REJECT
 HOST-SUFFIX,adsys.chinacloudapp.cn,REJECT
+HOST-SUFFIX,pcmactivity.chinacloudsites.cn,REJECT
 HOST-SUFFIX,chinacontraryintrepid.com,REJECT
 HOST-SUFFIX,sq1.chinacsky.com,REJECT
 HOST-SUFFIX,sq2.chinacsky.com,REJECT
@@ -35116,6 +35118,7 @@ HOST-SUFFIX,fztyrv.xyz,REJECT
 HOST-SUFFIX,zxr.fzxrjx.com,REJECT
 HOST-SUFFIX,e.fzyda.com,REJECT
 HOST-SUFFIX,m.fzyda.com,REJECT
+HOST-SUFFIX,simulatelab-datasink.fzzixun.com,REJECT
 HOST-SUFFIX,g--o.info,REJECT
 HOST-SUFFIX,g-content.bi,REJECT
 HOST-SUFFIX,smetrics.g-shock.com,REJECT
@@ -35707,6 +35710,9 @@ HOST-SUFFIX,smetrics.geeksquad.com,REJECT
 HOST-SUFFIX,geeksundigne.com,REJECT
 HOST-SUFFIX,link.sparrow.geekup.vn,REJECT
 HOST-SUFFIX,analytics.geekyminds.net,REJECT
+HOST-SUFFIX,cooper.geelark.cn,REJECT
+HOST-SUFFIX,datasink.geelark.cn,REJECT
+HOST-SUFFIX,datasink.geelark.com,REJECT
 HOST-SUFFIX,metrics.geelongadvertiser.com.au,REJECT
 HOST-SUFFIX,nsmetrics.geelongadvertiser.com.au,REJECT
 HOST-SUFFIX,geerairu.net,REJECT
@@ -51200,6 +51206,7 @@ HOST-SUFFIX,linkev.com,REJECT
 HOST-SUFFIX,linkexchange.com,REJECT
 HOST-SUFFIX,linkexchangers.net,REJECT
 HOST-SUFFIX,st.linkfire.com,REJECT
+HOST-SUFFIX,datasink.linkfox.com,REJECT
 HOST-SUFFIX,linkgrand.com,REJECT
 HOST-SUFFIX,linkhaitao.com,REJECT
 HOST-SUFFIX,linkifier.com,REJECT
@@ -54596,7 +54603,7 @@ HOST-SUFFIX,xiuxiu.android.dl.meitu.com,REJECT
 HOST-SUFFIX,report.meituan.com,REJECT
 HOST-SUFFIX,pubmsg.meituan.com,REJECT
 HOST-SUFFIX,analytics.meituan.net,REJECT
-HOST-SUFFIX,ata-sdk-uuid-report.dreport.meituan.net,REJECT
+HOST-SUFFIX,dreport.meituan.net,REJECT
 HOST-SUFFIX,xiuxiu.mobile.meitudata.com,REJECT
 HOST-SUFFIX,meitumq.com,REJECT
 HOST-SUFFIX,dc.meitustat.com,REJECT
@@ -82819,6 +82826,7 @@ HOST-SUFFIX,log.tpns.tencent.com,REJECT
 HOST-SUFFIX,ping.cloud.tencent.com,REJECT
 HOST-SUFFIX,sensors.cloud.tencent.com,REJECT
 HOST-SUFFIX,tpstelemetry.tencent.com,REJECT
+HOST-SUFFIX,report.meeting.tencent.com,REJECT
 HOST-SUFFIX,tencentmind.com,REJECT
 HOST-SUFFIX,ad.tencentmusic.com,REJECT
 HOST-SUFFIX,adcdn.tencentmusic.com,REJECT
@@ -96893,6 +96901,7 @@ HOST-SUFFIX,v1-ad.video.yximgs.com,REJECT
 HOST-SUFFIX,v2-ad.video.yximgs.com,REJECT
 HOST-SUFFIX,v3-ad.video.yximgs.com,REJECT
 HOST-SUFFIX,js-ad.a.yximgs.com,REJECT
+HOST-SUFFIX,tob-tracker.yximgs.com,REJECT
 HOST-SUFFIX,yxjnzydc.com,REJECT
 HOST-SUFFIX,yxkbgg.xyz,REJECT
 HOST-SUFFIX,yxkfaskdaybakf.com,REJECT
@@ -97567,6 +97576,9 @@ HOST-SUFFIX,m.zineworm.com,REJECT
 HOST-SUFFIX,bavvgo.zingat.com,REJECT
 HOST-SUFFIX,apps.zingeroo.com,REJECT
 HOST-SUFFIX,target.zinia.com,REJECT
+HOST-SUFFIX,datasink.ziniao.com,REJECT
+HOST-SUFFIX,logs-collect.ziniao.com,REJECT
+HOST-SUFFIX,test-cb-log.ziniao.com,REJECT
 HOST-SUFFIX,insights.zinio.com,REJECT
 HOST-SUFFIX,zinipx.xyz,REJECT
 HOST-SUFFIX,marketing.zinniawealth.com,REJECT
