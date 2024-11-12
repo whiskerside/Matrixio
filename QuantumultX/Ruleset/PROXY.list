@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:30881
+# 规则统计:30883
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -219,6 +219,8 @@ HOST,na1r.services.adobe.com,PROXY
 HOST,nab.demdex.net,PROXY
 HOST,nationalaustraliaban.tt.omtrdc.net,PROXY
 HOST,netflix.com.edgesuite.net,PROXY
+HOST,notary-submissions-prod.s3-accelerate.amazonaws.com,PROXY
+HOST,notary-submissions-prod.s3.us-west-2.amazonaws.com,PROXY
 HOST,notify.ppy.sh,PROXY
 HOST,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com,PROXY
 HOST,nvidia.tt.omtrdc.net,PROXY
