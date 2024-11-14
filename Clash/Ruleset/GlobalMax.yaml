@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:30887
+# 规则统计:30889
 
 payload:
   - DOMAIN,adobeereg.com
@@ -5064,6 +5064,7 @@ payload:
   - DOMAIN-SUFFIX,charticulator.com
   - DOMAIN-SUFFIX,chase.ac.uk
   - DOMAIN-SUFFIX,chasestudy.ac.uk
+  - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgptvideo.xyz
@@ -11257,6 +11258,7 @@ payload:
   - DOMAIN-SUFFIX,icit.ac.uk
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud-isupport.com
+  - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloud.de
