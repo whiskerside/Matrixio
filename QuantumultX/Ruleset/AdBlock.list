@@ -1,5 +1,5 @@
 # 规则名称:AdBlock
-# 规则统计:89518
+# 规则统计:89517
 
 HOST-SUFFIX,000dn.com,REJECT
 HOST-SUFFIX,0013.cc,REJECT
@@ -14916,6 +14916,7 @@ HOST-SUFFIX,dm.bytedance.com,REJECT
 HOST-SUFFIX,tnc3-aliec2.bytedance.com,REJECT
 HOST-SUFFIX,tnc3-alisc1.bytedance.com,REJECT
 HOST-SUFFIX,tnc3-bjlgy.bytedance.com,REJECT
+HOST-SUFFIX,mssdk-bu.bytedance.com,REJECT
 HOST-SUFFIX,p3-tt.byteimg.com,REJECT
 HOST-SUFFIX,p6-ad-sign.byteimg.com,REJECT
 HOST-SUFFIX,explore.bytelab.uk,REJECT
@@ -52402,7 +52403,6 @@ HOST-SUFFIX,tracker.mspy.com,REJECT
 HOST-SUFFIX,msre2lp.com,REJECT
 HOST-SUFFIX,msrehcmpeme.com,REJECT
 HOST-SUFFIX,msrvt.net,REJECT
-HOST-SUFFIX,mssdk-bu.bytedance.com,REJECT
 HOST-SUFFIX,mssheng.com,REJECT
 HOST-SUFFIX,mstrlytcs.com,REJECT
 HOST-SUFFIX,t.msubobcats.com,REJECT
@@ -63659,6 +63659,7 @@ HOST-SUFFIX,wnsmusic.qq.com,REJECT
 HOST-SUFFIX,tmeadbak.y.qq.com,REJECT
 HOST-SUFFIX,ugcup.music.qq.com,REJECT
 HOST-SUFFIX,ipv6.kg.qq.com,REJECT
+HOST-SUFFIX,log.node.minigame.qq.com,REJECT
 HOST-SUFFIX,wxaintpcos.wxqcloud.qq.com.cn,REJECT
 HOST-SUFFIX,dns.weixin.qq.com.cn,REJECT
 HOST-SUFFIX,qq167.com,REJECT
@@ -82376,8 +82377,6 @@ HOST-SUFFIX,vcardsdkservice.vivo.com.cn,REJECT
 HOST-SUFFIX,h5.vivo.com.cn,REJECT
 HOST-SUFFIX,browser.vivo.com.cn,REJECT
 HOST-SUFFIX,zhan.vivo.com.cn,REJECT
-HOST-SUFFIX,onewsvod.com,REJECT
-HOST-SUFFIX,yidianzixun.com,REJECT
 HOST-SUFFIX,vivocha.com,REJECT
 HOST-SUFFIX,tr.news.vivrecotesud.fr,REJECT
 HOST-SUFFIX,ea.vivus.es,REJECT
