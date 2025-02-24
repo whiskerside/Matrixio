@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31146
+# 规则统计:31147
 
 payload:
   - DOMAIN,adobeereg.com
@@ -10066,7 +10066,6 @@ payload:
   - DOMAIN-SUFFIX,grids.ac.uk
   - DOMAIN-SUFFIX,grimsby.ac.uk
   - DOMAIN-SUFFIX,grimsbytec.ac.uk
-  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grooby.com
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,groupfun.com
@@ -26014,6 +26013,7 @@ payload:
   - DOMAIN-SUFFIX,codeplex.com
   - DOMAIN-SUFFIX,codeshare.io
   - DOMAIN-SUFFIX,codeskulptor.org
+  - DOMAIN-SUFFIX,cofacts.tw
   - DOMAIN-SUFFIX,coin2co.in
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinbene.com
@@ -27087,6 +27087,7 @@ payload:
   - DOMAIN-SUFFIX,greenvpn.net
   - DOMAIN-SUFFIX,greenvpn.org
   - DOMAIN-SUFFIX,grindr.com
+  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grotty-monday.com
   - DOMAIN-SUFFIX,ground.news
   - DOMAIN-SUFFIX,gs-discuss.com
