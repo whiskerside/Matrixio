@@ -1,7 +1,7 @@
 # 规则名称:ChinaMax
-# IP-CIDR117498: 12159
+# IP-CIDR117503: 12159
 
-# 规则统计:117512
+# 规则统计:117517
 domain_set:
   - cpro.baidustatic.com
   - p-bstarstatic.akamaized.net
@@ -421,6 +421,12 @@ domain_set:
   - zzq12345.gearhostpreview.com
   - weizhiyundong.list
 domain_suffix_set:
+  - 95572.com
+  - china-ric.com
+  - crct.com
+  - nntlj.com
+  - peoplerail.com
+  - tdpress.com
   - 168kaifu.com
   - 17173-inc.com
   - 17173.net
@@ -587,11 +593,20 @@ domain_suffix_set:
   - xihuan.me
   - yiwanzhushou.com
   - your360loans.com
+  - 4399.com
+  - 4399.net
+  - 4399api.com
+  - 4399dmw.com
+  - 4399pk.com
+  - 4399sj.com
+  - 5054399.com
+  - edu4399.com
+  - funnycore.com
+  - img4399.com
+  - qq163.com
+  - qq163.net
   - 51hr.com
   - 51ideal.com
-  - 51jingying.com
-  - 51job.com
-  - 51jobcdn.com
   - 51laiqiang.com
   - 51mdd.com
   - 51miduoduo.com
@@ -600,17 +615,13 @@ domain_suffix_set:
   - maketion.com
   - myyjs.com
   - wuyoudagong.com
-  - yingjiesheng.com
-  - yingjiesheng.net
   - yingjiesheng.org
-  - 56.com
   - 56img.com
   - 56imgs.com
   - icaneasy.com
   - icanvideo.com
   - qianfan.tv
   - somama.com
-  - v-56.com
   - vicovico.com
   - 58peilian.com
   - 58shangban.com
@@ -634,9 +645,6 @@ domain_suffix_set:
   - luyanhui.com
   - bscabank.com
   - openaboc.com
-  - acfun.com
-  - acfun.tv
-  - aixifan.com
   - alipay
   - alipay-corp.com
   - alipay-eco.com
@@ -649,20 +657,26 @@ domain_suffix_set:
   - luohanacademy.com
   - 10029.com
   - 17lai.org
+  - 2-class.com
   - 5945i.com
   - 6tt.com
   - a-isv.org
   - aa5d.com
   - aamyoe.com
   - acloudbaas.com
+  - adhimalayandi.com
   - adigifactory.com
   - ahd.so
   - ajhimalayanqf.com
   - ali-expo.com
   - aliapp-inc.com
+  - aliapp.com
   - aliappcdn.com
+  - alibaba
   - alibabadesign-enable.com
+  - alibabadesign.com
   - alibabainno.com
+  - alibabatech.org
   - alibabatechqa.com
   - alibabawood.com
   - alibench.com
@@ -670,16 +684,25 @@ domain_suffix_set:
   - alicloudapi-inner.com
   - alicloudcc.com
   - alicloudddos.com
+  - alicloudlayer.com
+  - alicloudsec.com
+  - alicloudwaf.com
+  - alicontainer.com
   - alictf.com
   - alidns.net
   - alidz.net
+  - aligaofang.com
+  - aligenie.com
   - aligfcc.com
   - aligfddos.com
+  - aligfwaf.com
   - alihealth.net
   - aliiotapp.com
+  - alikunlun.net
   - alimamaframe.com
   - alimaomall.com
   - alime.ai
+  - alimmdn.com
   - aliresearch-internal.com
   - alirtc.com
   - alisealing-pre.com
@@ -687,6 +710,8 @@ domain_suffix_set:
   - alisealing-uat.com
   - alisealing.com
   - alitelecom.com
+  - aliued.com
+  - alivecdn.com
   - alixiaoyouhui.com
   - alixueyuan.net
   - aliypc.com
@@ -695,9 +720,42 @@ domain_suffix_set:
   - aliyunbaas.com
   - aliyuncc.com
   - aliyuncdn.net
+  - aliyunceng.com
   - aliyunddos0024.com
+  - aliyunddos1001.com
+  - aliyunddos1002.com
+  - aliyunddos1003.com
+  - aliyunddos1004.com
+  - aliyunddos1005.com
+  - aliyunddos1006.com
+  - aliyunddos1007.com
+  - aliyunddos1008.com
+  - aliyunddos1009.com
+  - aliyunddos1010.com
+  - aliyunddos1011.com
+  - aliyunddos1012.com
+  - aliyunddos1013.com
+  - aliyunddos1014.com
+  - aliyunddos1015.com
+  - aliyunddos1016.com
+  - aliyunddos1017.com
+  - aliyunddos1018.com
+  - aliyunddos1019.com
+  - aliyunddos1020.com
+  - aliyunddos1021.com
+  - aliyunddos1022.com
+  - aliyunddos1023.com
   - aliyunddos1024.com
+  - aliyunddos1025.com
+  - aliyunddos1026.com
+  - aliyunddos1027.com
+  - aliyunddos1028.com
+  - aliyunddos1029.com
+  - aliyunddos1030.com
+  - aliyunduncc.com
   - aliyundunddos.com
+  - aliyundunwaf.com
+  - aliyunedu.net
   - aliyunga.com
   - aliyunga0004.com
   - aliyunga0005.com
@@ -712,6 +770,9 @@ domain_suffix_set:
   - aliyunga0014.com
   - aliyunga0015.com
   - aliyunga0016.com
+  - aliyunga0017.com
+  - aliyunga0018.com
+  - aliyunga0019.com
   - aliyunga0020.com
   - aliyunga0021.com
   - aliyunga0022.com
@@ -747,12 +808,15 @@ domain_suffix_set:
   - aliyunga8601.com
   - aliyunga8602.com
   - aliyunga8603.com
+  - aliyungf.com
   - aliyungrtn.com
   - aliyunidaas.com
   - aliyuniot.com
   - aliyunrtc.com
   - aliyunvpc.com
+  - aliyunwaf.com
   - allinbots.com
+  - amhimalayanet.com
   - apass.com
   - aqviwv.com
   - asdlkjf.com
@@ -760,6 +824,7 @@ domain_suffix_set:
   - atb.so
   - axhimalayancc.com
   - azetac.com
+  - azhimalayanvh.com
   - bhuvgy.com
   - bkiije.com
   - bohu.co
@@ -774,6 +839,8 @@ domain_suffix_set:
   - cloudhost.link
   - cm.ipinyou.com
   - cnjsun.com
+  - cnrdn.com
+  - cqhimalayanky.com
   - d10a.com
   - d11a.com
   - d22a.com
@@ -789,6 +856,7 @@ domain_suffix_set:
   - dotwe.org
   - dpsoidf.com
   - dvkors.com
+  - e22a.com
   - edcfda.com
   - eghimalayanak.com
   - ejhimalayanje.com
@@ -799,13 +867,16 @@ domain_suffix_set:
   - etagri.com
   - euhhob.com
   - ewsdxc.com
+  - ewtp.com
   - ewtp.org
   - f61a.com
   - f61b.com
+  - fastidea.cc
   - fastidea.me
   - feucnp.com
   - flhimalayandn.com
   - fthimalayandb.com
+  - fusion.design
   - gctianshanxh.com
   - gctwds.com
   - gdtianshanoa.com
@@ -1175,18 +1246,45 @@ domain_suffix_set:
   - gfvip08ar.com
   - gfvip08at.com
   - ghtianshancn.com
+  - gktianshanjd.com
+  - greencompute.org
+  - gtm-a1b2.com
+  - gtm-a1b3.com
+  - gtm-a1b4.com
   - gtm-a1b5.com
+  - gtm-a1b6.com
+  - gtm-a1b7.com
+  - gtm-a1b8.com
+  - gtm-a1b9.com
+  - gtm-a2b2.com
+  - gtm-a2b3.com
+  - gtm-a2b4.com
   - gtm-a2b5.com
+  - gtm-a2b6.com
+  - gtm-a2b7.com
   - gtm-a2b8.com
   - gtm-a2b9.com
+  - gtm-a3b1.com
   - gtm-a3b3.com
   - gtm-a3b4.com
+  - gtm-a3b5.com
+  - gtm-a3b6.com
+  - gtm-a3b7.com
+  - gtm-a3b8.com
   - gtm-a3b9.com
+  - gtm-a4b1.com
   - gtm-a4b2.com
+  - gtm-a4b3.com
+  - gtm-a4b4.com
+  - gtm-a4b5.com
+  - gtm-a4b6.com
   - gtm-a4b7.com
+  - gtm-a4b8.com
+  - gtm-a4b9.com
   - gtm-a5b1.com
   - gtm-a5b2.com
   - gtm-a5b3.com
+  - gtm-a5b4.com
   - gtm-a5b5.com
   - gtm-a6b1.com
   - gtm-a6b2.com
@@ -1196,6 +1294,8 @@ domain_suffix_set:
   - gxic.club
   - gyhimalayanul.com
   - h5util.com
+  - haibaoyl.com
+  - hgfdrf.com
   - hichina.net
   - hpearx.com
   - htyssdf.com
@@ -1212,21 +1312,27 @@ domain_suffix_set:
   - iuktb.com
   - iwhqmk.com
   - izobrt.com
+  - jaeapp.com
+  - jaecdn.com
   - jftianshancn.com
   - jisuqiang.com
   - jisuqiang.net
+  - jiyoujia.com
   - jjbzhx.com
+  - jjtianshangi.com
   - jkkefv.com
   - jsplayground.net
   - jumdfd.com
   - juwuxian.com
   - juzone.cc
   - jvtianshanuu.com
+  - kissyui.com
   - kjdvsg.com
   - kjtianshanxu.com
   - kuhimalayandp.com
   - kuku123.com
   - kunlundns.com
+  - lahuashanbx.com
   - letianshanec.com
   - liffmp.com
   - linkdesign.tech
@@ -1235,13 +1341,16 @@ domain_suffix_set:
   - magicw3.com
   - mefenglife.com
   - mefenlife.com
+  - mftianshanam.com
   - mifenlife.com
   - mlhimalayanxt.com
+  - mnbvtgv.com
   - mpcloudapp.com
   - mpserverless.com
   - mt3.com
   - mtmyg.com
   - mvtianshanlr.com
+  - my3w.com
   - myalirtc.com
   - mznznj.com
   - natgmj.com
@@ -1250,15 +1359,22 @@ domain_suffix_set:
   - netianshannu.com
   - nghmesc.com
   - nhcilab.com
+  - njibhu.com
+  - nnjioko.com
   - noxnny.com
   - nqiief.com
   - nqmoui.com
+  - nxtianshangb.com
+  - okhimalayanzi.com
   - oklpoi.com
   - oyxdwx.com
   - pahhhf.com
   - pepsitmall.com
   - pftianshanno.com
+  - pickpikka.com
+  - poikm.com
   - polyinno.com
+  - pphimalayanrt.com
   - qazdsa.com
   - qgnvbc.com
   - qgyksr.com
@@ -1308,9 +1424,11 @@ domain_suffix_set:
   - scdn98um.com
   - scdnacsj.com
   - scdnazo0.com
+  - scdnbi9w.com
   - scdnbiar.com
   - scdnc77s.com
   - scdndn0v.com
+  - scdndsa6.com
   - scdndtma.com
   - scdne3lt.com
   - scdne60t.com
@@ -1377,6 +1495,7 @@ domain_suffix_set:
   - schimalayanuz.com
   - sdffqaz.com
   - sdfscx.com
+  - searchtb.com
   - sehimalayanqj.com
   - shujuapi.com
   - sjtm.me
@@ -1384,8 +1503,12 @@ domain_suffix_set:
   - stats.ipinyou.com
   - suopingbao.com
   - sxhimalayanqd.com
+  - taeapp.com
+  - tangping.com
+  - taobao
   - taobaotest.com
   - taobaotesting.com
+  - taohua.com
   - taojianghu.com
   - taotv.com
   - taotv.net
@@ -1393,12 +1516,16 @@ domain_suffix_set:
   - tbcdn.com
   - tbmcas.com
   - tbmkt.com
+  - tbsandbox.com
   - tbshare123.com
   - tdd.la
   - tggypn.com
   - tgtianshanga.com
   - tianchi.com
+  - tianmao.com
   - titianshanfz.com
+  - tmall
+  - tmallgenie.com
   - tmallgenieapi.com
   - tmallplay.net
   - tmqd.me
@@ -1418,6 +1545,7 @@ domain_suffix_set:
   - urhimalayanak.com
   - url7.me
   - uueasy.com
+  - uuhimalayanqm.com
   - vctianshanvs.com
   - vghimalayandm.com
   - vghimalayanet.com
@@ -1430,11 +1558,15 @@ domain_suffix_set:
   - woaanc.com
   - workbenchapi.com
   - wowtb.com
+  - wuxianhaibao.com
   - wztianshanfs.com
   - xdrcftv.com
+  - xevddy.com
+  - xiaobai.com
   - xppgsx.com
   - xrqorv.com
   - xsyeli.com
+  - xunxi.com
   - xylofh.com
   - ybtianshantu.com
   - ydvip00aa.com
@@ -1457,14 +1589,19 @@ domain_suffix_set:
   - ydvip00ar.com
   - ydvip00as.com
   - ydvip00at.com
+  - yitao.com
   - yqqqbm.com
   - yunduncc.com
+  - yundunddos.com
+  - yundunwaf.com
+  - yunqi.org
   - yzlngi.com
   - yzsnen.com
   - zhinvnetwork.com
   - zmnxbc.com
   - ztcexam.com
   - zwmrxd.com
+  - zwtianshangm.com
   - antiy.com
   - antiycloud.com
   - avlinsight.com
@@ -1532,10 +1669,13 @@ domain_suffix_set:
   - zzcdnx.com
   - 17swan.com
   - 37swan.com
+  - 91.com
   - aicdn.work
+  - aipage.com
   - aiqicha.com
   - apollo-platform.com
   - apollo-share.com
+  - apollo.auto
   - baeapps.com
   - baetyl.tech
   - baidu-bank.com
@@ -1544,14 +1684,19 @@ domain_suffix_set:
   - baidu-int.com
   - baidu-itm.com
   - baidu-tech.com
+  - baidu.com
   - baidu.com.hk
   - baidu.hk
   - baidu.mobi
   - baiduads.com
   - baiduapp.com
+  - baidubce.com
+  - baidubcr.com
   - baidubos.com
   - baiducloudapi.com
+  - baiducontent.com
   - baiduhui.com
+  - baidupcs.com
   - baidupcs.net
   - baiduux.com
   - baiduwaf.com
@@ -1563,6 +1708,8 @@ domain_suffix_set:
   - baiduyundns.com
   - baiduyundns.net
   - baiduyunwaf.com
+  - baifae.com
+  - baifubao.com
   - baihangbao.com
   - baihangdai.com
   - baijincdn.com
@@ -1570,6 +1717,7 @@ domain_suffix_set:
   - bce-cdn.com
   - bce-cdn.net
   - bceapp.com
+  - bcebos.com
   - bcedns.com
   - bcedns.net
   - bcedocument.com
@@ -1582,21 +1730,30 @@ domain_suffix_set:
   - bcewaf.com
   - bchdemo.site
   - bdbae.com
+  - bdcloudapi.com
   - bdeceimg.com
+  - bdimg.com
+  - bdstatic.com
+  - bdtjrcv.com
   - bduapp.com
   - bdurl.net
   - bdycdn.com
   - bdycdn.net
+  - bdydns.com
+  - bdydns.net
   - bdymkt.com
   - bdysite.com
   - bdysites.com
   - bfe-networks.com
   - bfe-networks.net
+  - chuanke.com
   - cloud-control.top
   - clouda.com
   - cloudajs.org
   - content4ads.com
   - daoru.in
+  - dlnel.com
+  - dlnel.org
   - dmhmusic.com
   - du-xiaomai.com
   - duapp-preview.com
@@ -1611,24 +1768,32 @@ domain_suffix_set:
   - duxuetang.com
   - estrongs.com
   - eyoubaidu.com
+  - fhldns.com
   - fhldns.net
   - game-client.com
   - haluan2u.com
+  - hao123.com
   - hao123.net
+  - hao123img.com
   - hao222.net
+  - haokan.com
   - hiapk.com
   - hongmeiti.com
   - hongmeiti.net
   - huoyanyunying.com
   - ja-cloud.com
+  - jomocdn.net
+  - jomodns.com
   - jomodns.net
   - lasmasas.com
   - micro-game-client.com
+  - mipcdn.com
   - mipengine.com
   - mipengine.org
   - mipplan.com
   - mipplan.org
   - nhmuni.com
+  - nuomi.com
   - oasesalliance.com
   - oortos.tech
   - openintelliedge.tech
@@ -1642,9 +1807,12 @@ domain_suffix_set:
   - qxllq.com
   - sanguows.com
   - sg.work
+  - shifen.com
   - siteapp-static.com
   - swan366.com
   - taihe.com
+  - tieba.com
+  - tiebaimg.com
   - tradaquan.com
   - ttplayer.com
   - videomind.cloud
@@ -1654,6 +1822,8 @@ domain_suffix_set:
   - wenku.in
   - wshifen.com
   - wssanguo.com
+  - xianfae.com
+  - xiaodutv.com
   - xinzhi.com
   - yeyingkf.com
   - yjs-cdn.com
@@ -1672,6 +1842,7 @@ domain_suffix_set:
   - youyou001.com
   - yunjiasu-cdn-dnssec.net
   - yunjiasu-cdn.com
+  - yunjiasu-cdn.net
   - yunjiasu-dns.com
   - yunjiasu-dns.net
   - yunjiasu-test.com
@@ -1681,6 +1852,9 @@ domain_suffix_set:
   - yunjiasudns.net
   - yunjiasupreview.com
   - yunjiasussl.com
+  - zuoyebang.cc
+  - zuoyebang.com
+  - zybang.com
   - baofeng.mobi
   - baofeng.net
   - baofengtv.com
@@ -1840,6 +2014,7 @@ domain_suffix_set:
   - bytedance.org
   - bytedns2.com
   - byteeffecttos.com
+  - bytefcdnrd.com
   - bytemaimg.com
   - bytesfield.com
   - bytesmanager.com
@@ -2095,6 +2270,7 @@ domain_suffix_set:
   - wusuobuneng.org
   - 52photo.com
   - c360dn.com
+  - camera360.com
   - saladvideo.com
   - yipai.info
   - yipai360.com
@@ -2139,6 +2315,7 @@ domain_suffix_set:
   - 163industry.com
   - 163mail.com
   - 163qiyukf.com
+  - 163yun.com
   - 166.com
   - 166.net
   - 1688.com
@@ -2161,10 +2338,10 @@ domain_suffix_set:
   - 188.com
   - 1905.com
   - 19yxw.com
+  - 1huizhan.com
   - 1nongjing.com
   - 1ting.com
   - 1zhe.com
-  - 21cn.com
   - 21jingji.com
   - 2265.com
   - 2288.org
@@ -2174,6 +2351,7 @@ domain_suffix_set:
   - 289.com
   - 2cto.com
   - 3000.com
+  - 300hu.com
   - 310win.com
   - 315che.com
   - 3234.com
@@ -2193,6 +2371,9 @@ domain_suffix_set:
   - 360.com
   - 360.net
   - 360aiyi.com
+  - 360buy.com
+  - 360buyimg.com
+  - 360buyinternational.com
   - 360chou.com
   - 360daikuan.com
   - 360doc.com
@@ -2206,6 +2387,7 @@ domain_suffix_set:
   - 360safe.com
   - 360shouji.com
   - 360taojin.com
+  - 360top.com
   - 360totalsecurity.com
   - 360tpcdn.com
   - 360tres.com
@@ -2238,18 +2420,12 @@ domain_suffix_set:
   - 3songshu.com
   - 3yx.com
   - 40407.com
-  - 4399.com
-  - 4399.net
-  - 4399api.com
   - 4399api.net
   - 4399biule.com
-  - 4399dmw.com
   - 4399er.com
   - 4399hhh.com
   - 4399inc.com
   - 4399mail.com
-  - 4399pk.com
-  - 4399sj.com
   - 4399swf.com
   - 4399wanju.com
   - 4399youpai.com
@@ -2257,19 +2433,20 @@ domain_suffix_set:
   - 4399yyy.com
   - 500.com
   - 500d.me
-  - 5054399.com
   - 5054399.net
   - 51.com
   - 510you.com
   - 517lppz.com
   - 51ccd.com
-  - 51cdn.com
   - 51credit.com
   - 51cto.com
   - 51dzt.com
   - 51eshop.com
   - 51gaifang.com
   - 51hejia.com
+  - 51jingying.com
+  - 51job.com
+  - 51jobcdn.com
   - 51meishu.com
   - 51nod.com
   - 51sole.com
@@ -2318,6 +2495,7 @@ domain_suffix_set:
   - 75.team
   - 75team.com
   - 7down.com
+  - 7fresh.com
   - 7k7k.com
   - 7moor.com
   - 7po.com
@@ -2327,12 +2505,10 @@ domain_suffix_set:
   - 818ps.com
   - 8264.com
   - 84399.com
-  - 8686c.com
   - 885.com
   - 88cdn.com
   - 8btc.com
   - 900.la
-  - 91.com
   - 917.com
   - 91danji.com
   - 91yunxiao.com
@@ -2385,7 +2561,6 @@ domain_suffix_set:
   - aiketour.com
   - aiops.com
   - aip.org
-  - aipage.com
   - aipai.com
   - air-matters.com
   - air-matters.io
@@ -2446,7 +2621,6 @@ domain_suffix_set:
   - alisoft.com
   - alisports.com
   - alitianji.com
-  - alitrip.com
   - alittle-tea.com
   - aliunicorn.com
   - aliway.com
@@ -2494,7 +2668,6 @@ domain_suffix_set:
   - apk3.com
   - apk8.com
   - aplaybox.com
-  - apollo.auto
   - appchina.com
   - appeeres.com
   - appinn.com
@@ -2504,8 +2677,6 @@ domain_suffix_set:
   - aps.org
   - arpun.com
   - ascelibrary.org
-  - asczwa.com
-  - asczxcefsv.com
   - asm.org
   - asme.org
   - astm.org
@@ -2520,18 +2691,12 @@ domain_suffix_set:
   - babytree.com
   - babytreeimg.com
   - baduziyuan.com
-  - baidu.com
-  - baidubce.com
-  - baidubcr.com
-  - baiducontent.com
   - baidufree.com
   - baidupan.com
-  - baidupcs.com
-  - baifae.com
-  - baifubao.com
   - baihe.com
   - baijiayun.com
   - baike.com
+  - baitiao.com
   - baixing.com
   - baixing.net
   - baltamatica.com
@@ -2548,20 +2713,12 @@ domain_suffix_set:
   - baydn.com
   - bazai.com
   - bbbcdns.com
-  - bcebos.com
   - bcfmglobal.com
-  - bcvbw.com
   - bcy.net
   - bcyimg.com
   - bdatu.com
-  - bdcloudapi.com
-  - bdimg.com
-  - bdstatic.com
-  - bdtjrcv.com
   - bdxiguaimg.com
   - bdxiguastatic.com
-  - bdydns.com
-  - bdydns.net
   - bearychat.com
   - beatsbydre.com
   - beihaidc.com
@@ -2595,6 +2752,7 @@ domain_suffix_set:
   - bkapps.com
   - bkclouds.cc
   - bktencent.com
+  - blackdragon.com
   - blogjava.net
   - blyun.com
   - bmj.com
@@ -2654,11 +2812,11 @@ domain_suffix_set:
   - cainiao-inc.com
   - cainiao.com
   - caixin.com
+  - caiyu.com
   - caiyun.com
   - caiyunai.com
   - caiyunapp.com
   - cambridge.org
-  - camera360.com
   - cang.com
   - cankaoxiaoxi.com
   - capitalonline.net
@@ -2679,10 +2837,7 @@ domain_suffix_set:
   - cctalk.com
   - cczq.com
   - cczq.net
-  - cdn20.com
-  - cdn30.org
   - cdncl.net
-  - cdndo.com
   - cdndoctor.com
   - cdngot.com
   - cdngslb.com
@@ -2787,15 +2942,12 @@ domain_suffix_set:
   - chinalions.com
   - chinamobile.com
   - chinamobileltd.com
-  - chinanetcenter.com
   - chinanews.com
   - chinapay.com
   - chinapp.net
   - chinapubmed.net
   - chinaso.com
   - chinasspp.com
-  - chinatelecom-h.com
-  - chinatelecomglobal.com
   - chinatranslation.net
   - chinaunicom.com
   - chinaunicom.com.hk
@@ -2803,7 +2955,6 @@ domain_suffix_set:
   - chinaunionpay.com
   - chinaunionpay.net
   - chinaunix.net
-  - chinauos.com
   - chinaweiyu.com
   - chinawutong.com
   - chinaz.com
@@ -2811,13 +2962,11 @@ domain_suffix_set:
   - chinazns.com
   - chinesemooc.org
   - chiphell.com
-  - chntel.com
   - chongdiantou.com
   - chouti.com
   - chrstatic.com
   - chua.pro
   - chuangxin.com
-  - chuanke.com
   - chuansong.me
   - chuansongme.com
   - chugou360.com
@@ -2847,21 +2996,96 @@ domain_suffix_set:
   - clashroyaleapp.com
   - classix-unlimited.co.uk
   - clk1.top
+  - cloud-beijing.com
+  - cloud-hebi.com
   - cloud-industry-delivery.site
+  - cloud-ningbo.com
+  - cloud-ordos.com
+  - cloud-shenzhen.com
+  - cloud-shiyan.com
+  - cloud-wuhan.com
+  - cloud-xian.com
+  - cloud-xm.com
+  - cloud-zhaoqing.com
+  - cloud-zhongwei.com
+  - cloudanqing.com
+  - cloudbaoshan.com
   - cloudbase.net
+  - cloudbeibei.com
+  - cloudbinzhou.com
+  - cloudchangde.com
+  - cloudchangsha.com
+  - cloudchangzhou.com
+  - cloudchaozhou.com
+  - cloudchengde.com
+  - cloudchengdu.com
+  - cloudchuzhou.com
+  - cloudczs.com
+  - clouddalian.com
+  - clouddatong.com
   - clouddn.com
+  - clouddongying.com
   - cloudflare-cn.com
   - cloudflarecn.net
   - cloudflareinsights-cn.com
   - cloudflareprod.com
   - cloudflarestaging.com
   - cloudflarestoragegw.com
+  - cloudfoshan.com
   - cloudfront-cn.net
+  - cloudfuqing.com
+  - cloudganzhou.com
+  - cloudguangzhou.com
+  - cloudhaidong.com
+  - cloudhefei.com
+  - cloudhengshui.com
+  - cloudhuaihua.com
+  - cloudhuizhou.com
   - cloudidaas.com
+  - cloudjinan.com
+  - cloudjinchang.com
+  - cloudjingzhou.com
+  - cloudjining.com
+  - cloudjiujiang.com
+  - cloudkunming.com
+  - cloudleshan.com
+  - cloudlijiang.com
+  - cloudlishui.com
+  - cloudluohe.com
+  - cloudluoyang.com
+  - cloudmeishan.com
+  - cloudnanan.com
+  - cloudnanjing.com
+  - cloudnanning.com
+  - cloudnantong.com
+  - cloudquanzhou.com
+  - cloudsanya.com
+  - cloudshanghai.com
+  - cloudshaoyang.com
+  - cloudshenfuxingqu.com
   - cloudsigma.com
+  - cloudsiping.com
   - cloudsite.vip
+  - cloudsuqian.com
+  - cloudtangshan.com
+  - cloudtianjin.com
+  - cloudtongchuan.com
+  - cloudtongliang.com
+  - cloudweinan.com
+  - cloudxiangtan.com
+  - cloudxianyou.com
+  - cloudxining.com
   - cloudxns.com
   - cloudxns.net
+  - cloudyanan.com
+  - cloudyancheng.com
+  - cloudyantai.com
+  - cloudyinchuan.com
+  - cloudyueyang.com
+  - cloudyuncheng.com
+  - cloudyuxi.com
+  - cloudzhongshan.com
+  - cloudzhuhai.com
   - clsa.com
   - cmb-leasing.com
   - cmbchina.biz
@@ -2912,7 +3136,6 @@ domain_suffix_set:
   - cofool.com
   - coindog.com
   - colinker.com
-  - coloros.com
   - com-hs-hkdy.com
   - computeinit.com
   - comsenz.com
@@ -2945,11 +3168,6 @@ domain_suffix_set:
   - csslcloud.net
   - csto.com
   - csxbank.com
-  - ctexcel.ca
-  - ctexcel.com
-  - ctexcel.com.hk
-  - ctexcel.fr
-  - ctexcel.us
   - ctfile.com
   - ctfund.com
   - ctiforum.com
@@ -2987,10 +3205,10 @@ domain_suffix_set:
   - dandanplay.com
   - dandanzan.com
   - dangbei.com
-  - dangdang.com
   - danji100.com
   - danji6.com
   - danjuanfunds.com
+  - dao123.com
   - daocloud.io
   - daojia.com
   - daovoice.io
@@ -3011,17 +3229,12 @@ domain_suffix_set:
   - dd373.com
   - ddmogo.com
   - ddooo.com
-  - ddurl.to
   - dedecms.com
-  - deepin.com
-  - deepin.io
-  - deepin.org
   - deepinos.org
   - dengguobi.com
   - devui.design
   - dfcfw.com
   - dfham.com
-  - dfkhgj.com
   - dginfo.com
   - dgjy.net
   - dgphospital.com
@@ -3040,10 +3253,6 @@ domain_suffix_set:
   - didiglobal.com
   - didimobility.co.jp
   - didistatic.com
-  - dingding.xin
-  - dingtalk.com
-  - dingtalk.net
-  - dingtalkapps.com
   - dingxiang-inc.com
   - diopic.net
   - discuz.net
@@ -3052,8 +3261,6 @@ domain_suffix_set:
   - dj99.com
   - dler.cloud
   - dlgslb.net
-  - dlnel.com
-  - dlnel.org
   - dmzj.com
   - dns.pub
   - dnspod.com
@@ -3147,9 +3354,7 @@ domain_suffix_set:
   - ecitic.com
   - ecitic.net
   - ecjobhome.com
-  - ecloud-gdu.com
   - ecombdapi.com
-  - edu4399.com
   - eduei.com
   - eflycloud.com
   - ele.me
@@ -3185,6 +3390,7 @@ domain_suffix_set:
   - fadfunds.com
   - faloo.com
   - famulei.com
+  - fang.com
   - fangxiaoer.com
   - fanli.com
   - fanqienovel.com
@@ -3201,7 +3407,6 @@ domain_suffix_set:
   - feishu.net
   - feishucdn.com
   - feishupkg.com
-  - feizhu.com
   - feng.com
   - feng1.com
   - fengcx.com
@@ -3214,15 +3419,11 @@ domain_suffix_set:
   - fetionpic.com
   - ffbuddy.com
   - fgo.wiki
-  - fhldns.com
   - fimmu.com
   - finchina.com
-  - finzfin.com
   - fir.im
   - fixdown.com
   - fjhps.com
-  - fliggy.com
-  - fliggy.hk
   - flxdns.com
   - flycua.com
   - flyert.com
@@ -3241,7 +3442,6 @@ domain_suffix_set:
   - frdic.com
   - freebuf.com
   - fresh-ideas.cc
-  - freshhema.com
   - frontjs.com
   - frontwize.com
   - fsfund.com
@@ -3249,7 +3449,6 @@ domain_suffix_set:
   - ftfund.com
   - fun.tv
   - funcdn.com
-  - funnycore.com
   - funshion.com
   - funshion.net
   - futu5.com
@@ -3339,6 +3538,7 @@ domain_suffix_set:
   - goofish.com
   - goosail.com
   - goproxy.io
+  - goselling.com
   - goto-game.com
   - goto-game.mobi
   - goto-game.org
@@ -3390,10 +3590,7 @@ domain_suffix_set:
   - hanboshi.com
   - handanjob.com
   - hangjiayun.com
-  - hao123.com
-  - hao123img.com
   - haofenshu.com
-  - haokan.com
   - haolietou.com
   - haoso.com
   - haosou.com
@@ -3420,17 +3617,11 @@ domain_suffix_set:
   - heisha.net
   - hello-inc.com
   - hellobike.com
-  - hemamax.com
-  - hemaos.com
+  - hellowebfont.com
   - henha.com
   - henkuai.com
   - herostart.com
   - hexun.com
-  - heytap.com
-  - heytapcs.com
-  - heytapdownload.com
-  - heytapimage.com
-  - heytapmobi.com
   - heytea.com
   - hftfund.com
   - hhtravel.com
@@ -3627,7 +3818,6 @@ domain_suffix_set:
   - imcapptest.com
   - imedao.com
   - imf.org
-  - img4399.com
   - img4me.com
   - imooc.com
   - imqq.com
@@ -3648,12 +3838,13 @@ domain_suffix_set:
   - ipip.net
   - ipplus360.com
   - iprdp.net
-  - ipssh.net
   - ipv6-test.com
   - iranshao.com
   - isd.com
   - ishumei.com
   - ispqcloud.com
+  - isvjcloud.com
+  - isvjd.com
   - isxtv.com
   - it165.net
   - it168.com
@@ -3664,7 +3855,6 @@ domain_suffix_set:
   - itmop.com
   - itopsdk.com
   - itsk.com
-  - iuynfg.com
   - ivweb.io
   - ixdzs.com
   - ixgvideo.com
@@ -3682,14 +3872,106 @@ domain_suffix_set:
   - jb51.com
   - jbcz.tv
   - jchat.io
+  - jcloud-cache.com
+  - jcloud-cache.net
+  - jcloud-cdn.com
+  - jcloud-live.com
+  - jcloud-oss.com
+  - jcloud.com
+  - jcloudcache.com
+  - jcloudcache.net
+  - jcloudcs.com
+  - jclouddn.com
+  - jclouddns.com
+  - jclouddns.net
+  - jcloudec.com
+  - jcloudedge.com
+  - jcloudedge.net
+  - jcloudgslb.com
+  - jcloudgslb.net
+  - jcloudimg.com
+  - jcloudimg.net
+  - jcloudlb.com
+  - jcloudlb.net
+  - jcloudlive.com
+  - jcloudlv.com
+  - jcloudoss.com
+  - jcloudresolve.com
+  - jcloudresolve.net
+  - jcloudss.com
+  - jcloudstatic.com
+  - jcloudstatic.net
+  - jcloudvideo.com
+  - jcloudvideo.net
+  - jclps.com
+  - jd-app.com
+  - jd-ex.com
+  - jd-ex.net
+  - jd.co.th
+  - jd.com
+  - jd.hk
+  - jd.id
+  - jd.ru
+  - jd.shop
   - jdair.net
+  - jdbusiness.com
+  - jdcache.com
+  - jdcdn.com
+  - jdcloud-api.com
+  - jdcloud-api.net
+  - jdcloud-edu.com
+  - jdcloud-elite.com
+  - jdcloud-elive.com
+  - jdcloud-livebuy.com
+  - jdcloud-mail.com
+  - jdcloud-openapi.com
+  - jdcloud-oss.com
+  - jdcloud.com
+  - jdcloudcache.com
+  - jdcloudcache.net
+  - jdcloudcdn.com
+  - jdcloudcdn.net
+  - jdcloudcs.com
+  - jdclouddns.com
+  - jdclouddns.net
+  - jdcloudedge.com
+  - jdcloudedge.net
+  - jdcloudlb.com
+  - jdcloudlb.net
+  - jdcloudlive.com
+  - jdcloudlive.net
+  - jdcloudresolve.com
+  - jdcloudresolve.net
+  - jdcloudsite.com
+  - jdcloudstatic.com
+  - jdcloudstatic.net
+  - jdcloudstatus.com
+  - jdcloudstatus.net
+  - jdcloudvideo.com
+  - jdcloudvideo.net
+  - jdcloudwaf.com
+  - jddapeigou.com
+  - jddglobal.com
+  - jdemall.com
+  - jdfw1.com
+  - jdgslb.com
+  - jdgslb.net
   - jdh.com
-  - jhgtgb.com
+  - jdjinrong.com
+  - jdl.com
+  - jdpay.com
+  - jdpaydns.com
+  - jdwl.com
+  - jdx.com
+  - jhscm.com
   - jhu.edu
   - jia.com
   - jiameng.com
   - jianbihua.com
   - jianguoyun.com
+  - jianshu.com
+  - jianshu.io
+  - jianshuapi.com
   - jianyuweb.com
   - jianzhi8.com
   - jiaodong.net
@@ -3706,7 +3988,11 @@ domain_suffix_set:
   - jikexueyuan.com
   - jikipedia.com
   - jindidata.com
+  - jingdong.com
+  - jingdongjinrong.com
   - jinglingbiaozhu.com
+  - jingpinhui.com
+  - jingxi.com
   - jinianbi.com
   - jinrishici.com
   - jinrongren.net
@@ -3721,12 +4007,13 @@ domain_suffix_set:
   - jj20.com
   - jjwxc.net
   - jkbl.com
+  - jkcsjd.com
   - jmstatic.com
   - job5588.com
   - job910.com
   - jobjm.com
-  - jomocdn.net
-  - jomodns.com
+  - joybuy.com
+  - joybuy.es
   - jpmorganchina.com
   - jpopsuki.eu
   - jsbc.com
@@ -3834,7 +4121,6 @@ domain_suffix_set:
   - kwaizt.com
   - lady8844.com
   - lagou.com
-  - laiwang.com
   - lancdn.com
   - landian.vip
   - landiannews.com
@@ -3906,6 +4192,7 @@ domain_suffix_set:
   - lightonus.com
   - likuso.com
   - lingkou.com
+  - linglonglife.com
   - lingshoujia.com
   - linsn.com
   - linuxidc.com
@@ -3928,6 +4215,7 @@ domain_suffix_set:
   - lnlib.net
   - localizecdn.com
   - lofter.com
+  - logiseasy.com
   - loli.net
   - longhoo.net
   - longre.com
@@ -3943,7 +4231,6 @@ domain_suffix_set:
   - lucifr.com
   - luckincoffeecdn.com
   - luckyair.net
-  - ludashi.com
   - ludoworld.net
   - lufaxcdn.com
   - lufunds.com
@@ -3954,10 +4241,6 @@ domain_suffix_set:
   - lvmama.com
   - lvsexitong.com
   - lvtds.com
-  - lwurl.to
-  - lxdns.com
-  - lxdns.info
-  - lxdns.org
   - lxjapp.com
   - lxway.com
   - ly.com
@@ -3990,6 +4273,7 @@ domain_suffix_set:
   - matpool.net
   - mayi.com
   - mayihr.com
+  - mayshijia.com
   - mbalib.com
   - mbcloud.com
   - mcbang.com
@@ -4040,7 +4324,8 @@ domain_suffix_set:
   - minapp.com
   - mingyuanyun.com
   - minhangshi.com
-  - mipcdn.com
+  - minitiao.com
+  - missjia.net
   - miui.com
   - miusi.co
   - miwifi.com
@@ -4059,8 +4344,6 @@ domain_suffix_set:
   - mogu.com
   - mogucdn.com
   - mogujie.com
-  - moji.com
-  - mojichina.com
   - mojidict.com
   - mokahr.com
   - moke.com
@@ -4103,7 +4386,6 @@ domain_suffix_set:
   - myhwclouds.com
   - myilibrary.com
   - myip.la
-  - myoppo.com
   - mypaas.com
   - myqcloud.com
   - myshow360.net
@@ -4151,12 +4433,12 @@ domain_suffix_set:
   - nowscore.com
   - npmmirror.com
   - nruan.com
-  - nuomi.com
   - nvsheng.com
   - nx-sc.com
   - nzbdw.com
   - nzsiteres.com
   - nzwgs.com
+  - ocwms.com
   - oecd-ilibrary.org
   - oeeee.com
   - offcn.com
@@ -4184,12 +4466,6 @@ domain_suffix_set:
   - openkylin.top
   - openlearning.com
   - openmidas.com
-  - oppo.com
-  - oppo.mobi
-  - oppodigital.com
-  - oppoer.me
-  - oppomobile.com
-  - oppopay.com
   - opstatics.com
   - oracle-tencent.com
   - oracle-tencent.net
@@ -4202,8 +4478,6 @@ domain_suffix_set:
   - oup.com
   - oupeng.com
   - ourbits.club
-  - ourdvs.com
-  - ourdvsss.com
   - ovid.com
   - ovscdns.com
   - ovscdns.net
@@ -4217,6 +4491,7 @@ domain_suffix_set:
   - p5w.net
   - pagescube.com
   - pailitao.com
+  - paipai.com
   - paipaibang.com
   - pangolin-sdk-toutiao.com
   - paopaoche.net
@@ -4260,10 +4535,10 @@ domain_suffix_set:
   - powerapp.io
   - pplive.com
   - pptbest.com
+  - prestodb-china.com
   - privatehd.to
   - proquest.com
   - proximabeta.com
-  - psbc.com
   - pstatp.com
   - pterclub.com
   - pubghelper.com
@@ -4316,6 +4591,7 @@ domain_suffix_set:
   - qiangbus.com
   - qianjia.com
   - qianlima.com
+  - qianxun.com
   - qianzhan.com
   - qiaobutang.com
   - qichacha.com
@@ -4339,6 +4615,7 @@ domain_suffix_set:
   - qingstor.com
   - qingting.fm
   - qingtingtrip.com
+  - qingzhouip.com
   - qiniu.com
   - qiniucdn.com
   - qiniudn.com
@@ -4354,8 +4631,6 @@ domain_suffix_set:
   - qq.cn.com
   - qq.com
   - qq.design
-  - qq163.com
-  - qq163.net
   - qqddc.com
   - qqgameapp.com
   - qqgamedesign.com
@@ -4382,9 +4657,6 @@ domain_suffix_set:
   - rdfybk.com
   - readnovel.com
   - realcybertron.com
-  - realme.com
-  - realmebbs.com
-  - realmemobile.com
   - redacted.ch
   - renren-inc.com
   - renren.com
@@ -4444,6 +4716,7 @@ domain_suffix_set:
   - sfcar.hk
   - sfgy.org
   - sgamer.com
+  - sgsic.com
   - shanbay.com
   - shang360.com
   - shangc.net
@@ -4463,7 +4736,6 @@ domain_suffix_set:
   - shgsec.com
   - shhxzq.com
   - shidianbaike.com
-  - shifen.com
   - shijiexia.com
   - shimo.im
   - shixiseng.com
@@ -4479,7 +4751,6 @@ domain_suffix_set:
   - shuqi.com
   - shuqireader.com
   - shutcm.com
-  - shyhhema.com
   - shzq.com
   - siam.org
   - sichuanair.com
@@ -4504,7 +4775,6 @@ domain_suffix_set:
   - sllssrq.com
   - smartisan.com
   - smtcdns.com
-  - smzdm.com
   - snapdrop.net
   - snimay.com
   - snodehome.com
@@ -4528,6 +4798,7 @@ domain_suffix_set:
   - sonyentertainmentnetwork.com
   - soso.com
   - sou.com
+  - soufunimg.com
   - souqian.com
   - southmoney.com
   - sparenode.com
@@ -4536,8 +4807,6 @@ domain_suffix_set:
   - spcdntipbak.com
   - spcloudhw.com
   - spcloudhw.net
-  - speedws.info
-  - speedws.org
   - speiyou.com
   - spiedigitallibrary.org
   - springer.com
@@ -4709,8 +4978,6 @@ domain_suffix_set:
   - tianqi.com
   - tianyancha.com
   - tidaas.com
-  - tieba.com
-  - tiebaimg.com
   - tietuku.com
   - tiexue.net
   - tieyou.com
@@ -4746,6 +5013,7 @@ domain_suffix_set:
   - tongxianghuicn.com
   - tools.team
   - tophub.today
+  - toplife.com
   - topthink.com
   - totheglory.im
   - touqikan.com
@@ -4789,7 +5057,6 @@ domain_suffix_set:
   - txtyxg.com
   - txyscdn.com
   - txyscdn.net
-  - u-cdn.net
   - u.tools
   - u17.com
   - u17i.com
@@ -4798,38 +5065,18 @@ domain_suffix_set:
   - ubssdic.com
   - ubuntukylin.com
   - ucbug.com
-  - ucgslb.com
-  - ucgslb.info
-  - ucgslb.net
-  - ucgslb.top
   - ucloud-edm.com
-  - ucloud365.com
-  - ucloudadmin.com
-  - ucloudapi.com
-  - ucloudgda.com
   - ucloudnaming.com
   - ucloudnaming.info
   - ucloudnaming.net
-  - ucloudoss.com
-  - ucloudstack.com
-  - ucloudstack.net
   - ucloudstor.com
-  - ucloudufile.com
   - ucnaming.com
   - ucnaming.info
   - ucnaming.net
   - ucweb.com
   - udache.com
   - udacity.com
-  - uewaf.com
-  - ufileos.com
   - uggame.com
-  - ugslb.com
-  - ugslb.info
-  - ugslb.net
-  - ugslb.top
-  - ugslb2.net
-  - uhasadmin.com
   - uiwow.com
   - ulikecam.com
   - um.run
@@ -4839,14 +5086,12 @@ domain_suffix_set:
   - umetrip.com
   - un.org
   - unaming.info
-  - unaming.net
   - uni-bielefeld.de
   - uning.com
   - unionpay.com
   - unionpay.net
   - unionpayintl.com
   - unionpaysecure.com
-  - uniontech.com
   - uoj.ac
   - uoko.com
   - uonline-sh.com
@@ -4866,12 +5111,9 @@ domain_suffix_set:
   - uzzf.com
   - v5875.com
   - value500.com
-  - vancl.com
-  - vanclimg.com
   - vaptcha.com
   - vaptcha.net
   - variflight.com
-  - vcimg.com
   - vcloudstc.com
   - vcloudstc.net
   - vcloudvod.com
@@ -4879,6 +5121,7 @@ domain_suffix_set:
   - veeqi.net
   - veryhuo.com
   - veryzhun.com
+  - vg.com
   - vgtime.com
   - vic18.com
   - videocc.net
@@ -4903,8 +5146,8 @@ domain_suffix_set:
   - wallstreetcn.com
   - wamawama.com
   - wandoujia.com
-  - wangsu.com
   - wangyangyang.vip
+  - wangyin.com
   - wannianli8.com
   - wanplus.com
   - wanwan4399.com
@@ -4913,6 +5156,7 @@ domain_suffix_set:
   - wanyx.com
   - wbimg.com
   - wcbygame.com
+  - wdfok.com
   - wdjimg.com
   - wdzj.com
   - we4399.com
@@ -4989,13 +5233,11 @@ domain_suffix_set:
   - woyoo.com
   - wps.com
   - wqiis.com
-  - wscdns.com
-  - wscdns.info
-  - wscdns.org
   - wsoso.com
   - wtown.com
   - wukong.com
   - wukongwenda.com
+  - wuliujie.com
   - wuming.com
   - wuximediaglobal.com
   - wxsbank.com
@@ -5017,17 +5259,14 @@ domain_suffix_set:
   - xhscdn.net
   - xiachufang.com
   - xiamenair.com
-  - xiami.fm
-  - xianfae.com
+  - xianjiqun.com
   - xiaobaixitong.com
-  - xiaodutv.com
   - xiaoe-tech.com
   - xiaogouh5.com
   - xiaohongshu.com
   - xiaojukeji.com
   - xiaoka.tv
   - xiaokaxiu.com
-  - xiaoluyouxuan.com
   - xiaoluzhidian.com
   - xiaomi.com
   - xiaomi.net
@@ -5057,6 +5296,7 @@ domain_suffix_set:
   - xiucai.com
   - xiziwang.net
   - xjietiao.com
+  - xjoycity.com
   - xmcdn.com
   - xmhouse.com
   - xnpic.com
@@ -5110,15 +5350,20 @@ domain_suffix_set:
   - yfp2p.net
   - yfscdn.net
   - yh31.com
+  - yhd.com
   - yicai.com
   - yiche.com
   - yigoonet.com
+  - yihaodian.com
+  - yihaodianimg.com
   - yihedoors.com
   - yiigle.com
   - yikaochacha.com
   - yikexue.com
   - yillionbank.com
   - yingjia360.com
+  - yingjiesheng.com
+  - yingjiesheng.net
   - yinhang123.net
   - yinxiang.com
   - yinyuetai.com
@@ -5129,7 +5374,9 @@ domain_suffix_set:
   - yiwan.com
   - yixi.tv
   - yixia.com
+  - yiyaojd.com
   - yizhibo.com
+  - yizhitou.com
   - yjbys.com
   - ykzq.com
   - ylike.net
@@ -5141,7 +5388,6 @@ domain_suffix_set:
   - youba.com
   - youboy.com
   - youdao.com
-  - youhua.com
   - youjiao.com
   - youke.co
   - youlian.fun
@@ -5179,7 +5425,6 @@ domain_suffix_set:
   - yundzh.com
   - yunfancdn.com
   - yunify.com
-  - yunjiasu-cdn.net
   - yunjitele.com
   - yunkanpan.com
   - yunos-inc.com
@@ -5212,7 +5457,6 @@ domain_suffix_set:
   - zcjbgame.com
   - zczj.com
   - zdfans.com
-  - zdmimg.com
   - zdnscloud.biz
   - zdnscloud.com
   - zdnscloud.info
@@ -5283,31 +5527,75 @@ domain_suffix_set:
   - zuodao.com
   - zuowen8.com
   - zuowenwang.net
-  - zuoyebang.cc
-  - zuoyebang.com
-  - zybang.com
   - zyh365.com
   - zzdtec.com
+  - 56.com
+  - 71.am.com
+  - 71edge.com
+  - 71edge.net
+  - acfun.com
+  - acfun.tv
+  - aianno.com
+  - aiqiyicloud-mgmt.com
+  - aiqiyicloud.com
+  - aiqiyicloud.net
+  - aixifan.com
   - androidgo.duapp.com
+  - baiying.com
   - cdn.zampdsp.com
   - cm.fancyapi.com
+  - gamenow.club
+  - gitv.tv
   - hifuntv.com
   - hitv.com
   - hunaniptv.com
   - hunantv.com
+  - ibkstore.com
   - imgo.tv
+  - iq.com
+  - iqiyi.com
+  - iqiyi.demo.uwp
+  - iqiyiedge.com
+  - iqiyiedge.net
+  - iqiyipic.com
   - ixigua.com
   - jstucdn.com
+  - kugou.com
+  - kumiao.com
+  - kumiao.tv
+  - kuxiaomiao.com
+  - kuxiaomiao.net
   - le.com
   - letv.com
   - mgtv.com
+  - miguvideo.com
   - noxagile.duapp.com
+  - pps.tv
+  - ppsimg.com
+  - ppstream.com
+  - ppstream.net
+  - ppsurl.com
+  - pptv.com
+  - qiyi.com
+  - qiyipic.com
+  - qy.com
+  - qy.net
   - s.zampdsp.com
   - sohu.com
+  - soku.com
   - tazai.com
   - tencentmusic.com
-  - xiami.com
-  - xiami.net
+  - tudou.com
+  - v-56.com
+  - wenyupages.com
+  - ykimg.com
+  - yodou.com
+  - yoqoo.com
+  - yoqoo.net
+  - yoqoo.tv
+  - youku.com
+  - youku.org
+  - youqoo.net
   - zimuzu.io
   - zimuzu.tv
   - zmz2019.com
@@ -5323,12 +5611,12 @@ domain_suffix_set:
   - migufm.com
   - migugk.com
   - migutv.com
-  - miguvideo.com
   - monternet.com
   - warmchina121.com
   - zdsdp.com
   - 01058511989.com
   - 189qas.com
+  - 21cn.com
   - 21cn.net
   - 21cnentmail.com
   - 21cnimg.com
@@ -5337,11 +5625,19 @@ domain_suffix_set:
   - 360sides.net
   - 4008100800.com
   - 8009900800.com
+  - chinatelecom-h.com
+  - chinatelecomglobal.com
+  - chntel.com
   - ctcdn.com
   - ctcdn.net
   - ctcdn.org
   - ctdns.net
   - ctdns.org
+  - ctexcel.ca
+  - ctexcel.com
+  - ctexcel.com.hk
+  - ctexcel.fr
+  - ctexcel.us
   - cthcdn.com
   - cthcdn.net
   - ctlcdn.com
@@ -6766,7 +7062,6 @@ domain_suffix_set:
   - 153g.net
   - 154.com
   - 1545ts.com
-  - 155.com
   - 155175.com
   - 1559.com
   - 155idc.com
@@ -7508,7 +7803,6 @@ domain_suffix_set:
   - 1zw.com
   - 2-01-5830-0005.cdx.cedexis.net
   - 2-33.com
-  - 2-class.com
   - 2-mm.net
   - 2.biz
   - 2000200.com
@@ -12811,7 +13105,6 @@ domain_suffix_set:
   - 95526.mobi
   - 95528.com
   - 9557.com
-  - 95572.com
   - 95579.com
   - 95597.cc
   - 95598pay.com
@@ -13525,7 +13818,6 @@ domain_suffix_set:
   - acetace.com
   - acewill.net
   - acftu.org
-  - acfunchina.com
   - acg.gd
   - acg17.com
   - acg183.com
@@ -13656,7 +13948,6 @@ domain_suffix_set:
   - adg-dental.com
   - adguardprivate.com
   - adhei.com
-  - adhimalayandi.com
   - adhubbj.xyz
   - adhudong.com
   - adianshi.com
@@ -14646,18 +14937,14 @@ domain_suffix_set:
   - ali37.net
   - aliagain.com
   - alianhome.com
-  - aliapp.com
   - aliasnb.xyz
-  - alibaba
   - alibaba.net
   - alibabachengdun.com
   - alibabachengdun.net
-  - alibabadesign.com
   - alibabafonts.com
   - alibabafoundation.com
   - alibabaonline.com
   - alibabapictures.com
-  - alibabatech.org
   - alibjyun.com
   - alibjyun.net
   - alibtrip.com
@@ -14667,10 +14954,6 @@ domain_suffix_set:
   - alicall.com
   - alicdm.com
   - alicdngslb.com
-  - alicloudlayer.com
-  - alicloudsec.com
-  - alicloudwaf.com
-  - alicontainer.com
   - alicorek.com
   - alidata.org
   - aliddmall.com
@@ -14682,20 +14965,15 @@ domain_suffix_set:
   - aliexpress.us
   - alifabu.com
   - aligames.com
-  - aligaofang.com
-  - aligenie.com
-  - aligfwaf.com
   - alighting.com
   - alihd.net
   - alihuahua.com
   - alijijinhui.org
   - alijk.com
-  - alikunlun.net
   - alili.tech
   - aliliying.com
   - aliloan.com
   - aliluya.com
-  - alimmdn.com
   - alinx.com
   - alinx.vip
   - aliog.com
@@ -14718,10 +14996,8 @@ domain_suffix_set:
   - alithon.com
   - alitrip.hk
   - alittlesoldier.com
-  - aliued.com
   - aliuv.com
   - alivcr.com
-  - alivecdn.com
   - alivv.com
   - aliwd.com
   - aliwears.com
@@ -14735,7 +15011,6 @@ domain_suffix_set:
   - aliyun-cdn.com
   - aliyun.org
   - aliyunbaike.com
-  - aliyunceng.com
   - aliyuncname.xyz
   - aliyuncsslb.com
   - aliyuncsslbintl.com
@@ -14760,45 +15035,9 @@ domain_suffix_set:
   - aliyunddos0027.com
   - aliyunddos0029.com
   - aliyunddos0030.com
-  - aliyunddos1001.com
-  - aliyunddos1002.com
-  - aliyunddos1003.com
-  - aliyunddos1004.com
-  - aliyunddos1005.com
-  - aliyunddos1006.com
-  - aliyunddos1007.com
-  - aliyunddos1008.com
-  - aliyunddos1009.com
-  - aliyunddos1010.com
-  - aliyunddos1011.com
-  - aliyunddos1012.com
-  - aliyunddos1013.com
-  - aliyunddos1014.com
-  - aliyunddos1015.com
-  - aliyunddos1016.com
-  - aliyunddos1017.com
-  - aliyunddos1018.com
-  - aliyunddos1019.com
-  - aliyunddos1020.com
-  - aliyunddos1021.com
-  - aliyunddos1022.com
-  - aliyunddos1023.com
-  - aliyunddos1025.com
-  - aliyunddos1026.com
-  - aliyunddos1027.com
-  - aliyunddos1028.com
-  - aliyunddos1029.com
-  - aliyunddos1030.com
   - aliyundrive.cloud
-  - aliyunduncc.com
-  - aliyundunwaf.com
-  - aliyunedu.net
   - aliyunfile.com
   - aliyunfuwuqi.com
-  - aliyunga0017.com
-  - aliyunga0018.com
-  - aliyunga0019.com
-  - aliyungf.com
   - aliyunhelp.com
   - aliyunhn.com
   - aliyunj.com
@@ -14810,7 +15049,6 @@ domain_suffix_set:
   - aliyunpds.com
   - aliyunqifu.com
   - aliyunssl3.com
-  - aliyunwaf.com
   - aliyunwaf1.com
   - aliyunwaf2.com
   - aliyunwaf3.com
@@ -14950,7 +15188,6 @@ domain_suffix_set:
   - amgbs.com
   - amgepic.com
   - amh.sh
-  - amhimalayanet.com
   - amhl.net
   - amiao.co
   - amijiaoyu.com
@@ -16143,7 +16380,6 @@ domain_suffix_set:
   - avgh5.com
   - avgnati.com
   - avgnatii.com
-  - avgroft.com
   - aviationsnip.com
   - avic.com
   - avicnews.com
@@ -16361,7 +16597,6 @@ domain_suffix_set:
   - azchcdnm.com
   - azdnszx.icu
   - azf010.com
-  - azhimalayanvh.com
   - azhituo.com
   - azhubaby.com
   - azinbate.info
@@ -17193,7 +17428,6 @@ domain_suffix_set:
   - bbiquge.com
   - bbj.icu
   - bbjkw.net
-  - bbk.com
   - bbk000.com
   - bbkantu.com
   - bbkys.com
@@ -22289,7 +22523,6 @@ domain_suffix_set:
   - china-qiao.com
   - china-re.net
   - china-reform.org
-  - china-ric.com
   - china-riscv.com
   - china-russia.org
   - china-season.com
@@ -24499,7 +24732,6 @@ domain_suffix_set:
   - cnrceo.com
   - cnrcloudfm.com
   - cnrdm.com
-  - cnrdn.com
   - cnreagent.com
   - cnree.com
   - cnrencai.com
@@ -25226,7 +25458,6 @@ domain_suffix_set:
   - cqhbzh.com
   - cqhcbk.com
   - cqhhm.com
-  - cqhimalayanky.com
   - cqhkcdns.com
   - cqhpoldi.com
   - cqhwr.com
@@ -25431,7 +25662,6 @@ domain_suffix_set:
   - crcgas.com
   - crcrfsp.com
   - crcsz.com
-  - crct.com
   - crdyf.com
   - cre.net
   - cre021.com
@@ -29808,7 +30038,6 @@ domain_suffix_set:
   - e1988.com
   - e213155.com
   - e21cn.com
-  - e22a.com
   - e23dns.net
   - e24c.com
   - e253.com
@@ -30111,7 +30340,6 @@ domain_suffix_set:
   - ecinnovations.com
   - eciticcfc.com
   - ecjson.com
-  - eckwai.com
   - ecloud.hk
   - ecmagnet.com
   - ecmoban.com
@@ -30932,7 +31160,6 @@ domain_suffix_set:
   - erdosxymt.com
   - erentalcarpro.com
   - ereter.com
-  - ereuiib.com
   - erfang-ic.com
   - erg2008.com
   - ergecdn.com
@@ -31123,7 +31350,6 @@ domain_suffix_set:
   - etonjx.com
   - etonkidd.com
   - etool.cc
-  - etoote.com
   - etoplive.com
   - etoptour.com
   - etoubao.com
@@ -31293,7 +31519,6 @@ domain_suffix_set:
   - ewstudy.com
   - ewt360.com
   - ewteacher.com
-  - ewtp.com
   - ewzum.com
   - ex-silver.com
   - ex-starch.com
@@ -31881,7 +32106,6 @@ domain_suffix_set:
   - fastchina.net
   - fastdo.cc
   - fastgz.com
-  - fastidea.cc
   - fastindexs.com
   - fastliii.com
   - fastmirror.net
@@ -33503,7 +33727,6 @@ domain_suffix_set:
   - fushengal.com
   - fusiling.com
   - fusion-inte.com
-  - fusion.design
   - futa.eu
   - futaike.net
   - fute.com
@@ -34508,7 +34731,6 @@ domain_suffix_set:
   - geicloud.com
   - geihuasuan.com
   - geihui.com
-  - geilijiasu.com
   - geilivr.com
   - geimian.com
   - geiniwan.com
@@ -34883,7 +35105,6 @@ domain_suffix_set:
   - gifu-pr.com
   - giga-da.com
   - giga-science.com
-  - gigaget.com
   - gigbl.com
   - gigpayroll.com
   - gihg.com
@@ -35014,7 +35235,6 @@ domain_suffix_set:
   - gkpass.com
   - gkqcw.com
   - gkshuju.com
-  - gktianshanjd.com
   - gkwo.net
   - gkxd.com
   - gkyly.com
@@ -35901,7 +36121,6 @@ domain_suffix_set:
   - green-sz.com
   - green12306.com
   - greenchengjian.com
-  - greencompute.org
   - greendh.com
   - greenhua.com
   - greenism.net
@@ -36013,7 +36232,6 @@ domain_suffix_set:
   - gskfzxyy.com
   - gskjpt.com
   - gsktraining.com
-  - gskwai.com
   - gslbdns.com
   - gslbdns.net
   - gslmw.net
@@ -36095,31 +36313,6 @@ domain_suffix_set:
   - gtjgzt.com
   - gtlggy.com
   - gtlrxt.com
-  - gtm-a1b2.com
-  - gtm-a1b3.com
-  - gtm-a1b4.com
-  - gtm-a1b6.com
-  - gtm-a1b7.com
-  - gtm-a1b8.com
-  - gtm-a1b9.com
-  - gtm-a2b2.com
-  - gtm-a2b3.com
-  - gtm-a2b4.com
-  - gtm-a2b6.com
-  - gtm-a2b7.com
-  - gtm-a3b1.com
-  - gtm-a3b5.com
-  - gtm-a3b6.com
-  - gtm-a3b7.com
-  - gtm-a3b8.com
-  - gtm-a4b1.com
-  - gtm-a4b3.com
-  - gtm-a4b4.com
-  - gtm-a4b5.com
-  - gtm-a4b6.com
-  - gtm-a4b8.com
-  - gtm-a4b9.com
-  - gtm-a5b4.com
   - gtm-citycloud.com
   - gtm-host.com
   - gtm-i1d1.com
@@ -39359,7 +39552,6 @@ domain_suffix_set:
   - haibao.com
   - haibao123.xyz
   - haibaobaoxian.com
-  - haibaoyl.com
   - haibaoyouxi.com
   - haibeinews.com
   - haibeishangmao.com
@@ -41256,7 +41448,6 @@ domain_suffix_set:
   - hgcitech.com
   - hgcmq.com
   - hgepc.com
-  - hgfdrf.com
   - hghsd.com
   - hgimage.com
   - hgitv.com
@@ -45940,8 +46131,6 @@ domain_suffix_set:
   - inkeygo.com
   - inkonote.com
   - inktok.com
-  - inkuai.com
-  - inkwai.com
   - inlaylink.com
   - inlighting.org
   - inlishui.com
@@ -46281,7 +46470,6 @@ domain_suffix_set:
   - iqishu.la
   - iqiyih5.com
   - iqnew.com
-  - iqoo.com
   - iqshw.com
   - iquanba.com
   - iquanben.net
@@ -47031,8 +47219,6 @@ domain_suffix_set:
   - jadetowerccrc.com
   - jadyf.com
   - jae.sh
-  - jaeapp.com
-  - jaecdn.com
   - jaeger-hello.com
   - jaeosc.com
   - jafeney.com
@@ -48757,7 +48943,6 @@ domain_suffix_set:
   - jiyixcx.com
   - jiyiyq.com
   - jiyou-tech.com
-  - jiyoujia.com
   - jiyouwang.com
   - jiyuanfangchan.com
   - jiyuncn.com
@@ -48855,15 +49040,12 @@ domain_suffix_set:
   - jjsip.com
   - jjssjx.com
   - jjtfyjy.com
-  - jjtianshangi.com
   - jjtonline.com
   - jjtravel.com
   - jjttjx.com
   - jjw.com
   - jjwbc.com
   - jjwli.com
-  - jjwxc.com
-  - jjwxc.org
   - jjxxk.com
   - jjxyls.com
   - jjy118.com
@@ -50769,7 +50951,6 @@ domain_suffix_set:
   - kanjianlishi.com
   - kanjianxinli.com
   - kanjuba1.com
-  - kankan.com
   - kankan.run
   - kankan365.cc
   - kankancity.com
@@ -51375,7 +51556,6 @@ domain_suffix_set:
   - kiss998.com
   - kisskisso.com
   - kissyj.com
-  - kissyui.com
   - kiswo.com
   - kit-lee.me
   - kitic.net
@@ -51921,7 +52101,6 @@ domain_suffix_set:
   - ktyunlianjie.com
   - ku25.com
   - ku33a.net
-  - ku6.net
   - ku82.com
   - ku90.com
   - ku987.com
@@ -51931,10 +52110,8 @@ domain_suffix_set:
   - kuadu.com
   - kuafugame.com
   - kuai-fei.com
-  - kuai-ying.com
   - kuai.ma
   - kuai65.com
-  - kuai666bj7tu65rkdz82.com
   - kuai7.com
   - kuai8.com
   - kuaibiancheng.com
@@ -52009,9 +52186,7 @@ domain_suffix_set:
   - kuaishangkf.com
   - kuaishebao.com
   - kuaishiedu.com
-  - kuaishouapp.com
   - kuaishouba.com
-  - kuaishoupay.com
   - kuaisu.com
   - kuaisushu-cnd.com
   - kuaisuyun.com
@@ -52246,7 +52421,6 @@ domain_suffix_set:
   - kvov.com
   - kvps85.com
   - kvucxko.com
-  - kwaicdn.com
   - kwaigobuy.com
   - kwailbs.com
   - kwailocallife.com
@@ -52254,12 +52428,8 @@ domain_suffix_set:
   - kwairtc.com
   - kwaiselfcdn.com
   - kwaishop.com
-  - kwaishouapp.com
-  - kwaitalk.com
   - kwaixiaodian.com
-  - kwaiying.com
   - kwgaewsl.shop
-  - kwimgs.com
   - kwkf.com
   - kwmachineworks.com
   - kwong-tech.com
@@ -52442,7 +52612,6 @@ domain_suffix_set:
   - lagoujobs.com
   - lagowang.com
   - laguke.com
-  - lahuashanbx.com
   - lahuobao56.com
   - lai-ai.com
   - laianbbs.com
@@ -54524,7 +54693,6 @@ domain_suffix_set:
   - liuzuo.com
   - liuzy88.com
   - live-era.com
-  - live-voip.com
   - live123.cc
   - liveapp.ink
   - livecdnstatic.com
@@ -57478,7 +57646,6 @@ domain_suffix_set:
   - mfqqx.com
   - mfqwdz.com
   - mfqyw.com
-  - mftianshanam.com
   - mftvideo.com
   - mfwxpay.com
   - mfxlawyer.com
@@ -58276,7 +58443,6 @@ domain_suffix_set:
   - mn-soft.com
   - mnaafjk.com
   - mnancheng.com
-  - mnbvtgv.com
   - mnc011.mcc460.pub.3gppnetwork.org
   - mnengine.com
   - mnghjkiitik.cfd
@@ -59141,7 +59307,6 @@ domain_suffix_set:
   - my2space.com
   - my2w.com
   - my399.com
-  - my3w.com
   - my478.com
   - my510.com
   - my51y.com
@@ -59505,7 +59670,6 @@ domain_suffix_set:
   - mzzyk.com
   - n-bros.net
   - n.biz
-  - n0808.com
   - n12345.com
   - n13.club
   - n1b.com
@@ -60502,7 +60666,6 @@ domain_suffix_set:
   - njhoutai.com
   - njhszoo.com
   - njhzypiano.com
-  - njibhu.com
   - njjn.com
   - njjsyy.com
   - njjuntong.com
@@ -60805,7 +60968,6 @@ domain_suffix_set:
   - nnjingchu.com
   - nnjingda.com
   - nnjingyuan.com
-  - nnjioko.com
   - nnjiuji.com
   - nnjiurun2018.com
   - nnjiuzhidu.com
@@ -60955,7 +61117,6 @@ domain_suffix_set:
   - nnszwl.com
   - nnt0.net
   - nntaichu.com
-  - nntlj.com
   - nntlyy.com
   - nntobo.com
   - nnttsoft.com
@@ -61489,7 +61650,6 @@ domain_suffix_set:
   - nxsjgd.com
   - nxsyy.com
   - nxtf.net
-  - nxtianshangb.com
   - nxxdns.com
   - nxximg.com
   - nxxplayurl.com
@@ -61794,7 +61954,6 @@ domain_suffix_set:
   - okey06.com
   - okeycar.com
   - okgoes.com
-  - okhimalayanzi.com
   - okhqb.com
   - okidc.com
   - okideaad.com
@@ -62235,7 +62394,6 @@ domain_suffix_set:
   - osizx.com
   - osjiaju.com
   - osk-clean.com
-  - oskwai.com
   - oslaw.net
   - osmanbio.com
   - osnovacompany.com
@@ -63046,7 +63204,6 @@ domain_suffix_set:
   - peopledailypress.com
   - peoplelamp.com
   - peoplemooc.com
-  - peoplerail.com
   - peopleyuqing.com
   - pepresource.com
   - pepsidns.cc
@@ -63265,7 +63422,6 @@ domain_suffix_set:
   - piccjs.com
   - piccpayment.com
   - picdns.com
-  - pickpikka.com
   - picooc.com
   - picosmos.net
   - picovr.com
@@ -63707,7 +63863,6 @@ domain_suffix_set:
   - poemschina.com
   - pohaier.com
   - pohover.com
-  - poikm.com
   - poinesttia.com
   - point-memory.com
   - poizon.com
@@ -63893,7 +64048,6 @@ domain_suffix_set:
   - ppgame.com
   - ppgg.in
   - ppgslb.com
-  - pphimalayanrt.com
   - ppio.cloud
   - ppio.work
   - ppj.io
@@ -67375,7 +67529,6 @@ domain_suffix_set:
   - robam.com
   - robei.com
   - roboo.com
-  - robook.com
   - robopeak.net
   - roborock.com
   - robosense.ai
@@ -68441,10 +68594,8 @@ domain_suffix_set:
   - scdengbang.com
   - scdn.im
   - scdn1e8v.com
-  - scdnbi9w.com
   - scdndns.com
   - scdndns.net
-  - scdndsa6.com
   - scdnebrq.com
   - scdnf80r.com
   - scdng8js.com
@@ -68960,7 +69111,6 @@ domain_suffix_set:
   - searcheasy.net
   - searchpstatp.com
   - searchstatic.com
-  - searchtb.com
   - searchtoutiaolive.com
   - seashinepm.com
   - seasj.com
@@ -71513,7 +71663,6 @@ domain_suffix_set:
   - sjzgxwl.com
   - sjzhijia100.com
   - sjzhu.com
-  - sjzhushou.com
   - sjzhxhg.com
   - sjzjkqgs.com
   - sjzkz.com
@@ -72625,11 +72774,9 @@ domain_suffix_set:
   - ssptqt.com
   - ssqgx.com
   - ssqzj.com
-  - ssrcdn.com
   - ssrcr.com
   - ssreader.com
   - ssrlzy.net
-  - ssscdn.com
   - sssch.net
   - ssslgs.com
   - sssmro.com
@@ -74370,7 +74517,6 @@ domain_suffix_set:
   - tactan.net
   - tadgkj.com
   - tadu.com
-  - taeapp.com
   - taeee.com
   - tag.gg
   - tagen-pm.com
@@ -74536,7 +74682,6 @@ domain_suffix_set:
   - tangmi.net
   - tangongye.com
   - tangpai.cc
-  - tangping.com
   - tangqingtuia1.com
   - tangruiqian.com
   - tangsanshu.com
@@ -74594,7 +74739,6 @@ domain_suffix_set:
   - tao8090.com
   - taoa.com
   - taoart.com
-  - taobao
   - taobao-img.com
   - taobao.global
   - taobao.net
@@ -74648,7 +74792,6 @@ domain_suffix_set:
   - taohaowan.com
   - taohhui.com
   - taohouma.com
-  - taohua.com
   - taohuah.com
   - taohuazu.net
   - taohuazu.pw
@@ -74811,7 +74954,6 @@ domain_suffix_set:
   - tbqqq.com
   - tbreeden.com
   - tbs321.com
-  - tbsandbox.com
   - tbsgame.net
   - tbsite.net
   - tbt-tuning.com
@@ -74919,7 +75061,6 @@ domain_suffix_set:
   - tdmoli2.com
   - tdnsv3.com
   - tdotapp.com
-  - tdpress.com
   - tdrffh.com
   - tdshbao.com
   - tdsjbj.com
@@ -75505,7 +75646,6 @@ domain_suffix_set:
   - tianma3600.com
   - tianmadz.com
   - tianmaijigou.com
-  - tianmao.com
   - tianmawx.com
   - tianmaying.com
   - tianmimiclub.com
@@ -76051,10 +76191,8 @@ domain_suffix_set:
   - tm312.com
   - tm5ad.com
   - tmaill.com
-  - tmall
   - tmall.casa
   - tmallalicdn.com
-  - tmallgenie.com
   - tmallvvv.com
   - tmbbs.com
   - tmctool.com
@@ -78114,7 +78252,6 @@ domain_suffix_set:
   - urovo.com
   - urovo.net
   - urovoworld.com
-  - urq7wvyumzfdi5.com
   - ursb.me
   - urtrust.com
   - us-ex.com
@@ -78237,7 +78374,6 @@ domain_suffix_set:
   - uugame.com
   - uugtv.com
   - uuh5.com
-  - uuhimalayanqm.com
   - uuid.online
   - uuimg.com
   - uuisoas.xyz
@@ -78701,7 +78837,6 @@ domain_suffix_set:
   - viday.org
   - videaba.com
   - video-study.com
-  - video-voip.com
   - video2text.com
   - videofty.com
   - videohupu.com
@@ -78899,9 +79034,6 @@ domain_suffix_set:
   - vivijk.com
   - viviv.com
   - viviwin.com
-  - vivo.com
-  - vivo.xyz
-  - vivoglobal.com
   - vivojrkj.com
   - vivokb.com
   - vivst.com
@@ -81676,7 +81808,6 @@ domain_suffix_set:
   - wodeoffice.com
   - wodescw.com
   - wodeshebao.com
-  - wodeyt.com
   - wodidashi.com
   - wodjob.com
   - wodocx.com
@@ -82323,7 +82454,6 @@ domain_suffix_set:
   - wuwenjun.net
   - wuwuju.com
   - wuxiairport.com
-  - wuxianhaibao.com
   - wuxiantu.com
   - wuxianyaan.com
   - wuxiaodi.com
@@ -82928,7 +83058,6 @@ domain_suffix_set:
   - xb0.cc
   - xb2s.com
   - xbaofun.com
-  - xbase.cloud
   - xbatu.com
   - xbauto.com
   - xbb8.com
@@ -83034,7 +83163,6 @@ domain_suffix_set:
   - xckj688.com
   - xckpjs.com
   - xckszx.com
-  - xcloudbase.com
   - xcmad.com
   - xcmg.com
   - xcmgmall.com
@@ -83189,7 +83317,6 @@ domain_suffix_set:
   - xetlk.com
   - xetslk.com
   - xevd.co
-  - xevddy.com
   - xewl.xyz
   - xeylon.com
   - xeys.net
@@ -83262,7 +83389,6 @@ domain_suffix_set:
   - xgd666.com
   - xgdfz.com
   - xgdown.com
-  - xgdq.com
   - xgfz.net
   - xggj56.com
   - xggjj.com
@@ -83592,7 +83718,6 @@ domain_suffix_set:
   - xiaoac.com
   - xiaoantech.com
   - xiaobafood.com
-  - xiaobai.com
   - xiaobaibar.net
   - xiaobaipan.com
   - xiaobaishiji.com
@@ -84975,7 +85100,6 @@ domain_suffix_set:
   - xlhyc.com
   - xliawhile.com
   - xlinclass.com
-  - xlisp.net
   - xljly.com
   - xljnjy.com
   - xljsci.com
@@ -84990,7 +85114,6 @@ domain_suffix_set:
   - xlongm.com
   - xloveyoux.com
   - xlpai.com
-  - xlpan.com
   - xlqeai.com
   - xlqzh.com
   - xlreads.com
@@ -85977,7 +86100,6 @@ domain_suffix_set:
   - xunkids.com
   - xunkoo.com
   - xunlanchina.com
-  - xunlei.net
   - xunleigang.com
   - xunleige.com
   - xunleisvipp.com
@@ -86014,7 +86136,6 @@ domain_suffix_set:
   - xunwei.org
   - xunwei.tm
   - xunweihc.com
-  - xunxi.com
   - xunxiang.site
   - xunxu.com
   - xunyangzaixian.com
@@ -87885,7 +88006,6 @@ domain_suffix_set:
   - yiqiming88.com
   - yiqimob.com
   - yiqingsoft.com
-  - yiqioffice.com
   - yiqishai.com
   - yiqishanyuan.com
   - yiqiso.com
@@ -87897,7 +88017,6 @@ domain_suffix_set:
   - yiqiuu.com
   - yiqiwang.net
   - yiqixiaofei.com
-  - yiqixie.com
   - yiqixiegushi.com
   - yiqiyoo.com
   - yiqiyou.com
@@ -87971,7 +88090,6 @@ domain_suffix_set:
   - yitai17.com
   - yitaihdbf.com
   - yitanyun.com
-  - yitao.com
   - yitcc.com
   - yitel.com
   - yitesoft.com
@@ -89789,10 +89907,8 @@ domain_suffix_set:
   - yunduncdn.com
   - yunduncdns.com
   - yunduncname.com
-  - yundunddos.com
   - yundundns.com
   - yunduns.com
-  - yundunwaf.com
   - yundunwaf1.com
   - yundunwaf2.com
   - yundunwaf3.com
@@ -89915,7 +90031,6 @@ domain_suffix_set:
   - yunpian.com
   - yunpiao.net
   - yunptg.com
-  - yunqi.org
   - yunqi2050.com
   - yunqi6.com
   - yunqiba.com
@@ -90256,7 +90371,6 @@ domain_suffix_set:
   - yxin18.com
   - yxinbao.com
   - yxit.net
-  - yxixy.com
   - yxjia.com
   - yxjjdby.com
   - yxjkhb.com
@@ -90460,7 +90574,6 @@ domain_suffix_set:
   - yz4l.com
   - yz99999.com
   - yzbank.com
-  - yzbo.tv
   - yzbpro.com
   - yzbqzx.net
   - yzbsytl.com
@@ -93943,7 +94056,6 @@ domain_suffix_set:
   - zwoptical.com
   - zwslshy.com
   - zwsmds.com
-  - zwtianshangm.com
   - zwtkl8.com
   - zwtxipr.com
   - zwuoo.com
@@ -94381,7 +94493,13 @@ domain_suffix_set:
   - piaogroup.com
   - yanchupiaojia.com
   - dandanplayer.com
+  - dangdang.com
+  - chinauos.com
+  - deepin.com
+  - deepin.io
+  - deepin.org
   - linglong.dev
+  - uniontech.com
   - cxyule.com
   - didi.xin
   - didimobility.com
@@ -94401,6 +94519,13 @@ domain_suffix_set:
   - qcers.net
   - testin.im
   - xcxwo.com
+  - ddurl.to
+  - dingding.xin
+  - dingtalk.com
+  - dingtalk.net
+  - dingtalkapps.com
+  - laiwang.com
+  - lwurl.to
   - realapp.xin
   - dxy.com
   - dxy.me
@@ -94422,7 +94547,6 @@ domain_suffix_set:
   - moxz.net
   - ugdesk.com
   - idouyinvod.com
-  - bytefcdnrd.com
   - doyonoc.com
   - edgesrv.com
   - guguyuyin.com
@@ -94466,7 +94590,18 @@ domain_suffix_set:
   - study-cloud.com
   - wisestcloud.com
   - xiezixiansheng.com
+  - alitrip.com
+  - asczwa.com
+  - asczxcefsv.com
+  - bcvbw.com
+  - dfkhgj.com
   - edcdfg.com
+  - ereuiib.com
+  - feizhu.com
+  - fliggy.com
+  - fliggy.hk
+  - iuynfg.com
+  - jhgtgb.com
   - mnbvbqw.com
   - ujmjk.com
   - vfvdf.com
@@ -94547,11 +94682,14 @@ domain_suffix_set:
   - xingzhiheyi.com
   - hnair.net
   - hanyi.com
-  - hellowebfont.com
   - joytype.com
+  - freshhema.com
+  - hemamax.com
+  - hemaos.com
   - marioall.com
   - marioin.com
   - mariowap.com
+  - shyhhema.com
   - hiby.cd
   - hiby.com
   - hibymusic.com
@@ -94571,8 +94709,6 @@ domain_suffix_set:
   - zhishiu.com
   - zhishiv.com
   - mirrorcast.tv
-  - peiwanlu.com
-  - snapplay.com
   - hzcnc.com
   - hzdtv.tv
   - hzman.net
@@ -94642,239 +94778,30 @@ domain_suffix_set:
   - nutstore.net
   - nutstorehq.com
   - baijii.com
-  - jianshu.com
-  - jianshu.io
-  - jianshuapi.com
   - shengmingfa.com
   - chaba123.com
+  - jjwxc.com
+  - jjwxc.org
   - jjycw.net
-  - 1huizhan.com
-  - 300hu.com
-  - 360buy.com
-  - 360buyimg.com
-  - 360buyinternational.com
-  - 360top.com
-  - 7fresh.com
-  - baitiao.com
-  - blackdragon.com
+  - robook.com
   - buyjingxi.com
-  - caiyu.com
-  - cloud-beijing.com
-  - cloud-hebi.com
-  - cloud-ningbo.com
-  - cloud-ordos.com
-  - cloud-shenzhen.com
-  - cloud-shiyan.com
-  - cloud-wuhan.com
-  - cloud-xian.com
-  - cloud-xm.com
-  - cloud-zhaoqing.com
-  - cloud-zhongwei.com
-  - cloudanqing.com
-  - cloudbaoshan.com
-  - cloudbeibei.com
-  - cloudbinzhou.com
-  - cloudchangde.com
-  - cloudchangsha.com
-  - cloudchangzhou.com
-  - cloudchaozhou.com
-  - cloudchengde.com
-  - cloudchengdu.com
-  - cloudchuzhou.com
-  - cloudczs.com
-  - clouddalian.com
-  - clouddatong.com
-  - clouddongying.com
-  - cloudfoshan.com
-  - cloudfuqing.com
-  - cloudganzhou.com
-  - cloudguangzhou.com
-  - cloudhaidong.com
-  - cloudhefei.com
-  - cloudhengshui.com
-  - cloudhuaihua.com
-  - cloudhuizhou.com
-  - cloudjinan.com
-  - cloudjinchang.com
-  - cloudjingzhou.com
-  - cloudjining.com
-  - cloudjiujiang.com
-  - cloudkunming.com
-  - cloudleshan.com
-  - cloudlijiang.com
-  - cloudlishui.com
-  - cloudluohe.com
-  - cloudluoyang.com
-  - cloudmeishan.com
-  - cloudnanan.com
-  - cloudnanjing.com
-  - cloudnanning.com
-  - cloudnantong.com
-  - cloudquanzhou.com
-  - cloudsanya.com
-  - cloudshanghai.com
-  - cloudshaoyang.com
-  - cloudshenfuxingqu.com
-  - cloudsiping.com
-  - cloudsuqian.com
-  - cloudtangshan.com
-  - cloudtianjin.com
-  - cloudtongchuan.com
-  - cloudtongliang.com
-  - cloudweinan.com
-  - cloudxiangtan.com
-  - cloudxianyou.com
-  - cloudxining.com
-  - cloudyanan.com
-  - cloudyancheng.com
-  - cloudyantai.com
-  - cloudyinchuan.com
-  - cloudyueyang.com
-  - cloudyuncheng.com
-  - cloudyuxi.com
-  - cloudzhongshan.com
-  - cloudzhuhai.com
-  - dao123.com
-  - goselling.com
   - ibaitiao.com
   - info-insur.com
-  - isvjcloud.com
-  - isvjd.com
-  - jcloud-cache.com
-  - jcloud-cache.net
-  - jcloud-cdn.com
-  - jcloud-live.com
-  - jcloud-oss.com
-  - jcloud.com
-  - jcloudcache.com
-  - jcloudcache.net
-  - jcloudcs.com
-  - jclouddn.com
-  - jclouddns.com
-  - jclouddns.net
-  - jcloudec.com
-  - jcloudedge.com
-  - jcloudedge.net
-  - jcloudgslb.com
-  - jcloudgslb.net
-  - jcloudimg.com
-  - jcloudimg.net
-  - jcloudlb.com
-  - jcloudlb.net
-  - jcloudlive.com
-  - jcloudlv.com
-  - jcloudoss.com
-  - jcloudresolve.com
-  - jcloudresolve.net
-  - jcloudss.com
-  - jcloudstatic.com
-  - jcloudstatic.net
-  - jcloudvideo.com
-  - jcloudvideo.net
   - jcloudwaf.com
   - jcloudwaftest.com
   - jcloudwaftest.net
-  - jclps.com
-  - jd-app.com
-  - jd-ex.com
-  - jd-ex.net
-  - jd.co.th
-  - jd.com
-  - jd.hk
-  - jd.id
-  - jd.ru
-  - jd.shop
-  - jdbusiness.com
-  - jdcache.com
-  - jdcdn.com
-  - jdcloud-api.com
-  - jdcloud-api.net
-  - jdcloud-edu.com
-  - jdcloud-elite.com
-  - jdcloud-elive.com
-  - jdcloud-livebuy.com
-  - jdcloud-mail.com
-  - jdcloud-openapi.com
-  - jdcloud-oss.com
-  - jdcloud.com
-  - jdcloudcache.com
-  - jdcloudcache.net
-  - jdcloudcdn.com
-  - jdcloudcdn.net
-  - jdcloudcs.com
-  - jdclouddns.com
-  - jdclouddns.net
-  - jdcloudedge.com
-  - jdcloudedge.net
-  - jdcloudlb.com
-  - jdcloudlb.net
-  - jdcloudlive.com
-  - jdcloudlive.net
-  - jdcloudresolve.com
-  - jdcloudresolve.net
-  - jdcloudsite.com
-  - jdcloudstatic.com
-  - jdcloudstatic.net
-  - jdcloudstatus.com
-  - jdcloudstatus.net
-  - jdcloudvideo.com
-  - jdcloudvideo.net
-  - jdcloudwaf.com
   - jdcontent.com
   - jdd-global.com
-  - jddapeigou.com
-  - jddglobal.com
   - jddtv.com
-  - jdemall.com
   - jdfeijing.com
   - jdfinance.com
   - jdfmgt.com
-  - jdfw1.com
-  - jdgslb.com
-  - jdgslb.net
-  - jdjinrong.com
-  - jdl.com
-  - jdpay.com
-  - jdpaydns.com
   - jdsmartkf.com
-  - jdwl.com
   - jdworldwide.com
-  - jdx.com
-  - jhscm.com
-  - jingdong.com
-  - jingdongjinrong.com
-  - jingpinhui.com
-  - jingxi.com
-  - jkcsjd.com
-  - joybuy.com
-  - joybuy.es
-  - linglonglife.com
-  - logiseasy.com
-  - mayshijia.com
-  - minitiao.com
-  - missjia.net
-  - ocwms.com
-  - paipai.com
-  - prestodb-china.com
-  - qianxun.com
-  - qingzhouip.com
-  - sgsic.com
   - shlsyb.com
-  - toplife.com
-  - vg.com
   - wanggou.com
-  - wangyin.com
-  - wdfok.com
-  - wuliujie.com
-  - xianjiqun.com
-  - xjoycity.com
-  - yhd.com
-  - yihaodian.com
-  - yihaodianimg.com
   - yihaomall.com
   - yixun.com
-  - yiyaojd.com
-  - yizhitou.com
   - calorietech.com
   - keep.com
   - walkingpad.com
@@ -95048,6 +94975,7 @@ domain_suffix_set:
   - youshop03.com
   - youshop04.com
   - feedsp.com
+  - ku6.net
   - ku6vms.com
   - weiguan.com
   - kuke.com
@@ -95171,6 +95099,7 @@ domain_suffix_set:
   - a1t2w1lzfr.com
   - aarkpbkc.com
   - aatcmdvi.com
+  - acfunchina.com
   - acfunchina.net
   - acguxhda.com
   - aievsge.com
@@ -95190,6 +95119,7 @@ domain_suffix_set:
   - auqscfmk.com
   - auqsipfm.com
   - avec6ua79dc6.com
+  - avgroft.com
   - ax8dm212f0.com
   - ayeucefm.com
   - azmtszpk.com
@@ -95236,6 +95166,7 @@ domain_suffix_set:
   - e9x51y8t91.com
   - ec07yxgd11.com
   - eckgxbfa.com
+  - eckwai.com
   - eczuafam.com
   - egpctiz.com
   - egqkxzd.com
@@ -95248,6 +95179,7 @@ domain_suffix_set:
   - er8gmvwi54p5x1.com
   - ercoabv.com
   - esm8u7oe9ci5.com
+  - etoote.com
   - etoote.net
   - etwgzkce.com
   - evgezphv.com
@@ -95270,6 +95202,7 @@ domain_suffix_set:
   - gqprgkr.com
   - gqzewmsk8yma18.com
   - gr3xuaov74khb.com
+  - gskwai.com
   - gtrukxeo.com
   - gtwrmdxo.com
   - guczkbdq.com
@@ -95290,6 +95223,8 @@ domain_suffix_set:
   - iirpwigs.com
   - ikqtcbva.com
   - ikvoaxzw.com
+  - inkuai.com
+  - inkwai.com
   - ioikypzw.com
   - iotmrvr.com
   - ipqcrhf.com
@@ -95320,7 +95255,9 @@ domain_suffix_set:
   - ksmq5a9kxzmr.com
   - kstv.com
   - ktovztie.com
+  - kuai-ying.com
   - kuai666aa8e43gomqhzeg.com
+  - kuai666bj7tu65rkdz82.com
   - kuai666bjeve6ks43qyw4vc8.com
   - kuai666bjs3gsymi6v4h5pz.com
   - kuai666e9rqs5wumk7at3.com
@@ -95334,9 +95271,11 @@ domain_suffix_set:
   - kuai666vs5aq9o3ytdgp.com
   - kuaiads.com
   - kuaiapps.com
+  - kuaishouapp.com
   - kuaishouapp.net
   - kuaishouapps.com
   - kuaishougroup.com
+  - kuaishoupay.com
   - kuaizhaogong.com
   - kv6om4zs5i47.com
   - kvamerfx.com
@@ -95350,6 +95289,7 @@ domain_suffix_set:
   - kwaiadapp.com
   - kwaiads.com
   - kwaibusiness.com
+  - kwaicdn.com
   - kwaicdnx.com
   - kwaie65eu4gvs1943.com
   - kwaiekow98icxsp7fz.com
@@ -95363,16 +95303,21 @@ domain_suffix_set:
   - kwairpoewaum3s9z41.com
   - kwairr9aw56vso581r.com
   - kwaisczway7r4tz7m8.com
+  - kwaishouapp.com
   - kwaishouapp.net
+  - kwaitalk.com
   - kwaitv.com
   - kwaiww7t3qi8x217.com
+  - kwaiying.com
   - kwaiymx64war5a7f.com
+  - kwimgs.com
   - kwxpobrw.com
   - kxkzrcke.com
   - kxstykrgx8z3.com
   - kyubwsx1g5.com
   - kzrqicae.com
   - l799vk4qe2.com
+  - live-voip.com
   - m3mk7nyo17.com
   - m4vmsozi62ifz.com
   - m6tza3ip7x8zr1.com
@@ -95419,6 +95364,7 @@ domain_suffix_set:
   - orvaegao.com
   - orzoupri.com
   - osf5xep778.com
+  - oskwai.com
   - oskwai.net
   - otcaumiu.com
   - otqyzk7mx2t8.com
@@ -95500,6 +95446,8 @@ domain_suffix_set:
   - smsvifv.com
   - srcqeece.com
   - ssixvo9gaybkp5.com
+  - ssrcdn.com
+  - ssscdn.com
   - stozxmveui4pvr.com
   - sturmdcp.com
   - svk3o97xmyid93.com
@@ -95547,6 +95495,7 @@ domain_suffix_set:
   - upeaoktc.com
   - urmuyhz.com
   - urpwcei.com
+  - urq7wvyumzfdi5.com
   - urwkcgpt.com
   - utowekcr.com
   - utuqafcr.com
@@ -95566,6 +95515,7 @@ domain_suffix_set:
   - vacepcvu.com
   - vevsmize.com
   - vg89qeas3xagd.com
+  - video-voip.com
   - vk6oqcevmd1a.com
   - vkrtzzc.com
   - vosvmamt.com
@@ -95582,6 +95532,7 @@ domain_suffix_set:
   - wexguivq.com
   - wmgurt9zka425.com
   - woaiyt.com
+  - wodeyt.com
   - wqszwhf.com
   - wqzsc36ou356m.com
   - wseqtza.com
@@ -95631,6 +95582,8 @@ domain_suffix_set:
   - yd43s2q51b.com
   - yeoebyevhq.com
   - yiqihuihui.com
+  - yiqioffice.com
+  - yiqixie.com
   - ykazgima.com
   - ykmxemho.com
   - ykugyph.com
@@ -95641,6 +95594,7 @@ domain_suffix_set:
   - ywvzxeau.com
   - yx8tya36v8bp.com
   - yxepqcbc.com
+  - yxixy.com
   - yxzcemet.com
   - z3145x0367.com
   - z4gwsoqmcvxt.com
@@ -95685,7 +95639,6 @@ domain_suffix_set:
   - kkzhan.com
   - ktv.com
   - kugoo.com
-  - kugou.com
   - kugou.net
   - kugouipv6.com
   - kumi.com
@@ -95747,9 +95700,12 @@ domain_suffix_set:
   - dualspacetech.com
   - easyclean.fun
   - kejids.com
+  - ludashi.com
   - superlitetech.com
   - xiaoluerhuo.com
   - xiaoluhaohuo.com
+  - xiaoluyouxuan.com
+  - youhua.com
   - aqara.com
   - lumiunited.com
   - flyme.com
@@ -95781,7 +95737,9 @@ domain_suffix_set:
   - uniny.com
   - xdgogogo.com
   - airnut.com
+  - moji.com
   - mojicb.com
+  - mojichina.com
   - mojitest.com
   - moweather.com
   - chinagslb.com
@@ -95878,7 +95836,6 @@ domain_suffix_set:
   - yunxinsvr.com
   - yunxinvcloud.com
   - yunxinvideo.com
-  - 163yun.com
   - yun-app.net
   - aibreeno.com
   - allawnfs.com
@@ -95887,21 +95844,38 @@ domain_suffix_set:
   - andes.tech
   - andesbrain.com
   - breenomeet.cc
+  - coloros.com
   - coloros.net
   - familyincloud.com
   - fenzijr.com
+  - finzfin.com
   - finzjr.com
+  - heytap.com
   - heytapcloud.com
+  - heytapcs.com
+  - heytapdownload.com
+  - heytapimage.com
+  - heytapmobi.com
   - heytapugc.com
   - ibreeno.com
   - myoas.com
   - myoas.net
+  - myoppo.com
   - omeet.cc
   - oplustrust.com
+  - oppo.com
+  - oppo.mobi
+  - oppodigital.com
+  - oppoer.me
   - oppofind.com
+  - oppomobile.com
+  - oppopay.com
   - opposales.com
   - ortc.cc
+  - realme.com
   - realme.net
+  - realmebbs.com
+  - realmemobile.com
   - realmeservice.com
   - sj6rgxtjg3tmb.com
   - vayol.com
@@ -95914,12 +95888,12 @@ domain_suffix_set:
   - oupengcloud.net
   - g1d.net
   - pplive.net
-  - pptv.com
   - pptvdata.com
   - pptvimg.com
   - pptvnet.com
   - pptvyun.com
   - 95580.net
+  - psbc.com
   - 1010-0000.com
   - 18ebank.com
   - 1qianbao.com
@@ -96000,10 +95974,12 @@ domain_suffix_set:
   - cptn.tv
   - faxianpindao.com
   - quaolai.com
+  - smzdm.com
   - smzdmimg.com
   - valueq-sea.com
   - wanwuzhinan.com
   - zdm.net
+  - zdmimg.com
   - zhidemai.com
   - bubuying.net
   - kuaishuru.net
@@ -96085,10 +96061,8 @@ domain_suffix_set:
   - wowenwen.com
   - yeyousg.com
   - yidianliulan.com
-  - fang.com
   - hkproperty.com
   - soufun.com
-  - soufunimg.com
   - txsf.com
   - villachina.com
   - chinadzfp.com
@@ -96188,6 +96162,7 @@ domain_suffix_set:
   - myqcloud.net
   - nba.com
   - pcmgr-global.com
+  - peiwanlu.com
   - pengyou.com
   - prayaya.com
   - qbview.com
@@ -96215,6 +96190,7 @@ domain_suffix_set:
   - safejmp.com
   - shuame.com
   - sixjoy.com
+  - snapplay.com
   - taotao.com
   - tav-global.com
   - tdnsv1.com
@@ -96250,9 +96226,13 @@ domain_suffix_set:
   - upqzfilebk.com
   - voovlive.com
   - wanjiashow.com
+  - wechatlegal.net
+  - wechatpay.com
   - wechatpay.com.hk
   - weiaixiaoshuo.com
   - weishi.com
+  - weixin.com
+  - weixinsxy.com
   - wesingapp.com
   - wisefx.com
   - wnsqzonebk.com
@@ -96301,9 +96281,34 @@ domain_suffix_set:
   - qingzhou.pro
   - uc-test.com
   - zjbuc.com
+  - cdndo.com
+  - ecloud-gdu.com
   - ipbaohe.com
+  - ipssh.net
   - u-cdn.com
+  - u-cdn.net
+  - ucgslb.com
+  - ucgslb.info
+  - ucgslb.net
+  - ucgslb.top
+  - ucloud365.com
+  - ucloudadmin.com
+  - ucloudapi.com
+  - ucloudgda.com
+  - ucloudoss.com
+  - ucloudstack.com
+  - ucloudstack.net
   - uclouduewaf.com
+  - ucloudufile.com
+  - uewaf.com
+  - ufileos.com
+  - ugslb.com
+  - ugslb.info
+  - ugslb.net
+  - ugslb.top
+  - ugslb2.net
+  - uhasadmin.com
+  - unaming.net
   - aicdn2.com
   - aicdn3.com
   - aicdn4.com
@@ -96313,11 +96318,19 @@ domain_suffix_set:
   - sktcdn.com
   - airepay.net
   - chinapayhongkong.com
+  - vancl.com
+  - vanclimg.com
+  - vcimg.com
   - appsimg.com
   - appvipshop.com
   - vipstatic.com
+  - bbk.com
   - funtouchos.com
   - gdbbk.com
+  - iqoo.com
+  - vivo.com
+  - vivo.xyz
+  - vivoglobal.com
   - vivosjpt.com
   - vivotc.com
   - vmic.xyz
@@ -96345,15 +96358,19 @@ domain_suffix_set:
   - wanmei.net
   - wmupd.com
   - wmwm.com
+  - 51cdn.com
+  - 8686c.com
   - 90kuai.net
   - 94kuai.com
   - appsecurity.top
   - bjhlgw.com
   - bkcipbewruo.com
+  - cdn20.com
   - cdn20.info
   - cdn20.org
   - cdn30.com
   - cdn30.info
+  - cdn30.org
   - cdn40.com
   - cdn50.com
   - cdn60.com
@@ -96363,6 +96380,7 @@ domain_suffix_set:
   - cdnetgdns.com
   - cdnexus.com
   - cdngtm.com
+  - chinanetcenter.com
   - cloudcdnvip.com
   - cnccdn.com
   - cncdomain.com
@@ -96385,7 +96403,10 @@ domain_suffix_set:
   - lxdas.com
   - lxdfs.com
   - lxdms.com
+  - lxdns.com
+  - lxdns.info
   - lxdns.net
+  - lxdns.org
   - lxdus.com
   - lxdvs.com
   - lxdvs.info
@@ -96402,7 +96423,9 @@ domain_suffix_set:
   - ogccdn.com
   - ourcdns.com
   - ourcloudsec.com
+  - ourdvs.com
   - ourdvs.net
+  - ourdvsss.com
   - ourdvsssvip.com
   - ourdvsvip.com
   - ourdxz.com
@@ -96461,10 +96484,13 @@ domain_suffix_set:
   - speedcdns.org
   - speedcdnsvip.com
   - speedws.com
+  - speedws.info
+  - speedws.org
   - tl88.net
   - uvcdns.com
   - vmylan.com
   - voddlb.com
+  - wangsu.com
   - wangsucloud.com
   - wangsuedge.com
   - wangsuedge.net
@@ -96473,6 +96499,9 @@ domain_suffix_set:
   - wcsapi.com
   - wcsapi.net
   - wscdn30.com
+  - wscdns.com
+  - wscdns.info
+  - wscdns.org
   - wscdnss.com
   - wscgdns.com
   - wsclouddns.com
@@ -96528,11 +96557,7 @@ domain_suffix_set:
   - xunleioa.com
   - xylive.tv
   - iot-tencent.com
-  - wechatlegal.net
   - wechatos.net
-  - wechatpay.com
-  - weixin.com
-  - weixinsxy.com
   - dicom365.com
   - dycom365.com
   - wedcm.com
@@ -96593,6 +96618,9 @@ domain_suffix_set:
   - zenmen.com
   - wolai.ren
   - woyun.work
+  - xiami.com
+  - xiami.fm
+  - xiami.net
   - hjkhjkl.com
   - iopiopl.com
   - lkjujm.com
@@ -96611,6 +96639,7 @@ domain_suffix_set:
   - 8moom.com
   - moomv.com
   - puppy888.com
+  - xgdq.com
   - xgdqsn.com
   - xiaogou111.com
   - xiaogou222.com
@@ -96704,13 +96733,24 @@ domain_suffix_set:
   - iganggu.com
   - ncfjj.com
   - snowballfinance.com
+  - 155.com
   - 2sonar.com
   - fontong.com
+  - geilijiasu.com
   - geilijiasu.net
+  - gigaget.com
+  - kankan.com
+  - n0808.com
   - newvr.com
+  - sjzhushou.com
   - szxlxzb.com
+  - xbase.cloud
   - xbase.xyz
+  - xcloudbase.com
+  - xlisp.net
+  - xlpan.com
   - xlyouxi.net
+  - xunlei.net
   - got001.com
   - got002.com
   - rrys.tv
@@ -96735,28 +96775,13 @@ domain_suffix_set:
   - hifengli.com
   - liexiulive.com
   - sndks.com
+  - yzbo.tv
   - carrydj.com
   - hj-dog.com
   - maozhuar.com
   - xuanyaodang.com
   - xuanyaodang.net
   - youmengchuangxiang.com
-  - gamenow.club
-  - kumiao.com
-  - kumiao.tv
-  - kuxiaomiao.com
-  - kuxiaomiao.net
-  - soku.com
-  - tudou.com
-  - wenyupages.com
-  - ykimg.com
-  - yodou.com
-  - yoqoo.com
-  - yoqoo.net
-  - yoqoo.tv
-  - youku.com
-  - youku.org
-  - youqoo.net
   - 52ml.net
   - banmadayuwen.com
   - banmagushi.com
@@ -97002,31 +97027,6 @@ domain_suffix_set:
   - zhihuichuangyanshi.com
   - zhihuixuexipt.com
   - zyjyyun.com
-  - 71.am.com
-  - 71edge.com
-  - 71edge.net
-  - aianno.com
-  - aiqiyicloud-mgmt.com
-  - aiqiyicloud.com
-  - aiqiyicloud.net
-  - baiying.com
-  - gitv.tv
-  - ibkstore.com
-  - iq.com
-  - iqiyi.com
-  - iqiyi.demo.uwp
-  - iqiyiedge.com
-  - iqiyiedge.net
-  - iqiyipic.com
-  - pps.tv
-  - ppsimg.com
-  - ppstream.com
-  - ppstream.net
-  - ppsurl.com
-  - qiyi.com
-  - qiyipic.com
-  - qy.com
-  - qy.net
   - 01hub.com
   - app.so
   - appsolution.cc
@@ -97061,10 +97061,10 @@ domain_keyword_set:
   - officecdn
   - taobao
   - bilibili
+  - qiyi
   - hnagroup
   - stripe
   - weibo
-  - qiyi
 ip_cidr_set:
   - 0.0.0.0/32
   - 1.0.1.0/24
@@ -100804,8 +100804,14 @@ ip_cidr_set:
   - 154.208.144.0/20
   - 154.208.160.0/21
   - 154.208.172.0/23
+  - 154.209.2.0/24
   - 154.209.251.0/24
   - 154.213.4.0/23
+  - 154.223.168.0/23
+  - 154.223.170.0/24
+  - 154.223.178.0/23
+  - 154.223.180.0/24
+  - 154.223.182.0/24
   - 154.23.188.0/22
   - 154.36.92.0/23
   - 154.38.104.0/22
@@ -104241,7 +104247,6 @@ ip_cidr_set:
   - 38.105.26.0/23
   - 38.105.28.0/22
   - 38.111.220.0/23
-  - 38.12.36.0/23
   - 38.12.39.0/24
   - 38.134.56.0/23
   - 38.147.168.0/23
@@ -104925,6 +104930,8 @@ ip_cidr_set:
   - 45.153.128.0/22
   - 45.154.244.0/24
   - 45.157.88.0/24
+  - 45.192.184.0/24
+  - 45.192.187.0/24
   - 45.195.198.0/24
   - 45.195.6.0/24
   - 45.199.167.0/24
@@ -105083,8 +105090,6 @@ ip_cidr_set:
   - 49.4.0.0/14
   - 49.52.0.0/14
   - 49.64.0.0/11
-  - 49.98.152.0/21
-  - 49.98.160.0/22
   - 5.10.138.0/23
   - 5.10.140.0/24
   - 5.10.143.0/24
@@ -117265,7 +117270,7 @@ ip_cidr6_set:
   - 2a0e:aa07:e1a0::/43
   - 2a0e:aa07:e1e1::/48
   - 2a0e:aa07:e1e2::/47
-  - 2a0e:aa07:e1e4::/48
+  - 2a0e:aa07:e1e4::/47
   - 2a0e:aa07:e200::/43
   - 2a0e:aa07:e220::/44
   - 2a0e:aa07:ec10::/44
@@ -117278,7 +117283,7 @@ ip_cidr6_set:
   - 2a0e:b107:12b::/48
   - 2a0e:b107:14a0::/44
   - 2a0e:b107:16b0::/44
-  - 2a0e:b107:178d::/48
+  - 2a0e:b107:178c::/47
   - 2a0e:b107:1a31:1::/64
   - 2a0e:b107:1a32:1000::/52
   - 2a0e:b107:1a34::/48
