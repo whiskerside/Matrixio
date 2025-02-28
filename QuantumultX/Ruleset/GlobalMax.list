@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31231
+# 规则统计:31261
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -56,6 +56,15 @@ HOST,medone-education.thieme.com,GlobalMax
 HOST,mscrl.microsoft.com,GlobalMax
 HOST,muse.jhu.edu,GlobalMax
 HOST,nationalaustraliaban.tt.omtrdc.net,GlobalMax
+HOST,ntp-c.colorado.edu,GlobalMax
+HOST,ntp0.ntp-servers.net,GlobalMax
+HOST,ntp1.ntp-servers.net,GlobalMax
+HOST,ntp2.ntp-servers.net,GlobalMax
+HOST,ntp3.ntp-servers.net,GlobalMax
+HOST,ntp4.ntp-servers.net,GlobalMax
+HOST,ntp5.ntp-servers.net,GlobalMax
+HOST,ntp6.ntp-servers.net,GlobalMax
+HOST,ntp7.ntp-servers.net,GlobalMax
 HOST,nvidia.tt.omtrdc.net,GlobalMax
 HOST,ocsp.microsoft.com,GlobalMax
 HOST,oneocsp.microsoft.com,GlobalMax
@@ -71,6 +80,10 @@ HOST,servd-anthropic-website.b-cdn.net,GlobalMax
 HOST,tesla-cdn.thron.com,GlobalMax
 HOST,tmdb-image-prod.b-cdn.net,GlobalMax
 HOST,translomatic.foxfortmobile.com,GlobalMax
+HOST,ut1-time.colorado.edu,GlobalMax
+HOST,utcnist.colorado.edu,GlobalMax
+HOST,utcnist2.colorado.edu,GlobalMax
+HOST,utcnist3.colorado.edu,GlobalMax
 HOST,vmware.tt.omtrdc.net,GlobalMax
 HOST,vscode.search.windows.net,GlobalMax
 HOST,vsmarketplacebadge.apphb.com,GlobalMax
@@ -1459,6 +1472,10 @@ HOST-SUFFIX,amytele.com,GlobalMax
 HOST-SUFFIX,amzn.asia,GlobalMax
 HOST-SUFFIX,amzn.com,GlobalMax
 HOST-SUFFIX,amzn.to,GlobalMax
+HOST-SUFFIX,amzndns.co.uk,GlobalMax
+HOST-SUFFIX,amzndns.com,GlobalMax
+HOST-SUFFIX,amzndns.net,GlobalMax
+HOST-SUFFIX,amzndns.org,GlobalMax
 HOST-SUFFIX,amznl.com,GlobalMax
 HOST-SUFFIX,anacams.com,GlobalMax
 HOST-SUFFIX,anaconda.cloud,GlobalMax
@@ -1579,13 +1596,20 @@ HOST-SUFFIX,aopcuk.ac.uk,GlobalMax
 HOST-SUFFIX,aorus.com,GlobalMax
 HOST-SUFFIX,aoxx69.net,GlobalMax
 HOST-SUFFIX,ap-bangkok.myqcloud.com,GlobalMax
+HOST-SUFFIX,ap-bangkok.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap-hongkong.myqcloud.com,GlobalMax
+HOST-SUFFIX,ap-hongkong.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap-jakarta.myqcloud.com,GlobalMax
+HOST-SUFFIX,ap-jakarta.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap-mumbai.myqcloud.com,GlobalMax
+HOST-SUFFIX,ap-mumbai.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap-seoul.myqcloud.com,GlobalMax
+HOST-SUFFIX,ap-seoul.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap-singapore.myqcloud.com,GlobalMax
+HOST-SUFFIX,ap-singapore.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,ap-tokyo.myqcloud.com,GlobalMax
+HOST-SUFFIX,ap-tokyo.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap0le.com,GlobalMax
 HOST-SUFFIX,apa.org,GlobalMax
 HOST-SUFFIX,apexlegends.com,GlobalMax
@@ -7873,7 +7897,9 @@ HOST-SUFFIX,etviet.com,GlobalMax
 HOST-SUFFIX,etwealth.com,GlobalMax
 HOST-SUFFIX,eu-consumer-empowerment.com,GlobalMax
 HOST-SUFFIX,eu-frankfurt.myqcloud.com,GlobalMax
+HOST-SUFFIX,eu-frankfurt.tencentcos.com,GlobalMax
 HOST-SUFFIX,eu-moscow.myqcloud.com,GlobalMax
+HOST-SUFFIX,eu-moscow.tencentcos.com,GlobalMax
 HOST-SUFFIX,eu-west-101.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,eubluecardvisa.com,GlobalMax
 HOST-SUFFIX,eued.ac.uk,GlobalMax
@@ -15486,10 +15512,13 @@ HOST-SUFFIX,n3ro.net,GlobalMax
 HOST-SUFFIX,n3ro.wtf,GlobalMax
 HOST-SUFFIX,n8agrifood.ac.uk,GlobalMax
 HOST-SUFFIX,na-ashburn.myqcloud.com,GlobalMax
+HOST-SUFFIX,na-ashburn.tencentcos.com,GlobalMax
 HOST-SUFFIX,na-att-idns.net,GlobalMax
 HOST-SUFFIX,na-me.ac.uk,GlobalMax
 HOST-SUFFIX,na-siliconvalley.myqcloud.com,GlobalMax
+HOST-SUFFIX,na-siliconvalley.tencentcos.com,GlobalMax
 HOST-SUFFIX,na-toronto.myqcloud.com,GlobalMax
+HOST-SUFFIX,na-toronto.tencentcos.com,GlobalMax
 HOST-SUFFIX,naaktevrouwenporno.com,GlobalMax
 HOST-SUFFIX,nab.com.au,GlobalMax
 HOST-SUFFIX,nabtravellercard.com.au,GlobalMax
@@ -19124,6 +19153,7 @@ HOST-SUFFIX,s2stagehance.com,GlobalMax
 HOST-SUFFIX,s81c.com,GlobalMax
 HOST-SUFFIX,s8ds5gfm.xyz,GlobalMax
 HOST-SUFFIX,sa-saopaulo.myqcloud.com,GlobalMax
+HOST-SUFFIX,sa-saopaulo.tencentcos.com,GlobalMax
 HOST-SUFFIX,sa.com,GlobalMax
 HOST-SUFFIX,saasexch.com,GlobalMax
 HOST-SUFFIX,saasexch.io,GlobalMax
