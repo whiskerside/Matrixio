@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31441
+# 规则统计:31443
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -254,6 +254,7 @@ HOST,paper-attachments.s3.amazonaws.com,PROXY
 HOST,pchomeonline.com.tw,PROXY
 HOST,pki.google.com,PROXY
 HOST,poshtestgallery.cloudapp.net,PROXY
+HOST,pplx-res.cloudinary.com,PROXY
 HOST,practivate.adobe,PROXY
 HOST,practivate.adobe.com,PROXY
 HOST,practivate.adobe.ipp,PROXY
@@ -22537,6 +22538,7 @@ HOST-SUFFIX,ppb-mod.buzz,PROXY
 HOST-SUFFIX,ppe.lawyer,PROXY
 HOST-SUFFIX,pplah.com,PROXY
 HOST-SUFFIX,pplusstatic.com,PROXY
+HOST-SUFFIX,pplx.ai,PROXY
 HOST-SUFFIX,ppp91.cc,PROXY
 HOST-SUFFIX,pppds.com,PROXY
 HOST-SUFFIX,ppre.ac.uk,PROXY
