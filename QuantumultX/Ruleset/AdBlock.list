@@ -1,5 +1,5 @@
 # 规则名称:AdBlock
-# 规则统计:87617
+# 规则统计:87622
 
 HOST-SUFFIX,000dn.com,REJECT
 HOST-SUFFIX,0013.cc,REJECT
@@ -6926,6 +6926,7 @@ HOST-SUFFIX,optimus-ads.amap.com,REJECT
 HOST-SUFFIX,adashx.ut.amap.com,REJECT
 HOST-SUFFIX,amap-aos-info-nogw.amap.com,REJECT
 HOST-SUFFIX,v6-adashx.ut.amap.com,REJECT
+HOST-SUFFIX,h-adashx.ut.amap.com,REJECT
 HOST-SUFFIX,amarceusan.com,REJECT
 HOST-SUFFIX,amarfa.ir,REJECT
 HOST-SUFFIX,ablinks.info.amaro.com,REJECT
@@ -77875,6 +77876,10 @@ HOST-SUFFIX,puds.test.uae.uc.cn,REJECT
 HOST-SUFFIX,wmedia-track.uc.cn,REJECT
 HOST-SUFFIX,coral-task.uc.cn,REJECT
 HOST-SUFFIX,applogios.uc.cn,REJECT
+HOST-SUFFIX,applog-perf.uc.cn,REJECT
+HOST-SUFFIX,adashx.ut.uc.cn,REJECT
+HOST-SUFFIX,h-adashx.ut.uc.cn,REJECT
+HOST-SUFFIX,s-adashx.ut.uc.cn,REJECT
 HOST-SUFFIX,gm.uc003.com,REJECT
 HOST-SUFFIX,uc123.com,REJECT
 HOST-SUFFIX,1.uc129.com,REJECT
