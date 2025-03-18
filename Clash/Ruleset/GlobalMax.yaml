@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31391
+# 规则统计:31392
 
 payload:
   - DOMAIN,adobeereg.com
@@ -1582,7 +1582,6 @@ payload:
   - DOMAIN-SUFFIX,aoc.cat
   - DOMAIN-SUFFIX,aocc.ac.uk
   - DOMAIN-SUFFIX,aokwholesale.net
-  - DOMAIN-SUFFIX,aomedia.org
   - DOMAIN-SUFFIX,aopcuk.ac.uk
   - DOMAIN-SUFFIX,aorus.com
   - DOMAIN-SUFFIX,aoxx69.net
@@ -25336,6 +25335,7 @@ payload:
   - DOMAIN-SUFFIX,aol.com
   - DOMAIN-SUFFIX,aolcdn.com
   - DOMAIN-SUFFIX,aolnews.com
+  - DOMAIN-SUFFIX,aomedia.org
   - DOMAIN-SUFFIX,aomiwang.com
   - DOMAIN-SUFFIX,ap.org
   - DOMAIN-SUFFIX,apache.org
@@ -29130,6 +29130,7 @@ payload:
   - DOMAIN-SUFFIX,pp.ua
   - DOMAIN-SUFFIX,ppy.sh
   - DOMAIN-SUFFIX,prayforchina.net
+  - DOMAIN-SUFFIX,prcleader.org
   - DOMAIN-SUFFIX,premeforwindows7.com
   - DOMAIN-SUFFIX,premproxy.com
   - DOMAIN-SUFFIX,presentation.new
