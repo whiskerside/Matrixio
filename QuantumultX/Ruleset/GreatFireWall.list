@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:6480
+# 规则统计:6474
 
 HOST-SUFFIX,000webhost.com,GreatFireWall
 HOST-SUFFIX,030buy.com,GreatFireWall
@@ -1215,6 +1215,7 @@ HOST-SUFFIX,cofacts.tw,GreatFireWall
 HOST-SUFFIX,coin2co.in,GreatFireWall
 HOST-SUFFIX,coinbase.com,GreatFireWall
 HOST-SUFFIX,coinbene.com,GreatFireWall
+HOST-SUFFIX,coincarp.com,GreatFireWall
 HOST-SUFFIX,coinegg.com,GreatFireWall
 HOST-SUFFIX,coinex.com,GreatFireWall
 HOST-SUFFIX,coingecko.com,GreatFireWall
@@ -1652,7 +1653,6 @@ HOST-SUFFIX,empfil.com,GreatFireWall
 HOST-SUFFIX,emule-ed2k.com,GreatFireWall
 HOST-SUFFIX,emulefans.com,GreatFireWall
 HOST-SUFFIX,emuparadise.me,GreatFireWall
-HOST-SUFFIX,en.favotter.net,GreatFireWall
 HOST-SUFFIX,en.hao123.com,GreatFireWall
 HOST-SUFFIX,enanyang.my,GreatFireWall
 HOST-SUFFIX,encrypt.me,GreatFireWall
@@ -1808,6 +1808,7 @@ HOST-SUFFIX,fan-qiang.com,GreatFireWall
 HOST-SUFFIX,fanbox.cc,GreatFireWall
 HOST-SUFFIX,fangbinxing.com,GreatFireWall
 HOST-SUFFIX,fangeming.com,GreatFireWall
+HOST-SUFFIX,fangeming.comffvpn.com,GreatFireWall
 HOST-SUFFIX,fangeqiang.com,GreatFireWall
 HOST-SUFFIX,fanglizhi.info,GreatFireWall
 HOST-SUFFIX,fangmincn.org,GreatFireWall
@@ -1830,13 +1831,11 @@ HOST-SUFFIX,faproxy.com,GreatFireWall
 HOST-SUFFIX,faqserv.com,GreatFireWall
 HOST-SUFFIX,fartit.com,GreatFireWall
 HOST-SUFFIX,farwestchina.com,GreatFireWall
-HOST-SUFFIX,fast.wistia.com,GreatFireWall
 HOST-SUFFIX,fastestvpn.com,GreatFireWall
 HOST-SUFFIX,fastpic.ru,GreatFireWall
 HOST-SUFFIX,fastssh.com,GreatFireWall
 HOST-SUFFIX,faststone.org,GreatFireWall
 HOST-SUFFIX,fatbtc.com,GreatFireWall
-HOST-SUFFIX,favstar.fm,GreatFireWall
 HOST-SUFFIX,fawanghuihui.org,GreatFireWall
 HOST-SUFFIX,faydao.com,GreatFireWall
 HOST-SUFFIX,faz.net,GreatFireWall
@@ -1847,14 +1846,10 @@ HOST-SUFFIX,fbaddins.com,GreatFireWall
 HOST-SUFFIX,fbcdn.net,GreatFireWall
 HOST-SUFFIX,fbsbx.com,GreatFireWall
 HOST-SUFFIX,fbworkmail.com,GreatFireWall
-HOST-SUFFIX,fc2.com,GreatFireWall
-HOST-SUFFIX,fc2blog.net,GreatFireWall
-HOST-SUFFIX,fc2china.com,GreatFireWall
 HOST-SUFFIX,fc2cn.com,GreatFireWall
 HOST-SUFFIX,fda.gov.tw,GreatFireWall
 HOST-SUFFIX,fdc64.de,GreatFireWall
 HOST-SUFFIX,fdc64.org,GreatFireWall
-HOST-SUFFIX,fdc89.jp,GreatFireWall
 HOST-SUFFIX,feedburner.com,GreatFireWall
 HOST-SUFFIX,feeder.co,GreatFireWall
 HOST-SUFFIX,feeds.fileforum.com,GreatFireWall
@@ -1870,8 +1865,6 @@ HOST-SUFFIX,fengzhenghu.com,GreatFireWall
 HOST-SUFFIX,fengzhenghu.net,GreatFireWall
 HOST-SUFFIX,fevernet.com,GreatFireWall
 HOST-SUFFIX,ff.im,GreatFireWall
-HOST-SUFFIX,fffff.at,GreatFireWall
-HOST-SUFFIX,fflick.com,GreatFireWall
 HOST-SUFFIX,ffvpn.com,GreatFireWall
 HOST-SUFFIX,fgmtv.net,GreatFireWall
 HOST-SUFFIX,fgmtv.org,GreatFireWall
@@ -2139,6 +2132,7 @@ HOST-SUFFIX,geekerhome.com,GreatFireWall
 HOST-SUFFIX,geekheart.info,GreatFireWall
 HOST-SUFFIX,gekikame.com,GreatFireWall
 HOST-SUFFIX,gelbooru.com,GreatFireWall
+HOST-SUFFIX,gemini.com,GreatFireWall
 HOST-SUFFIX,generated.photos,GreatFireWall
 HOST-SUFFIX,genius.com,GreatFireWall
 HOST-SUFFIX,geocities.co.jp,GreatFireWall
@@ -4068,6 +4062,7 @@ HOST-SUFFIX,omny.fm,GreatFireWall
 HOST-SUFFIX,on.cc,GreatFireWall
 HOST-SUFFIX,on2.com,GreatFireWall
 HOST-SUFFIX,onapp.com,GreatFireWall
+HOST-SUFFIX,one.one.one.one,GreatFireWall
 HOST-SUFFIX,onedrive.com,GreatFireWall
 HOST-SUFFIX,onedrive.live.com,GreatFireWall
 HOST-SUFFIX,onedumb.com,GreatFireWall
@@ -5811,7 +5806,6 @@ HOST-SUFFIX,video.aol.ca,GreatFireWall
 HOST-SUFFIX,video.aol.co.uk,GreatFireWall
 HOST-SUFFIX,video.aol.com,GreatFireWall
 HOST-SUFFIX,video.ap.org,GreatFireWall
-HOST-SUFFIX,video.fdbox.com,GreatFireWall
 HOST-SUFFIX,video.foxbusiness.com,GreatFireWall
 HOST-SUFFIX,videobam.com,GreatFireWall
 HOST-SUFFIX,videodetective.com,GreatFireWall
