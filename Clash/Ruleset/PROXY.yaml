@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31447
+# 规则统计:31448
 
 payload:
   - '3dns-1.adobe.com'
@@ -2431,6 +2431,7 @@ payload:
   - '+.apornotube.net'
   - '+.aporntv.com'
   - '+.apornvideo.com'
+  - '+.app-analytics-services.com'
   - '+.app-dynamics.com'
   - '+.app-measurement-cn.com'
   - '+.app-measurement.com'
