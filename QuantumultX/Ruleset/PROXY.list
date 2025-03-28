@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31465
+# 规则统计:31491
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -40,6 +40,7 @@ HOST,aod-pod-uk-live.akamaized.net,PROXY
 HOST,api-p.videomarket.jp,PROXY
 HOST,api.viu.now.com,PROXY
 HOST,apl-hamivideo.cdn.hinet.net,PROXY
+HOST,apple-tv-plus-press.apple.com,PROXY
 HOST,apple.com.akadns.net,PROXY
 HOST,appleworldwidedeveloper.hb-api.omtrdc.net,PROXY
 HOST,appleworldwidedeveloper.sc.omtrdc.net,PROXY
@@ -182,6 +183,8 @@ HOST,heads4-ak-spotify-com.akamaized.net,PROXY
 HOST,himalaya-exchange.zendesk.com,PROXY
 HOST,hl2rcv.adobe.com,PROXY
 HOST,hlrcv.stage.adobe.com,PROXY
+HOST,hls-amt.itunes.apple.com,PROXY
+HOST,hls.itunes.apple.com,PROXY
 HOST,homebrew.bintray.com,PROXY
 HOST,hpefonts.s3.amazonaws.com,PROXY
 HOST,hpstore.corpmerchandise.com,PROXY
@@ -223,6 +226,7 @@ HOST,netflix.com.edgesuite.net,PROXY
 HOST,notary-submissions-prod.s3-accelerate.amazonaws.com,PROXY
 HOST,notary-submissions-prod.s3.us-west-2.amazonaws.com,PROXY
 HOST,notify.ppy.sh,PROXY
+HOST,np-edge.itunes.apple.com,PROXY
 HOST,ntp-b.nist.gov,PROXY
 HOST,ntp-c.colorado.edu,PROXY
 HOST,ntp-d.nist.gov,PROXY
@@ -253,6 +257,7 @@ HOST,p16-tiktokcdn-com.akamaized.net,PROXY
 HOST,paper-attachments.s3.amazonaws.com,PROXY
 HOST,pchomeonline.com.tw,PROXY
 HOST,pki.google.com,PROXY
+HOST,play-edge.itunes.apple.com,PROXY
 HOST,poshtestgallery.cloudapp.net,PROXY
 HOST,pplx-res.cloudinary.com,PROXY
 HOST,practivate.adobe,PROXY
@@ -408,6 +413,7 @@ HOST,time4.facebook.com,PROXY
 HOST,time4.google.com,PROXY
 HOST,time5.facebook.com,PROXY
 HOST,tmdb-image-prod.b-cdn.net,PROXY
+HOST,tv.applemusic.com,PROXY
 HOST,tvcastlive-hamivideo.cdn.hinet.net,PROXY
 HOST,ubisoft-orbit-savegames.s3.amazonaws.com,PROXY
 HOST,ubisoft-uplay-savegames.s3.amazonaws.com,PROXY
@@ -419,6 +425,7 @@ HOST,ut1-wwv.nist.gov,PROXY
 HOST,utcnist.colorado.edu,PROXY
 HOST,utcnist2.colorado.edu,PROXY
 HOST,utcnist3.colorado.edu,PROXY
+HOST,uts-api.itunes.apple.com,PROXY
 HOST,ve-dash-uk-live.akamaized.net,PROXY
 HOST,ve-uhd-push-uk-live.akamaized.net,PROXY
 HOST,venmo.s3.amazonaws.com,PROXY
@@ -731,6 +738,9 @@ HOST-SUFFIX,1lib.tw,PROXY
 HOST-SUFFIX,1mobile.com,PROXY
 HOST-SUFFIX,1mobile.tw,PROXY
 HOST-SUFFIX,1monsterbeatsbydreus.com,PROXY
+HOST-SUFFIX,1password.ca,PROXY
+HOST-SUFFIX,1password.com,PROXY
+HOST-SUFFIX,1password.eu,PROXY
 HOST-SUFFIX,1point3acres.com,PROXY
 HOST-SUFFIX,1pondo.tv,PROXY
 HOST-SUFFIX,1pornlist.com,PROXY
@@ -1165,6 +1175,7 @@ HOST-SUFFIX,aabb1802.com,PROXY
 HOST-SUFFIX,aabb1803.com,PROXY
 HOST-SUFFIX,aacrjournals.org,PROXY
 HOST-SUFFIX,aadmv.com,PROXY
+HOST-SUFFIX,aadrm.com,PROXY
 HOST-SUFFIX,aaex.uk,PROXY
 HOST-SUFFIX,aalah.me,PROXY
 HOST-SUFFIX,aamacau.com,PROXY
@@ -1605,6 +1616,7 @@ HOST-SUFFIX,agefans.com,PROXY
 HOST-SUFFIX,agemys.org,PROXY
 HOST-SUFFIX,agendaweek.com,PROXY
 HOST-SUFFIX,agenet.ac.uk,PROXY
+HOST-SUFFIX,agilebits.com,PROXY
 HOST-SUFFIX,agnesb.fr,PROXY
 HOST-SUFFIX,agocg.ac.uk,PROXY
 HOST-SUFFIX,agoogleaday.com,PROXY
@@ -8243,7 +8255,9 @@ HOST-SUFFIX,difangwenge.org,PROXY
 HOST-SUFFIX,dify.ai,PROXY
 HOST-SUFFIX,digicert-cn.com,PROXY
 HOST-SUFFIX,digicert-validation.com,PROXY
+HOST-SUFFIX,digicert.co.jp,PROXY
 HOST-SUFFIX,digicert.com,PROXY
+HOST-SUFFIX,digicert.eu,PROXY
 HOST-SUFFIX,digiland.tw,PROXY
 HOST-SUFFIX,digimap.ac.uk,PROXY
 HOST-SUFFIX,digisfera.com,PROXY
@@ -9698,6 +9712,8 @@ HOST-SUFFIX,enterprisebydesign.ac.uk,PROXY
 HOST-SUFFIX,enterprisepaging.com,PROXY
 HOST-SUFFIX,enterpriseresearch.ac.uk,PROXY
 HOST-SUFFIX,enterprisessl.com,PROXY
+HOST-SUFFIX,entrust.cn,PROXY
+HOST-SUFFIX,entrust.com,PROXY
 HOST-SUFFIX,entrust.net,PROXY
 HOST-SUFFIX,entrustdatacard.com,PROXY
 HOST-SUFFIX,enveast.ac.uk,PROXY
@@ -15518,6 +15534,7 @@ HOST-SUFFIX,iwork.wang,PROXY
 HOST-SUFFIX,iwyn138.com,PROXY
 HOST-SUFFIX,ixnxx.tv,PROXY
 HOST-SUFFIX,ixquick.com,PROXY
+HOST-SUFFIX,ixsystems.com,PROXY
 HOST-SUFFIX,ixxx.com,PROXY
 HOST-SUFFIX,iyalc.com,PROXY
 HOST-SUFFIX,iyf.tv,PROXY
@@ -18169,6 +18186,7 @@ HOST-SUFFIX,microsoftadvertising.com,PROXY
 HOST-SUFFIX,microsoftadvertisingregionalawards.com,PROXY
 HOST-SUFFIX,microsoftaffiliates.com,PROXY
 HOST-SUFFIX,microsoftapp.net,PROXY
+HOST-SUFFIX,microsoftazuread-sso.com,PROXY
 HOST-SUFFIX,microsoftazuresponsorships.com,PROXY
 HOST-SUFFIX,microsoftcloud.com,PROXY
 HOST-SUFFIX,microsoftcloudsummit.com,PROXY
@@ -21262,6 +21280,9 @@ HOST-SUFFIX,ozchinese.com,PROXY
 HOST-SUFFIX,ozeex.com,PROXY
 HOST-SUFFIX,ozodi.org,PROXY
 HOST-SUFFIX,ozodlik.org,PROXY
+HOST-SUFFIX,ozon.ru,PROXY
+HOST-SUFFIX,ozone.ru,PROXY
+HOST-SUFFIX,ozonusercontent.com,PROXY
 HOST-SUFFIX,ozvoice.org,PROXY
 HOST-SUFFIX,ozxw.com,PROXY
 HOST-SUFFIX,ozyoyo.com,PROXY
@@ -21991,6 +22012,8 @@ HOST-SUFFIX,playbydurex.com,PROXY
 HOST-SUFFIX,playcover.io,PROXY
 HOST-SUFFIX,player.fm,PROXY
 HOST-SUFFIX,playerjs.io,PROXY
+HOST-SUFFIX,playfab.com,PROXY
+HOST-SUFFIX,playfabapi.com,PROXY
 HOST-SUFFIX,playforceone.com,PROXY
 HOST-SUFFIX,playhearthstone.com,PROXY
 HOST-SUFFIX,playmation.com,PROXY
@@ -26222,6 +26245,7 @@ HOST-SUFFIX,syfor.click,PROXY
 HOST-SUFFIX,syhacked.com,PROXY
 HOST-SUFFIX,sylfoundation.org,PROXY
 HOST-SUFFIX,symantec.com,PROXY
+HOST-SUFFIX,symauth.com,PROXY
 HOST-SUFFIX,symcb.com,PROXY
 HOST-SUFFIX,symcd.com,PROXY
 HOST-SUFFIX,symonds.ac.uk,PROXY
@@ -27347,6 +27371,7 @@ HOST-SUFFIX,truebuddha-md.org,PROXY
 HOST-SUFFIX,truedepth3d.com,PROXY
 HOST-SUFFIX,truedwg.com,PROXY
 HOST-SUFFIX,truefi.io,PROXY
+HOST-SUFFIX,truenas.com,PROXY
 HOST-SUFFIX,trulyergonomic.com,PROXY
 HOST-SUFFIX,trunest.com,PROXY
 HOST-SUFFIX,truro-penwith.ac.uk,PROXY
@@ -28746,6 +28771,7 @@ HOST-SUFFIX,visa.tc,PROXY
 HOST-SUFFIX,visabank.org,PROXY
 HOST-SUFFIX,visabg.com,PROXY
 HOST-SUFFIX,visabusinessinsights.com,PROXY
+HOST-SUFFIX,visaca.com,PROXY
 HOST-SUFFIX,visacarddesignlab.com,PROXY
 HOST-SUFFIX,visacards.com,PROXY
 HOST-SUFFIX,visacheckout.net,PROXY

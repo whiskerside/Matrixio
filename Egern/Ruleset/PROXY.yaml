@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31465
+# 规则统计:31491
 
 domain_set:
   - 3dns-1.adobe.com
@@ -41,6 +41,7 @@ domain_set:
   - api-p.videomarket.jp
   - api.viu.now.com
   - apl-hamivideo.cdn.hinet.net
+  - apple-tv-plus-press.apple.com
   - apple.com.akadns.net
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
@@ -183,6 +184,8 @@ domain_set:
   - himalaya-exchange.zendesk.com
   - hl2rcv.adobe.com
   - hlrcv.stage.adobe.com
+  - hls-amt.itunes.apple.com
+  - hls.itunes.apple.com
   - homebrew.bintray.com
   - hpefonts.s3.amazonaws.com
   - hpstore.corpmerchandise.com
@@ -224,6 +227,7 @@ domain_set:
   - notary-submissions-prod.s3-accelerate.amazonaws.com
   - notary-submissions-prod.s3.us-west-2.amazonaws.com
   - notify.ppy.sh
+  - np-edge.itunes.apple.com
   - ntp-b.nist.gov
   - ntp-c.colorado.edu
   - ntp-d.nist.gov
@@ -254,6 +258,7 @@ domain_set:
   - paper-attachments.s3.amazonaws.com
   - pchomeonline.com.tw
   - pki.google.com
+  - play-edge.itunes.apple.com
   - poshtestgallery.cloudapp.net
   - pplx-res.cloudinary.com
   - practivate.adobe
@@ -409,6 +414,7 @@ domain_set:
   - time4.google.com
   - time5.facebook.com
   - tmdb-image-prod.b-cdn.net
+  - tv.applemusic.com
   - tvcastlive-hamivideo.cdn.hinet.net
   - ubisoft-orbit-savegames.s3.amazonaws.com
   - ubisoft-uplay-savegames.s3.amazonaws.com
@@ -420,6 +426,7 @@ domain_set:
   - utcnist.colorado.edu
   - utcnist2.colorado.edu
   - utcnist3.colorado.edu
+  - uts-api.itunes.apple.com
   - ve-dash-uk-live.akamaized.net
   - ve-uhd-push-uk-live.akamaized.net
   - venmo.s3.amazonaws.com
@@ -733,6 +740,9 @@ domain_suffix_set:
   - 1mobile.com
   - 1mobile.tw
   - 1monsterbeatsbydreus.com
+  - 1password.ca
+  - 1password.com
+  - 1password.eu
   - 1point3acres.com
   - 1pondo.tv
   - 1pornlist.com
@@ -1167,6 +1177,7 @@ domain_suffix_set:
   - aabb1803.com
   - aacrjournals.org
   - aadmv.com
+  - aadrm.com
   - aaex.uk
   - aalah.me
   - aamacau.com
@@ -1607,6 +1618,7 @@ domain_suffix_set:
   - agemys.org
   - agendaweek.com
   - agenet.ac.uk
+  - agilebits.com
   - agnesb.fr
   - agocg.ac.uk
   - agoogleaday.com
@@ -8245,7 +8257,9 @@ domain_suffix_set:
   - dify.ai
   - digicert-cn.com
   - digicert-validation.com
+  - digicert.co.jp
   - digicert.com
+  - digicert.eu
   - digiland.tw
   - digimap.ac.uk
   - digisfera.com
@@ -9700,6 +9714,8 @@ domain_suffix_set:
   - enterprisepaging.com
   - enterpriseresearch.ac.uk
   - enterprisessl.com
+  - entrust.cn
+  - entrust.com
   - entrust.net
   - entrustdatacard.com
   - enveast.ac.uk
@@ -15520,6 +15536,7 @@ domain_suffix_set:
   - iwyn138.com
   - ixnxx.tv
   - ixquick.com
+  - ixsystems.com
   - ixxx.com
   - iyalc.com
   - iyf.tv
@@ -18171,6 +18188,7 @@ domain_suffix_set:
   - microsoftadvertisingregionalawards.com
   - microsoftaffiliates.com
   - microsoftapp.net
+  - microsoftazuread-sso.com
   - microsoftazuresponsorships.com
   - microsoftcloud.com
   - microsoftcloudsummit.com
@@ -21264,6 +21282,9 @@ domain_suffix_set:
   - ozeex.com
   - ozodi.org
   - ozodlik.org
+  - ozon.ru
+  - ozone.ru
+  - ozonusercontent.com
   - ozvoice.org
   - ozxw.com
   - ozyoyo.com
@@ -21993,6 +22014,8 @@ domain_suffix_set:
   - playcover.io
   - player.fm
   - playerjs.io
+  - playfab.com
+  - playfabapi.com
   - playforceone.com
   - playhearthstone.com
   - playmation.com
@@ -26224,6 +26247,7 @@ domain_suffix_set:
   - syhacked.com
   - sylfoundation.org
   - symantec.com
+  - symauth.com
   - symcb.com
   - symcd.com
   - symonds.ac.uk
@@ -27349,6 +27373,7 @@ domain_suffix_set:
   - truedepth3d.com
   - truedwg.com
   - truefi.io
+  - truenas.com
   - trulyergonomic.com
   - trunest.com
   - truro-penwith.ac.uk
@@ -28748,6 +28773,7 @@ domain_suffix_set:
   - visabank.org
   - visabg.com
   - visabusinessinsights.com
+  - visaca.com
   - visacarddesignlab.com
   - visacards.com
   - visacheckout.net
