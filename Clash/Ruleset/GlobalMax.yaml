@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31408
+# 规则统计:31409
 
 payload:
   - DOMAIN,adobeereg.com
@@ -4383,6 +4383,7 @@ payload:
   - DOMAIN-SUFFIX,btt804.com
   - DOMAIN-SUFFIX,btt904.com
   - DOMAIN-SUFFIX,bttzyw.com
+  - DOMAIN-SUFFIX,bttzyw.net
   - DOMAIN-SUFFIX,btwrdn.com
   - DOMAIN-SUFFIX,buba.ac.uk
   - DOMAIN-SUFFIX,bubbaporn.com
