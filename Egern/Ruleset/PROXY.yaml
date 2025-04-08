@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31498
+# 规则统计:31502
 
 domain_set:
   - 3dns-1.adobe.com
@@ -24805,7 +24805,11 @@ domain_suffix_set:
   - sign.ac.uk
   - sign.new
   - signal.art
+  - signal.group
+  - signal.link
+  - signal.me
   - signal.org
+  - signal.tube
   - signalbar.com
   - signalprocessingsociety.org
   - signalr.net
