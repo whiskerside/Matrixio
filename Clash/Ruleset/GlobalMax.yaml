@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31409
+# 规则统计:31413
 
 payload:
   - DOMAIN,adobeereg.com
@@ -19967,6 +19967,10 @@ payload:
   - DOMAIN-SUFFIX,sign.ac.uk
   - DOMAIN-SUFFIX,sign.new
   - DOMAIN-SUFFIX,signal.art
+  - DOMAIN-SUFFIX,signal.group
+  - DOMAIN-SUFFIX,signal.link
+  - DOMAIN-SUFFIX,signal.me
+  - DOMAIN-SUFFIX,signal.tube
   - DOMAIN-SUFFIX,signalbar.com
   - DOMAIN-SUFFIX,signalprocessingsociety.org
   - DOMAIN-SUFFIX,signalr.net
