@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31535
+# 规则统计:31543
 
 payload:
   - DOMAIN,adobeereg.com
@@ -5419,7 +5419,6 @@ payload:
   - DOMAIN-SUFFIX,cloudconvert.com
   - DOMAIN-SUFFIX,cloudcraze.com
   - DOMAIN-SUFFIX,cloudcredibility.com
-  - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,cloudflare-esni.com
   - DOMAIN-SUFFIX,cloudflare-gateway.com
@@ -26044,6 +26043,7 @@ payload:
   - DOMAIN-SUFFIX,cloakpoint.com
   - DOMAIN-SUFFIX,cloud.cupronickel.goog
   - DOMAIN-SUFFIX,cloudcone.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudfront.net
@@ -26711,6 +26711,7 @@ payload:
   - DOMAIN-SUFFIX,fangongheike.com
   - DOMAIN-SUFFIX,fanhaodang.com
   - DOMAIN-SUFFIX,fanhaolou.com
+  - DOMAIN-SUFFIX,fani.com
   - DOMAIN-SUFFIX,fanqiang.network
   - DOMAIN-SUFFIX,fanqiang.tk
   - DOMAIN-SUFFIX,fanqiangdang.com
@@ -26734,6 +26735,7 @@ payload:
   - DOMAIN-SUFFIX,faststone.org
   - DOMAIN-SUFFIX,fatakat-n.club
   - DOMAIN-SUFFIX,fatbtc.com
+  - DOMAIN-SUFFIX,favcomic.com
   - DOMAIN-SUFFIX,favotter.net
   - DOMAIN-SUFFIX,favstar.fm
   - DOMAIN-SUFFIX,fawanghuihui.org
@@ -27268,6 +27270,7 @@ payload:
   - DOMAIN-SUFFIX,gzm.tv
   - DOMAIN-SUFFIX,gzone-anime.info
   - DOMAIN-SUFFIX,h-china.org
+  - DOMAIN-SUFFIX,h-ciyuan.com
   - DOMAIN-SUFFIX,h-moe.com
   - DOMAIN-SUFFIX,h1n1china.org
   - DOMAIN-SUFFIX,h528.com
@@ -28254,6 +28257,7 @@ payload:
   - DOMAIN-SUFFIX,mansion.com
   - DOMAIN-SUFFIX,mansionpoker.com
   - DOMAIN-SUFFIX,manta.com
+  - DOMAIN-SUFFIX,manwa.me
   - DOMAIN-SUFFIX,manyvoices.news
   - DOMAIN-SUFFIX,maplew.com
   - DOMAIN-SUFFIX,marc.info
@@ -29818,6 +29822,7 @@ payload:
   - DOMAIN-SUFFIX,sosad.fun
   - DOMAIN-SUFFIX,sosreader.com
   - DOMAIN-SUFFIX,sostibet.org
+  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-SUFFIX,sou-tong.org
   - DOMAIN-SUFFIX,soubory.com
   - DOMAIN-SUFFIX,soul-plus.net
@@ -29879,6 +29884,7 @@ payload:
   - DOMAIN-SUFFIX,ssglobal.me
   - DOMAIN-SUFFIX,ssh91.com
   - DOMAIN-SUFFIX,ssl443.org
+  - DOMAIN-SUFFIX,ssm.fun
   - DOMAIN-SUFFIX,sspanel.net
   - DOMAIN-SUFFIX,sspanel.org
   - DOMAIN-SUFFIX,sspro.ml
@@ -30191,6 +30197,7 @@ payload:
   - DOMAIN-SUFFIX,thlib.org
   - DOMAIN-SUFFIX,thomasbernhard.org
   - DOMAIN-SUFFIX,thongdreams.com
+  - DOMAIN-SUFFIX,thotsbay.tv
   - DOMAIN-SUFFIX,threadreaderapp.com
   - DOMAIN-SUFFIX,threads.net
   - DOMAIN-SUFFIX,threatchaos.com
@@ -30709,6 +30716,7 @@ payload:
   - DOMAIN-SUFFIX,v.gd
   - DOMAIN-SUFFIX,v.roucdn
   - DOMAIN-SUFFIX,v2.help
+  - DOMAIN-SUFFIX,v2.hysteria.network
   - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2fly.org
