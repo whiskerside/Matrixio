@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31595
+# 规则统计:31593
 
 payload:
   - DOMAIN,1password.drift.click
@@ -19039,7 +19039,6 @@ payload:
   - DOMAIN-SUFFIX,rutracker.cr
   - DOMAIN-SUFFIX,rutracker.me
   - DOMAIN-SUFFIX,rutracker.nl
-  - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutrecker.net
   - DOMAIN-SUFFIX,ruvideos.net
   - DOMAIN-SUFFIX,rvc.ac.uk
@@ -27228,7 +27227,6 @@ payload:
   - DOMAIN-SUFFIX,got-game.org
   - DOMAIN-SUFFIX,gotdns.ch
   - DOMAIN-SUFFIX,gotgeeks.com
-  - DOMAIN-SUFFIX,gotquestions.org
   - DOMAIN-SUFFIX,gotrusted.com
   - DOMAIN-SUFFIX,gotw.ca
   - DOMAIN-SUFFIX,gov.taipei
@@ -27639,7 +27637,6 @@ payload:
   - DOMAIN-SUFFIX,identi.ca
   - DOMAIN-SUFFIX,idiomconnection.com
   - DOMAIN-SUFFIX,idlcoyote.com
-  - DOMAIN-SUFFIX,idope.se
   - DOMAIN-SUFFIX,idouga.com
   - DOMAIN-SUFFIX,idreamx.com
   - DOMAIN-SUFFIX,idsam.com
@@ -28719,6 +28716,7 @@ payload:
   - DOMAIN-SUFFIX,newlandmagazine.com.au
   - DOMAIN-SUFFIX,newmitbbs.com
   - DOMAIN-SUFFIX,newnews.ca
+  - DOMAIN-SUFFIX,news.mt.co.kr
   - DOMAIN-SUFFIX,news1.kr
   - DOMAIN-SUFFIX,news100.com.tw
   - DOMAIN-SUFFIX,newsancai.com
@@ -29539,6 +29537,7 @@ payload:
   - DOMAIN-SUFFIX,rusvpn.com
   - DOMAIN-SUFFIX,ruten.com.tw
   - DOMAIN-SUFFIX,rutracker.net
+  - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutube.ru
   - DOMAIN-SUFFIX,ruyiseek.com
   - DOMAIN-SUFFIX,rxhj.net
@@ -29997,7 +29996,6 @@ payload:
   - DOMAIN-SUFFIX,stumbleupon.com
   - DOMAIN-SUFFIX,stupidvideos.com
   - DOMAIN-SUFFIX,stweetly.com
-  - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,substack.com
   - DOMAIN-SUFFIX,successfn.com
   - DOMAIN-SUFFIX,sueddeutsche.de
