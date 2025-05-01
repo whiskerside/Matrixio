@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31563
+# 规则统计:31567
 
 payload:
   - '1password.drift.click'
@@ -5553,6 +5553,7 @@ payload:
   - '+.brni.com'
   - '+.broadbandreports.com'
   - '+.broadbook.com'
+  - '+.broadcom.com'
   - '+.broadpressinc.com'
   - '+.broadstairscollege.ac.uk'
   - '+.brocaproject.com'
@@ -18104,6 +18105,7 @@ payload:
   - '+.metacafe.com'
   - '+.metacloud.com'
   - '+.metacpan.org'
+  - '+.metacubex.one'
   - '+.metadac.ac.uk'
   - '+.metafilter.com'
   - '+.metalpha.finance'
@@ -19067,6 +19069,8 @@ payload:
   - '+.msguancha.com'
   - '+.msha.gov'
   - '+.mshome.net'
+  - '+.msi.cn'
+  - '+.msi.com'
   - '+.msidentity.com'
   - '+.msinnovationchallenge.com'
   - '+.msk.ilnk.info'
@@ -24894,6 +24898,7 @@ payload:
   - '+.sinchew.com.my'
   - '+.sinchew.my'
   - '+.sinet.ac.uk'
+  - '+.sing-box.app'
   - '+.sing4.lat'
   - '+.sing68.com'
   - '+.singaporepools.com.sg'
@@ -29751,7 +29756,6 @@ payload:
   - '+.wiki.cnitter.com'
   - '+.wiki.gamerp.jp'
   - '+.wiki.keso.cn'
-  - '+.wiki.metacubex.one'
   - '+.wiki.oauth.net'
   - '+.wiki.phonegap.com'
   - '+.wikia.com'
