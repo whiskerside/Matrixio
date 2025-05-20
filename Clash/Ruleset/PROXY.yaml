@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31595
+# 规则统计:31596
 
 payload:
   - '1password.drift.click'
@@ -19083,6 +19083,7 @@ payload:
   - '+.msft.info'
   - '+.msft.net'
   - '+.msftauth.net'
+  - '+.msftauthimages.net'
   - '+.msftconnecttest.com'
   - '+.msfteducation.ca'
   - '+.msftncsi.com'

@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31595
+# 规则统计:31596
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -19082,6 +19082,7 @@ HOST-SUFFIX,msedge.net,PROXY
 HOST-SUFFIX,msft.info,PROXY
 HOST-SUFFIX,msft.net,PROXY
 HOST-SUFFIX,msftauth.net,PROXY
+HOST-SUFFIX,msftauthimages.net,PROXY
 HOST-SUFFIX,msftconnecttest.com,PROXY
 HOST-SUFFIX,msfteducation.ca,PROXY
 HOST-SUFFIX,msftncsi.com,PROXY
