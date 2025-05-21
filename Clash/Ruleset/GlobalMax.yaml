@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31616
+# 规则统计:31617
 
 payload:
   - DOMAIN,1password.drift.click
@@ -15203,6 +15203,7 @@ payload:
   - DOMAIN-SUFFIX,msft.info
   - DOMAIN-SUFFIX,msft.net
   - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftncsi.com
