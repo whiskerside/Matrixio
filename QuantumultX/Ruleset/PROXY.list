@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31607
+# 规则统计:31625
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -237,6 +237,7 @@ HOST,ntp-b.nist.gov,PROXY
 HOST,ntp-c.colorado.edu,PROXY
 HOST,ntp-d.nist.gov,PROXY
 HOST,ntp-wwv.nist.gov,PROXY
+HOST,ntp.ubuntu.com,PROXY
 HOST,ntp0.ntp-servers.net,PROXY
 HOST,ntp1.ntp-servers.net,PROXY
 HOST,ntp2.ntp-servers.net,PROXY
@@ -405,10 +406,12 @@ HOST,time-e-g.nist.gov,PROXY
 HOST,time-e-wwv.nist.gov,PROXY
 HOST,time.apple.com,PROXY
 HOST,time.aws.com,PROXY
+HOST,time.cloudflare.com,PROXY
 HOST,time.euro.apple.com,PROXY
 HOST,time.facebook.com,PROXY
 HOST,time.google.com,PROXY
 HOST,time.nist.gov,PROXY
+HOST,time.windows.com,PROXY
 HOST,time1.facebook.com,PROXY
 HOST,time1.google.com,PROXY
 HOST,time2.facebook.com,PROXY
@@ -2438,7 +2441,6 @@ HOST-SUFFIX,aphe.ac.uk,PROXY
 HOST-SUFFIX,api-extractor.com,PROXY
 HOST-SUFFIX,api.ai,PROXY
 HOST-SUFFIX,api.linksalpha.com,PROXY
-HOST-SUFFIX,api.nebula-emby.com,PROXY
 HOST-SUFFIX,api.news,PROXY
 HOST-SUFFIX,apiary.io,PROXY
 HOST-SUFFIX,apibay.org,PROXY
@@ -14331,7 +14333,16 @@ HOST-SUFFIX,ibeatsbydre.com,PROXY
 HOST-SUFFIX,ibiblio.org,PROXY
 HOST-SUFFIX,ibis.ac.uk,PROXY
 HOST-SUFFIX,ibit.am,PROXY
+HOST-SUFFIX,ibkr.ca,PROXY
+HOST-SUFFIX,ibkr.co.in,PROXY
+HOST-SUFFIX,ibkr.co.uk,PROXY
 HOST-SUFFIX,ibkr.com,PROXY
+HOST-SUFFIX,ibkr.com.au,PROXY
+HOST-SUFFIX,ibkr.com.hk,PROXY
+HOST-SUFFIX,ibkr.com.sg,PROXY
+HOST-SUFFIX,ibkr.eu,PROXY
+HOST-SUFFIX,ibkr.ie,PROXY
+HOST-SUFFIX,ibkrguides.com,PROXY
 HOST-SUFFIX,iblist.com,PROXY
 HOST-SUFFIX,ibllc.com,PROXY
 HOST-SUFFIX,iblogserv-f.net,PROXY
@@ -19052,6 +19063,7 @@ HOST-SUFFIX,mql5.com,PROXY
 HOST-SUFFIX,mqxd.org,PROXY
 HOST-SUFFIX,mr-apple.com.tw,PROXY
 HOST-SUFFIX,mr-tireman.jp,PROXY
+HOST-SUFFIX,mradx.net,PROXY
 HOST-SUFFIX,mray.club,PROXY
 HOST-SUFFIX,mrbasic.com,PROXY
 HOST-SUFFIX,mrbdsm.com,PROXY
@@ -23730,6 +23742,7 @@ HOST-SUFFIX,roses.ac.uk,PROXY
 HOST-SUFFIX,rosetta.ac.uk,PROXY
 HOST-SUFFIX,roshy.tv,PROXY
 HOST-SUFFIX,roslin.ac.uk,PROXY
+HOST-SUFFIX,rostaxi.org,PROXY
 HOST-SUFFIX,rothamsted.ac.uk,PROXY
 HOST-SUFFIX,rotherham-coll.ac.uk,PROXY
 HOST-SUFFIX,rotherham.ac.uk,PROXY
@@ -28955,6 +28968,7 @@ HOST-SUFFIX,viznet.ac.uk,PROXY
 HOST-SUFFIX,vizvaz.com,PROXY
 HOST-SUFFIX,vjav.com,PROXY
 HOST-SUFFIX,vjmedia.com.hk,PROXY
+HOST-SUFFIX,vk-analytics.ru,PROXY
 HOST-SUFFIX,vk-apps.com,PROXY
 HOST-SUFFIX,vk-apps.ru,PROXY
 HOST-SUFFIX,vk-cdn.me,PROXY
@@ -29511,7 +29525,6 @@ HOST-SUFFIX,weav.xyz,PROXY
 HOST-SUFFIX,web-instagram.net,PROXY
 HOST-SUFFIX,web.app,PROXY
 HOST-SUFFIX,web.dev,PROXY
-HOST-SUFFIX,web.nebula-emby.com,PROXY
 HOST-SUFFIX,web2project.net,PROXY
 HOST-SUFFIX,webappfieldguide.com,PROXY
 HOST-SUFFIX,webbang.net,PROXY
@@ -30932,6 +30945,8 @@ HOST-SUFFIX,yammer.com,PROXY
 HOST-SUFFIX,yamoon.club,PROXY
 HOST-SUFFIX,yande.re,PROXY
 HOST-SUFFIX,yandex,PROXY
+HOST-SUFFIX,yandex-bank.net,PROXY
+HOST-SUFFIX,yandex-images.clstorage.net,PROXY
 HOST-SUFFIX,yandex.aero,PROXY
 HOST-SUFFIX,yandex.az,PROXY
 HOST-SUFFIX,yandex.by,PROXY
@@ -30963,7 +30978,10 @@ HOST-SUFFIX,yandex.tj,PROXY
 HOST-SUFFIX,yandex.tm,PROXY
 HOST-SUFFIX,yandex.ua,PROXY
 HOST-SUFFIX,yandex.uz,PROXY
+HOST-SUFFIX,yandexadexchange.net,PROXY
 HOST-SUFFIX,yandexcloud.net,PROXY
+HOST-SUFFIX,yandexcom.net,PROXY
+HOST-SUFFIX,yandexwebcache.org,PROXY
 HOST-SUFFIX,yanghengjun.com,PROXY
 HOST-SUFFIX,yangjianli.com,PROXY
 HOST-SUFFIX,yantaqu.com,PROXY
