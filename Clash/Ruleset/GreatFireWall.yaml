@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:6525
+# 规则统计:6526
 
 payload:
   - '+.000webhost.com'
@@ -2144,6 +2144,7 @@ payload:
   - '+.geekheart.info'
   - '+.gekikame.com'
   - '+.gelbooru.com'
+  - '+.gemini.google'
   - '+.generated.photos'
   - '+.genius.com'
   - '+.geocities.co.jp'

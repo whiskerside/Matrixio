@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31628
+# 规则统计:31646
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -73,6 +73,7 @@ HOST,push-apple.com.akadns.net,GlobalMax
 HOST,qualcomm.sc.omtrdc.net,GlobalMax
 HOST,servd-anthropic-website.b-cdn.net,GlobalMax
 HOST,tesla-cdn.thron.com,GlobalMax
+HOST,time.windows.com,GlobalMax
 HOST,tmdb-image-prod.b-cdn.net,GlobalMax
 HOST,translomatic.foxfortmobile.com,GlobalMax
 HOST,ut1-time.colorado.edu,GlobalMax
@@ -11308,7 +11309,16 @@ HOST-SUFFIX,ibeats-uk.com,GlobalMax
 HOST-SUFFIX,ibeatsbydre.cc,GlobalMax
 HOST-SUFFIX,ibeatsbydre.com,GlobalMax
 HOST-SUFFIX,ibis.ac.uk,GlobalMax
+HOST-SUFFIX,ibkr.ca,GlobalMax
+HOST-SUFFIX,ibkr.co.in,GlobalMax
+HOST-SUFFIX,ibkr.co.uk,GlobalMax
 HOST-SUFFIX,ibkr.com,GlobalMax
+HOST-SUFFIX,ibkr.com.au,GlobalMax
+HOST-SUFFIX,ibkr.com.hk,GlobalMax
+HOST-SUFFIX,ibkr.com.sg,GlobalMax
+HOST-SUFFIX,ibkr.eu,GlobalMax
+HOST-SUFFIX,ibkr.ie,GlobalMax
+HOST-SUFFIX,ibkrguides.com,GlobalMax
 HOST-SUFFIX,ibllc.com,GlobalMax
 HOST-SUFFIX,ibm.com,GlobalMax
 HOST-SUFFIX,ibm.eu,GlobalMax
@@ -15180,6 +15190,7 @@ HOST-SUFFIX,mpweekly.com,GlobalMax
 HOST-SUFFIX,mql5.com,GlobalMax
 HOST-SUFFIX,mr-apple.com.tw,GlobalMax
 HOST-SUFFIX,mr-tireman.jp,GlobalMax
+HOST-SUFFIX,mradx.net,GlobalMax
 HOST-SUFFIX,mray.club,GlobalMax
 HOST-SUFFIX,mrbasic.com,GlobalMax
 HOST-SUFFIX,mrbdsm.com,GlobalMax
@@ -18972,6 +18983,7 @@ HOST-SUFFIX,roses.ac.uk,GlobalMax
 HOST-SUFFIX,rosetta.ac.uk,GlobalMax
 HOST-SUFFIX,roshy.tv,GlobalMax
 HOST-SUFFIX,roslin.ac.uk,GlobalMax
+HOST-SUFFIX,rostaxi.org,GlobalMax
 HOST-SUFFIX,rothamsted.ac.uk,GlobalMax
 HOST-SUFFIX,rotherham-coll.ac.uk,GlobalMax
 HOST-SUFFIX,rotherham.ac.uk,GlobalMax
@@ -22961,6 +22973,7 @@ HOST-SUFFIX,vivaxnxx.com,GlobalMax
 HOST-SUFFIX,vixen.com,GlobalMax
 HOST-SUFFIX,vixvids.to,GlobalMax
 HOST-SUFFIX,viznet.ac.uk,GlobalMax
+HOST-SUFFIX,vk-analytics.ru,GlobalMax
 HOST-SUFFIX,vk-apps.com,GlobalMax
 HOST-SUFFIX,vk-apps.ru,GlobalMax
 HOST-SUFFIX,vk-cdn.me,GlobalMax
@@ -24469,6 +24482,8 @@ HOST-SUFFIX,yale.edu,GlobalMax
 HOST-SUFFIX,yamaxun.com,GlobalMax
 HOST-SUFFIX,yammer.com,GlobalMax
 HOST-SUFFIX,yamoon.club,GlobalMax
+HOST-SUFFIX,yandex-bank.net,GlobalMax
+HOST-SUFFIX,yandex-images.clstorage.net,GlobalMax
 HOST-SUFFIX,yandex.aero,GlobalMax
 HOST-SUFFIX,yandex.az,GlobalMax
 HOST-SUFFIX,yandex.by,GlobalMax
@@ -24496,7 +24511,10 @@ HOST-SUFFIX,yandex.tj,GlobalMax
 HOST-SUFFIX,yandex.tm,GlobalMax
 HOST-SUFFIX,yandex.ua,GlobalMax
 HOST-SUFFIX,yandex.uz,GlobalMax
+HOST-SUFFIX,yandexadexchange.net,GlobalMax
 HOST-SUFFIX,yandexcloud.net,GlobalMax
+HOST-SUFFIX,yandexcom.net,GlobalMax
+HOST-SUFFIX,yandexwebcache.org,GlobalMax
 HOST-SUFFIX,yaohubaba.com,GlobalMax
 HOST-SUFFIX,yaoimangaonline.com,GlobalMax
 HOST-SUFFIX,yaoiotaku.com,GlobalMax
