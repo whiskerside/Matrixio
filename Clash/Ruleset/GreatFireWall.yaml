@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5859
+# 规则统计:5860
 
 payload:
   - '+.000webhost.com'
@@ -259,6 +259,7 @@ payload:
   - '+.amnestyusa.org'
   - '+.ampproject.org'
   - '+.amtb-taipei.org'
+  - '+.amuletmc.com'
   - '+.anchor.fm'
   - '+.anchorfree.com'
   - '+.ancsconf.org'
