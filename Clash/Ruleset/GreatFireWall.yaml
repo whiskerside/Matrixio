@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5860
+# 规则统计:5865
 
 payload:
   - '+.000webhost.com'
@@ -356,6 +356,7 @@ payload:
   - '+.artofpeacefoundation.org'
   - '+.artstation.com'
   - '+.artsy.net'
+  - '+.arvanstorage.ir'
   - '+.asacp.org'
   - '+.asdfg.jp'
   - '+.asg.to'
@@ -2265,6 +2266,7 @@ payload:
   - '+.gotquestions.org'
   - '+.gotrusted.com'
   - '+.gotw.ca'
+  - '+.gov.ir'
   - '+.gov.taipei'
   - '+.gov.tw'
   - '+.gr8domain.biz'
@@ -2704,7 +2706,9 @@ payload:
   - '+.iptv.com.tw'
   - '+.iptvbin.com'
   - '+.ipvanish.com'
+  - '+.irangov.ir'
   - '+.iredmail.org'
+  - '+.irna.ir'
   - '+.ironpython.net'
   - '+.ironsocket.com'
   - '+.is-a-hunter.com'
@@ -3939,6 +3943,7 @@ payload:
   - '+.premproxy.com'
   - '+.presentation.new'
   - '+.presentationzen.com'
+  - '+.president.ir'
   - '+.presidentlee.tw'
   - '+.prestige-av.com'
   - '+.primevideo.com'
