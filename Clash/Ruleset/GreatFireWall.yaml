@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5863
+# 规则统计:5864
 
 payload:
   - '+.000webhost.com'
@@ -2638,6 +2638,7 @@ payload:
   - '+.imdb.com'
   - '+.img.dlsite.jp'
   - '+.img.ly'
+  - '+.img.picgo.net'
   - '+.imgasd.com'
   - '+.imgchili.net'
   - '+.imgmega.com'
