@@ -1,5 +1,5 @@
 # 规则名称:AdBlock
-# 规则统计:90296
+# 规则统计:90300
 
 HOST-SUFFIX,000dn.com,REJECT
 HOST-SUFFIX,0013.cc,REJECT
@@ -37331,8 +37331,12 @@ HOST-SUFFIX,share.heypubstory.com,REJECT
 HOST-SUFFIX,heystaks.com,REJECT
 HOST-SUFFIX,adsfs-sdkconfig.heytapimage.com,REJECT
 HOST-SUFFIX,img-c.heytapimage.com,REJECT
-HOST-SUFFIX,ads.heytapmobi.com,REJECT
+HOST-SUFFIX,adx.ads.heytapmobi.com,REJECT
+HOST-SUFFIX,b1-data.ads.heytapmobi.com,REJECT
+HOST-SUFFIX,stg-data.ads.heytapmobi.com,REJECT
+HOST-SUFFIX,uapi.ads.heytapmobi.com,REJECT
 HOST-SUFFIX,virusinfo-cloudscan-cn.heytapmobi.com,REJECT
+HOST-SUFFIX,b2-data.ads.heytapmobi.com,REJECT
 HOST-SUFFIX,heyyounow.my,REJECT
 HOST-SUFFIX,heyzap.com,REJECT
 HOST-SUFFIX,e.hf355.cn,REJECT
