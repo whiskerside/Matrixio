@@ -1,5 +1,5 @@
 # 规则名称:AdBlock
-# 规则统计:90300
+# 规则统计:90301
 
 HOST-SUFFIX,000dn.com,REJECT
 HOST-SUFFIX,0013.cc,REJECT
@@ -24747,6 +24747,7 @@ HOST-SUFFIX,divvyprorata.com,REJECT
 HOST-SUFFIX,diwhuteshu.com,REJECT
 HOST-SUFFIX,ad-display.diwodiwo.xyz,REJECT
 HOST-SUFFIX,ad-channel.diwodiwo.xyz,REJECT
+HOST-SUFFIX,pica-ad-api.diwodiwo.xyz,REJECT
 HOST-SUFFIX,diwuyu.com,REJECT
 HOST-SUFFIX,ads.dixcom.com,REJECT
 HOST-SUFFIX,groundcare.dixiechopper.com,REJECT
