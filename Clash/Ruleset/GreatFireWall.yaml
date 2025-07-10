@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5865
+# 规则统计:5866
 
 payload:
   - '+.000webhost.com'
@@ -1433,6 +1433,7 @@ payload:
   - '+.e-info.org.tw'
   - '+.e-zone.com.hk'
   - '+.e123.hk'
+  - '+.e621.net'
   - '+.earlytibet.com'
   - '+.earthcam.com'
   - '+.earthvpn.com'
