@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31829
+# 规则统计:31830
 
 payload:
   - DOMAIN,1password.drift.click
@@ -3463,7 +3463,6 @@ payload:
   - DOMAIN-SUFFIX,bite.ac.uk
   - DOMAIN-SUFFIX,bitflyer.com
   - DOMAIN-SUFFIX,bitflyer.jp
-  - DOMAIN-SUFFIX,bitget.com
   - DOMAIN-SUFFIX,bitly.com
   - DOMAIN-SUFFIX,bitly.is
   - DOMAIN-SUFFIX,bitnami.com
@@ -5496,7 +5495,6 @@ payload:
   - DOMAIN-SUFFIX,cloudconvert.com
   - DOMAIN-SUFFIX,cloudcraze.com
   - DOMAIN-SUFFIX,cloudcredibility.com
-  - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,cloudflare-esni.com
   - DOMAIN-SUFFIX,cloudflare-gateway.com
@@ -25818,6 +25816,7 @@ payload:
   - DOMAIN-SUFFIX,bitcointalk.org
   - DOMAIN-SUFFIX,bitcoinworld.com
   - DOMAIN-SUFFIX,bitfinex.com
+  - DOMAIN-SUFFIX,bitget.com
   - DOMAIN-SUFFIX,bithumb.com
   - DOMAIN-SUFFIX,bitinka.com.ar
   - DOMAIN-SUFFIX,bitmex.com
@@ -26279,6 +26278,7 @@ payload:
   - DOMAIN-SUFFIX,cloakpoint.com
   - DOMAIN-SUFFIX,cloud.cupronickel.goog
   - DOMAIN-SUFFIX,cloudcone.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudfront.net
@@ -30924,6 +30924,7 @@ payload:
   - DOMAIN-SUFFIX,untraceable.us
   - DOMAIN-SUFFIX,unwire.hk
   - DOMAIN-SUFFIX,uocn.org
+  - DOMAIN-SUFFIX,upbit.com
   - DOMAIN-SUFFIX,updatestar.com
   - DOMAIN-SUFFIX,upghsbc.com
   - DOMAIN-SUFFIX,upholdjustice.org
