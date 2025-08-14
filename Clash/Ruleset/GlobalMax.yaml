@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31829
+# 规则统计:31831
 
 payload:
   - DOMAIN,1password.drift.click
@@ -3391,7 +3391,6 @@ payload:
   - DOMAIN-SUFFIX,binance.info
   - DOMAIN-SUFFIX,binance.me
   - DOMAIN-SUFFIX,binance.net
-  - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.vision
   - DOMAIN-SUFFIX,binanceapi.com
   - DOMAIN-SUFFIX,binancecnt.com
@@ -11848,7 +11847,6 @@ payload:
   - DOMAIN-SUFFIX,infowarsmedia.com
   - DOMAIN-SUFFIX,infrapedia.com
   - DOMAIN-SUFFIX,infraworks.com
-  - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,ingads.com
   - DOMAIN-SUFFIX,ingka.com
   - DOMAIN-SUFFIX,ingka.dev
@@ -25874,6 +25872,7 @@ payload:
   - DOMAIN-SUFFIX,biliworld.com
   - DOMAIN-SUFFIX,billypan.com
   - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.us
   - DOMAIN-SUFFIX,binancezh.cc
   - DOMAIN-SUFFIX,bing.com
@@ -27987,6 +27986,7 @@ payload:
   - DOMAIN-SUFFIX,inf.news
   - DOMAIN-SUFFIX,info-graf.fr
   - DOMAIN-SUFFIX,informer.com
+  - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,ingress.com
   - DOMAIN-SUFFIX,inherit.live
   - DOMAIN-SUFFIX,initiativesforchina.org
@@ -28500,6 +28500,7 @@ payload:
   - DOMAIN-SUFFIX,lsxszzg.com
   - DOMAIN-SUFFIX,ltn.com.tw
   - DOMAIN-SUFFIX,luckydesigner.space
+  - DOMAIN-SUFFIX,luckymobile.ca
   - DOMAIN-SUFFIX,ludepress.com
   - DOMAIN-SUFFIX,luke54.com
   - DOMAIN-SUFFIX,luke54.org
@@ -28651,6 +28652,7 @@ payload:
   - DOMAIN-SUFFIX,metacafe.com
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,metafilter.com
+  - DOMAIN-SUFFIX,metamask.io
   - DOMAIN-SUFFIX,metart.com
   - DOMAIN-SUFFIX,metarthunter.com
   - DOMAIN-SUFFIX,meteorshowersonline.com
