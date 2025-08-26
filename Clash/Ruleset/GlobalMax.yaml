@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:31848
+# 规则统计:31850
 
 payload:
   - DOMAIN,1password.drift.click
@@ -27264,6 +27264,8 @@ payload:
   - DOMAIN-SUFFIX,fubo.tv
   - DOMAIN-SUFFIX,fucd.com
   - DOMAIN-SUFFIX,fuchsia.dev
+  - DOMAIN-SUFFIX,fuckccp.com
+  - DOMAIN-SUFFIX,fuckccp.xyz
   - DOMAIN-SUFFIX,fuckcnnic.net
   - DOMAIN-SUFFIX,fuckgfw.org
   - DOMAIN-SUFFIX,fuckgfw233.org
