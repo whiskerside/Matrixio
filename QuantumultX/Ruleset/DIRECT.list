@@ -1,5 +1,5 @@
 # 规则名称:DIRECT
-# 规则统计:119404
+# 规则统计:119430
 
 HOST,265.com,DIRECT
 HOST,2mdn-cn.net,DIRECT
@@ -13,6 +13,7 @@ HOST,adcdownload.apple.com,DIRECT
 HOST,adcdownload.apple.com.akadns.net,DIRECT
 HOST,admob-cn.com,DIRECT
 HOST,adservice.google.com,DIRECT
+HOST,afcs.dell.com,DIRECT
 HOST,ai.zhaomi.cn,DIRECT
 HOST,alibaba.cdn.steampipe.steamcontent.com,DIRECT
 HOST,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,DIRECT
@@ -93,6 +94,7 @@ HOST,clickserver.googleads.com,DIRECT
 HOST,client-api.itunes.apple.com,DIRECT
 HOST,clientflow.apple.com,DIRECT
 HOST,clientflow.apple.com.akadns.net,DIRECT
+HOST,clientperipherals.dell.com,DIRECT
 HOST,clientservices.googleapis.com,DIRECT
 HOST,cma.itunes.apple.com,DIRECT
 HOST,cn-smp-paymentservices.apple.com,DIRECT
@@ -116,8 +118,10 @@ HOST,cstat.apple.com,DIRECT
 HOST,cstat.cdn-apple.com,DIRECT
 HOST,ctldl.windowsupdate.com,DIRECT
 HOST,cueme-api.quark.cn,DIRECT
+HOST,customization-cdn.dell.com,DIRECT
 HOST,dartsearch-cn.net,DIRECT
 HOST,dd-cdn.origin-apple.com.akadns.net,DIRECT
+HOST,dds.dell.com,DIRECT
 HOST,dejavu.apple.com,DIRECT
 HOST,devblogs.microsoft.com,DIRECT
 HOST,developer.microsoft.com,DIRECT
@@ -125,6 +129,7 @@ HOST,devimages-cdn.apple.com,DIRECT
 HOST,devstreaming-cdn.apple.com,DIRECT
 HOST,dg-meta.video.google.com,DIRECT
 HOST,discussionschinese.apple.com,DIRECT
+HOST,dl.dell.com,DIRECT
 HOST,dl.google.com,DIRECT
 HOST,dl.l.google.com,DIRECT
 HOST,docs.microsoft.com,DIRECT
@@ -137,20 +142,30 @@ HOST,download.qatp1.net,DIRECT
 HOST,download.tensorflow.google.com,DIRECT
 HOST,download.visualstudio.microsoft.com,DIRECT
 HOST,downloaddispatch.itunes.apple.com,DIRECT
+HOST,ea2cn-dev-outlet.dell.com,DIRECT
+HOST,ea2cn-prod-outlet.dell.com,DIRECT
+HOST,ea2cn-staging-outlet.dell.com,DIRECT
 HOST,emmapplecodevice.googleapis.com,DIRECT
 HOST,emoi-cncdn.bing.com,DIRECT
 HOST,experiments.apple.com,DIRECT
 HOST,f.c2r.ts.cdn.office.net,DIRECT
+HOST,fcs.dell.com,DIRECT
 HOST,fides-pol.apple.com,DIRECT
 HOST,firebase-settings.crashlytics.com,DIRECT
 HOST,fontfiles.googleapis.com,DIRECT
 HOST,fonts.googleapis.com,DIRECT
 HOST,fonts.gstatic.com,DIRECT
 HOST,fs.microsoft.com,DIRECT
+HOST,fta.dell.com,DIRECT
+HOST,ftaapj.dell.com,DIRECT
+HOST,ftaemea.dell.com,DIRECT
+HOST,ftasitapj.dell.com,DIRECT
 HOST,g0.gstatic.com,DIRECT
 HOST,g1.gstatic.com,DIRECT
 HOST,g2.gstatic.com,DIRECT
 HOST,g3.gstatic.com,DIRECT
+HOST,gbxgateway-dev.dell.com,DIRECT
+HOST,gbxgateway.dell.com,DIRECT
 HOST,geetest.datasink.sensorsdata.cn,DIRECT
 HOST,go.corp.google.com,DIRECT
 HOST,gog-cdn-fastly.gog.com,DIRECT
@@ -207,6 +222,7 @@ HOST,guzzoni.smoot.apple.com,DIRECT
 HOST,hellofontpreview.oss-cn-beijing.aliyuncs.com,DIRECT
 HOST,hellowebfonts.oss-cn-beijing.aliyuncs.com,DIRECT
 HOST,hospital.pku.edu.cn,DIRECT
+HOST,i.dell.com,DIRECT
 HOST,i.pki.goog,DIRECT
 HOST,icloud-cdn.icloud.com.akadns.net,DIRECT
 HOST,icloud.cdn-apple.com,DIRECT
@@ -271,6 +287,7 @@ HOST,msgruser.dlservice.microsoft.com,DIRECT
 HOST,music.apple.com,DIRECT
 HOST,myapp.itunes.apple.com,DIRECT
 HOST,myvs.download.prss.microsoft.com,DIRECT
+HOST,nexus.dell.com,DIRECT
 HOST,np-edge.itunes.apple.com,DIRECT
 HOST,ntp.aliyun.com,DIRECT
 HOST,ntp.tencent.com,DIRECT
@@ -299,6 +316,7 @@ HOST,oscdn.apple.com,DIRECT
 HOST,oscdn.origin-apple.com.akadns.net,DIRECT
 HOST,osxapps.itunes.apple.com,DIRECT
 HOST,osxapps.itunes.g.aaplimg.com,DIRECT
+HOST,p.cdn.persaas.dell.com,DIRECT
 HOST,p1-juejin.byteimg.com,DIRECT
 HOST,p2-juejin.byteimg.com,DIRECT
 HOST,p3-juejin.byteimg.com,DIRECT
@@ -362,6 +380,7 @@ HOST,s5.mzstatic.com,DIRECT
 HOST,safebrowsing-cache.google.com,DIRECT
 HOST,safebrowsing.googleapis.com,DIRECT
 HOST,scanservice1.qcpp1.net,DIRECT
+HOST,scene7-cdn.dell.com,DIRECT
 HOST,sdx.microsoft.com,DIRECT
 HOST,se-edge.itunes.apple.com,DIRECT
 HOST,se2.itunes.apple.com,DIRECT
@@ -375,9 +394,13 @@ HOST,sf-api-token-service.itunes.apple.com,DIRECT
 HOST,sh-pod2-smp-device.apple.com,DIRECT
 HOST,shazam-insights.cdn-apple.com,DIRECT
 HOST,shell.cdn.office.net,DIRECT
+HOST,si.cdn.dell.com,DIRECT
 HOST,silverlight.dlservice.microsoft.com,DIRECT
 HOST,slupdate.dlservice.microsoft.com,DIRECT
+HOST,sm.dell.com,DIRECT
 HOST,smp-device-content.apple.com,DIRECT
+HOST,snp.cdn.dell.com,DIRECT
+HOST,snpi.dell.com,DIRECT
 HOST,software.download.prss.microsoft.com,DIRECT
 HOST,sp.itunes.apple.com,DIRECT
 HOST,ss.bjmu.edu.cn,DIRECT
@@ -409,6 +432,7 @@ HOST,sup.corp.google.com,DIRECT
 HOST,sup.l.google.com,DIRECT
 HOST,support-china.apple-support.akadns.net,DIRECT
 HOST,support.apple.com,DIRECT
+HOST,supportassist.dell.com,DIRECT
 HOST,surface.downloads.prss.microsoft.com,DIRECT
 HOST,swallow-apple-com.v.aaplimg.com,DIRECT
 HOST,swallow.apple.com,DIRECT
@@ -455,11 +479,13 @@ HOST,weatherkit.apple.com,DIRECT
 HOST,wl.dlservice.microsoft.com,DIRECT
 HOST,wscont1.apps.microsoft.com,DIRECT
 HOST,wscont2.apps.microsoft.com,DIRECT
+HOST,www-csb.dell.com,DIRECT
 HOST,www-google-analytics.l.google.com,DIRECT
 HOST,www-googletagmanager.l.google.com,DIRECT
 HOST,www.amd.com,DIRECT
 HOST,www.apple.com,DIRECT
 HOST,www.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
+HOST,www.dell.com,DIRECT
 HOST,www.destinationurl.com,DIRECT
 HOST,www.entrust.cn,DIRECT
 HOST,www.gstatic.com,DIRECT
@@ -26124,7 +26150,6 @@ HOST-SUFFIX,copcsc.org,DIRECT
 HOST-SUFFIX,copl.com.hk,DIRECT
 HOST-SUFFIX,copperalliance.asia,DIRECT
 HOST-SUFFIX,copperhome.net,DIRECT
-HOST-SUFFIX,copy-manga.com,DIRECT
 HOST-SUFFIX,copyedu.com,DIRECT
 HOST-SUFFIX,copyfuture.com,DIRECT
 HOST-SUFFIX,copyswisswatches.com,DIRECT
@@ -29621,6 +29646,7 @@ HOST-SUFFIX,delixi.com,DIRECT
 HOST-SUFFIX,delixidrive.com,DIRECT
 HOST-SUFFIX,deliyun.com,DIRECT
 HOST-SUFFIX,dell-alw.com,DIRECT
+HOST-SUFFIX,dell-brand.com,DIRECT
 HOST-SUFFIX,dell027.com,DIRECT
 HOST-SUFFIX,dellecs.com,DIRECT
 HOST-SUFFIX,dellemc-solution.com,DIRECT
@@ -37686,6 +37712,7 @@ HOST-SUFFIX,funcrea.com,DIRECT
 HOST-SUFFIX,functionads.com,DIRECT
 HOST-SUFFIX,functionaltextilesshanghai.com,DIRECT
 HOST-SUFFIX,functioncool.com,DIRECT
+HOST-SUFFIX,functiongraph.run,DIRECT
 HOST-SUFFIX,fund001.com,DIRECT
 HOST-SUFFIX,fundebug.com,DIRECT
 HOST-SUFFIX,fundebug.net,DIRECT
@@ -68299,9 +68326,7 @@ HOST-SUFFIX,manfen.net,DIRECT
 HOST-SUFFIX,manfen5.com,DIRECT
 HOST-SUFFIX,manfred-auto.com,DIRECT
 HOST-SUFFIX,manfrottoclub.com,DIRECT
-HOST-SUFFIX,mangacopy.com,DIRECT
 HOST-SUFFIX,mangafuna.xyz,DIRECT
-HOST-SUFFIX,mangafunb.fun,DIRECT
 HOST-SUFFIX,manganesenanhai.com,DIRECT
 HOST-SUFFIX,mangg.com,DIRECT
 HOST-SUFFIX,mangguo.com,DIRECT
@@ -77806,6 +77831,7 @@ HOST-SUFFIX,plateno.cc,DIRECT
 HOST-SUFFIX,plateno.com,DIRECT
 HOST-SUFFIX,platenogroup.com,DIRECT
 HOST-SUFFIX,platform-cn.com,DIRECT
+HOST-SUFFIX,platform.dell.com,DIRECT
 HOST-SUFFIX,platinum-traveller.com,DIRECT
 HOST-SUFFIX,platinumchina.com,DIRECT
 HOST-SUFFIX,play-analytics.com,DIRECT
@@ -82723,6 +82749,7 @@ HOST-SUFFIX,roaing.com,DIRECT
 HOST-SUFFIX,robam.com,DIRECT
 HOST-SUFFIX,robei.com,DIRECT
 HOST-SUFFIX,roboeyeai.com,DIRECT
+HOST-SUFFIX,robomaster.com,DIRECT
 HOST-SUFFIX,roboo.com,DIRECT
 HOST-SUFFIX,robook.com,DIRECT
 HOST-SUFFIX,robopeak.net,DIRECT
@@ -103488,7 +103515,6 @@ HOST-SUFFIX,www.adobe.com,DIRECT
 HOST-SUFFIX,www.amd.com,DIRECT
 HOST-SUFFIX,www.cg,DIRECT
 HOST-SUFFIX,www.com.my,DIRECT
-HOST-SUFFIX,www.dell-brand.com,DIRECT
 HOST-SUFFIX,www.dell.com,DIRECT
 HOST-SUFFIX,www.djivideos.com,DIRECT
 HOST-SUFFIX,www.gov.mo,DIRECT
