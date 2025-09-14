@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5901
+# 规则统计:5904
 
 payload:
   - '+.000webhost.com'
@@ -3189,6 +3189,7 @@ payload:
   - '+.mcaf.ee'
   - '+.mcfog.com'
   - '+.mcreasite.com'
+  - '+.mcusercontent.com'
   - '+.md-t.org'
   - '+.me.me'
   - '+.me.ns.ci'
@@ -4383,6 +4384,7 @@ payload:
   - '+.simpleproductivityblog.com'
   - '+.simpleswap.io'
   - '+.simplex.chat'
+  - '+.sina.com.hk'
   - '+.sinchew.com.my'
   - '+.singaporepools.com.sg'
   - '+.singfortibet.com'
@@ -4683,6 +4685,7 @@ payload:
   - '+.taiwanus.net'
   - '+.taiwanyes.ning.com'
   - '+.talk853.com'
+  - '+.talkatone.com'
   - '+.talkboxapp.com'
   - '+.talkcc.com'
   - '+.talkonly.net'
