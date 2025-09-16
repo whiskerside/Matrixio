@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:32100
+# 规则统计:32102
 
 payload:
   - DOMAIN,1password.drift.click
@@ -28860,6 +28860,7 @@ payload:
   - DOMAIN-SUFFIX,mcaf.ee
   - DOMAIN-SUFFIX,mcfog.com
   - DOMAIN-SUFFIX,mcreasite.com
+  - DOMAIN-SUFFIX,mcusercontent.com
   - DOMAIN-SUFFIX,md-t.org
   - DOMAIN-SUFFIX,me.me
   - DOMAIN-SUFFIX,meansys.com
@@ -30602,6 +30603,7 @@ payload:
   - DOMAIN-SUFFIX,taiwanus.net
   - DOMAIN-SUFFIX,taiwanyes.com
   - DOMAIN-SUFFIX,talk853.com
+  - DOMAIN-SUFFIX,talkatone.com
   - DOMAIN-SUFFIX,talkboxapp.com
   - DOMAIN-SUFFIX,talkcc.com
   - DOMAIN-SUFFIX,talkonly.net
