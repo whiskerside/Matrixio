@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5907
+# 规则统计:5909
 
 domain_suffix_set:
   - 000webhost.com
@@ -308,6 +308,7 @@ domain_suffix_set:
   - api-secure.recaptcha.net
   - api-verify.recaptcha.net
   - api.ai
+  - api.palworldgame.com
   - api.pureapk.com
   - api.recaptcha.net
   - api.steampowered.com
@@ -3666,6 +3667,7 @@ domain_suffix_set:
   - ocreampies.com
   - ocry.com
   - october-review.org
+  - octocaptcha.com
   - oculus.com
   - oculuscdn.com
   - odysee.com

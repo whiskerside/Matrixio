@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31436
+# 规则统计:31438
 
 payload:
   - '1password.drift.click'
@@ -2492,6 +2492,7 @@ payload:
   - '+.api-extractor.com'
   - '+.api.ai'
   - '+.api.news'
+  - '+.api.palworldgame.com'
   - '+.apiary.io'
   - '+.apibay.org'
   - '+.apigee.com'
@@ -20863,6 +20864,7 @@ payload:
   - '+.ocsp-certum.com'
   - '+.ocsp-responder.com'
   - '+.october-review.org'
+  - '+.octocaptcha.com'
   - '+.ocul.us'
   - '+.oculus-china.com'
   - '+.oculus.com'
