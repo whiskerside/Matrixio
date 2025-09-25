@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5909
+# 规则统计:5911
 
 payload:
   - '+.000webhost.com'
@@ -1172,6 +1172,7 @@ payload:
   - '+.csw.org.uk'
   - '+.ct.org.tw'
   - '+.ctao.org'
+  - '+.ctinets.com'
   - '+.ctinews.com'
   - '+.ctitv.com.tw'
   - '+.ctowc.org'
@@ -2702,6 +2703,7 @@ payload:
   - '+.internetdefenseleague.org'
   - '+.internetfreedom.org'
   - '+.internetpopculture.com'
+  - '+.interseclab.org'
   - '+.inthenameofconfuciusmovie.com'
   - '+.investigating.wordpress.com'
   - '+.invidio.us'
