@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5915
+# 规则统计:5916
 
 payload:
   - '+.000webhost.com'
@@ -5322,6 +5322,7 @@ payload:
   - '+.vilanet.me'
   - '+.vilavpn.com'
   - '+.vimeo.com'
+  - '+.vimeocdn.com'
   - '+.vimperator.org'
   - '+.vincnd.com'
   - '+.vine.co'
