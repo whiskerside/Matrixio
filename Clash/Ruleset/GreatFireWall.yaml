@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5919
+# 规则统计:5922
 
 payload:
   - '+.000webhost.com'
@@ -367,6 +367,7 @@ payload:
   - '+.asiaharvest.org'
   - '+.asianage.com'
   - '+.asianews.it'
+  - '+.asianfanfics.com'
   - '+.asiansexdiary.com'
   - '+.asiaone.com'
   - '+.asiatgp.com'
@@ -5017,6 +5018,7 @@ payload:
   - '+.trtc.com.tw'
   - '+.truebuddha-md.org'
   - '+.trulyergonomic.com'
+  - '+.trustwallet.com'
   - '+.truthsocial.com'
   - '+.truveo.com'
   - '+.tryheart.jp'
@@ -5846,6 +5848,7 @@ payload:
   - '+.z-lib.gl'
   - '+.z-lib.io'
   - '+.z-lib.org'
+  - '+.z-library.ec'
   - '+.z-library.sk'
   - '+.zacebook.com'
   - '+.zalmos.com'
