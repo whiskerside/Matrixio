@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31461
+# 规则统计:31476
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -91,7 +91,7 @@ HOST,client-teamviewer-com.trafficmanager.net,PROXY
 HOST,clients1.google.com,PROXY
 HOST,cloudsync-prod.s3.amazonaws.com,PROXY
 HOST,community.oneplus.com,PROXY
-HOST,courier-push-apple.com.akadns.net,PROXY
+HOST,configuration-lb.ls-apple.com.akadns.net,PROXY
 HOST,crl.microsoft.com,PROXY
 HOST,crl.versign.net,PROXY
 HOST,csis-prod.s3.amazonaws.com,PROXY
@@ -5342,6 +5342,7 @@ HOST-SUFFIX,boomba.club,PROXY
 HOST-SUFFIX,boombeach.com,PROXY
 HOST-SUFFIX,boomerang.com,PROXY
 HOST-SUFFIX,booru.org,PROXY
+HOST-SUFFIX,boosty.to,PROXY
 HOST-SUFFIX,booth.pm,PROXY
 HOST-SUFFIX,bootstrapcdn.com,PROXY
 HOST-SUFFIX,bootyliciousmag.com,PROXY
@@ -6387,6 +6388,7 @@ HOST-SUFFIX,cdn-apple.com,PROXY
 HOST-SUFFIX,cdn-images.mailchimp.com,PROXY
 HOST-SUFFIX,cdn-telegram.org,PROXY
 HOST-SUFFIX,cdn-terapeak.com,PROXY
+HOST-SUFFIX,cdn-vk.ru,PROXY
 HOST-SUFFIX,cdn.ac.uk,PROXY
 HOST-SUFFIX,cdn.arstechnica.net,PROXY
 HOST-SUFFIX,cdn.assets.lfpcontent.com,PROXY
@@ -8412,6 +8414,7 @@ HOST-SUFFIX,dhlestudio.com.co,PROXY
 HOST-SUFFIX,diabetes-healthnet.ac.uk,PROXY
 HOST-SUFFIX,diablo3.com,PROXY
 HOST-SUFFIX,diabloimmortal.com,PROXY
+HOST-SUFFIX,diabrowser.com,PROXY
 HOST-SUFFIX,dialga.com,PROXY
 HOST-SUFFIX,dialogflow.com,PROXY
 HOST-SUFFIX,diamantewebcam.com,PROXY
@@ -8820,6 +8823,7 @@ HOST-SUFFIX,domesticabuserisk.ac.uk,PROXY
 HOST-SUFFIX,domywife.com,PROXY
 HOST-SUFFIX,don.ac.uk,PROXY
 HOST-SUFFIX,donatecarsoh.org,PROXY
+HOST-SUFFIX,donationalerts.com,PROXY
 HOST-SUFFIX,doncaster.ac.uk,PROXY
 HOST-SUFFIX,dongtaiwang.com,PROXY
 HOST-SUFFIX,dongtaiwang.net,PROXY
@@ -12902,6 +12906,7 @@ HOST-SUFFIX,guancha.org,PROXY
 HOST-SUFFIX,guangming.com.my,PROXY
 HOST-SUFFIX,guangming.org,PROXY
 HOST-SUFFIX,guaranitermal.com,PROXY
+HOST-SUFFIX,guardarian.com,PROXY
 HOST-SUFFIX,guardianapis.com,PROXY
 HOST-SUFFIX,guardianapps.co.uk,PROXY
 HOST-SUFFIX,guardianproject.info,PROXY
@@ -18101,6 +18106,7 @@ HOST-SUFFIX,melonbooks.co.jp,PROXY
 HOST-SUFFIX,melonstube.com,PROXY
 HOST-SUFFIX,meltoday.com,PROXY
 HOST-SUFFIX,meme111.com,PROXY
+HOST-SUFFIX,memealerts.com,PROXY
 HOST-SUFFIX,memehk.com,PROXY
 HOST-SUFFIX,memes.tw,PROXY
 HOST-SUFFIX,memri.org,PROXY
@@ -20947,6 +20953,7 @@ HOST-SUFFIX,ok.xxx,PROXY
 HOST-SUFFIX,okaapps.com,PROXY
 HOST-SUFFIX,okayfreedom.com,PROXY
 HOST-SUFFIX,okazudouga.tokyo,PROXY
+HOST-SUFFIX,okcdn.ru,PROXY
 HOST-SUFFIX,okex.com,PROXY
 HOST-SUFFIX,okinawabank.co.jp,PROXY
 HOST-SUFFIX,okk.tw,PROXY
@@ -23960,10 +23967,15 @@ HOST-SUFFIX,samsung,PROXY
 HOST-SUFFIX,samsung.com,PROXY
 HOST-SUFFIX,samsungapps.com,PROXY
 HOST-SUFFIX,samsungcloud.com,PROXY
+HOST-SUFFIX,samsungconsent.com,PROXY
 HOST-SUFFIX,samsungdm.com,PROXY
 HOST-SUFFIX,samsunggalaxyfriends.com,PROXY
+HOST-SUFFIX,samsunghealth.com,PROXY
+HOST-SUFFIX,samsungiotcloud.com,PROXY
 HOST-SUFFIX,samsungknox.com,PROXY
+HOST-SUFFIX,samsungosp.com,PROXY
 HOST-SUFFIX,samsungqbe.com,PROXY
+HOST-SUFFIX,samsungrs.com,PROXY
 HOST-SUFFIX,sandisk.ae,PROXY
 HOST-SUFFIX,sandisk.co.jp,PROXY
 HOST-SUFFIX,sandisk.co.kr,PROXY
@@ -25814,6 +25826,7 @@ HOST-SUFFIX,stcroixmosquitoproject.com,PROXY
 HOST-SUFFIX,stdavidscollege.ac.uk,PROXY
 HOST-SUFFIX,stdavidsdaygroup.ac.uk,PROXY
 HOST-SUFFIX,stdoms.ac.uk,PROXY
+HOST-SUFFIX,stealthex.io,PROXY
 HOST-SUFFIX,steam-api.com,PROXY
 HOST-SUFFIX,steam-chat.com,PROXY
 HOST-SUFFIX,steam.apac.qtlglb.com,PROXY
@@ -28444,6 +28457,7 @@ HOST-SUFFIX,vercel-status.com,PROXY
 HOST-SUFFIX,vercel.app,PROXY
 HOST-SUFFIX,vercel.blog,PROXY
 HOST-SUFFIX,vercel.com,PROXY
+HOST-SUFFIX,vercel.dev,PROXY
 HOST-SUFFIX,vercel.events,PROXY
 HOST-SUFFIX,vercel.live,PROXY
 HOST-SUFFIX,vercel.pub,PROXY
@@ -28873,6 +28887,7 @@ HOST-SUFFIX,vk.me,PROXY
 HOST-SUFFIX,vk.ru,PROXY
 HOST-SUFFIX,vk.team,PROXY
 HOST-SUFFIX,vkcache.com,PROXY
+HOST-SUFFIX,vkcloud-static.ru,PROXY
 HOST-SUFFIX,vkgo.app,PROXY
 HOST-SUFFIX,vklive.app,PROXY
 HOST-SUFFIX,vkmessenger.app,PROXY
