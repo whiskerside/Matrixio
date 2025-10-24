@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:31525
+# 规则统计:31569
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -2089,14 +2089,9 @@ HOST-SUFFIX,alsalam.ac.uk,PROXY
 HOST-SUFFIX,alsod.ac.uk,PROXY
 HOST-SUFFIX,alt.ac.uk,PROXY
 HOST-SUFFIX,alt.com,PROXY
+HOST-SUFFIX,altera.co.jp,PROXY
 HOST-SUFFIX,altera.com,PROXY
 HOST-SUFFIX,alteraforum.com,PROXY
-HOST-SUFFIX,alteraforums.com,PROXY
-HOST-SUFFIX,alteraforums.net,PROXY
-HOST-SUFFIX,alterauserforum.com,PROXY
-HOST-SUFFIX,alterauserforum.net,PROXY
-HOST-SUFFIX,alterauserforums.com,PROXY
-HOST-SUFFIX,alterauserforums.net,PROXY
 HOST-SUFFIX,altereco.ac.uk,PROXY
 HOST-SUFFIX,alternate-tools.com,PROXY
 HOST-SUFFIX,alternativeto.net,PROXY
@@ -7086,6 +7081,7 @@ HOST-SUFFIX,cloudflareok.com,PROXY
 HOST-SUFFIX,cloudflarepartners.com,PROXY
 HOST-SUFFIX,cloudflareportal.com,PROXY
 HOST-SUFFIX,cloudflarepreview.com,PROXY
+HOST-SUFFIX,cloudflareregistrar.com,PROXY
 HOST-SUFFIX,cloudflareresolve.com,PROXY
 HOST-SUFFIX,cloudflaressl.com,PROXY
 HOST-SUFFIX,cloudflarestatus.com,PROXY
@@ -7328,6 +7324,7 @@ HOST-SUFFIX,comicunivers.com,PROXY
 HOST-SUFFIX,comicuniverse.org,PROXY
 HOST-SUFFIX,comixzilla.com,PROXY
 HOST-SUFFIX,comm-coll-hackney.ac.uk,PROXY
+HOST-SUFFIX,comm-verse.com,PROXY
 HOST-SUFFIX,commandandconquer.com,PROXY
 HOST-SUFFIX,commandarms.com,PROXY
 HOST-SUFFIX,comments.app,PROXY
@@ -8098,6 +8095,8 @@ HOST-SUFFIX,deepfreeze.com.br,PROXY
 HOST-SUFFIX,deepfreeze.eu,PROXY
 HOST-SUFFIX,deepfreeze.net,PROXY
 HOST-SUFFIX,deepfreeze.tech,PROXY
+HOST-SUFFIX,deepin.io,PROXY
+HOST-SUFFIX,deepin.org,PROXY
 HOST-SUFFIX,deeping.ac.uk,PROXY
 HOST-SUFFIX,deepl.com,PROXY
 HOST-SUFFIX,deepmind.com,PROXY
@@ -8752,6 +8751,7 @@ HOST-SUFFIX,dmcdn.net,PROXY
 HOST-SUFFIX,dmed.technology,PROXY
 HOST-SUFFIX,dmgmediaprivacy.co.uk,PROXY
 HOST-SUFFIX,dmhy.org,PROXY
+HOST-SUFFIX,dml-lang.org,PROXY
 HOST-SUFFIX,dml.ac.uk,PROXY
 HOST-SUFFIX,dmm-extension.com,PROXY
 HOST-SUFFIX,dmm.co.jp,PROXY
@@ -9561,6 +9561,7 @@ HOST-SUFFIX,ebscohost.com,PROXY
 HOST-SUFFIX,ebsl.ac.uk,PROXY
 HOST-SUFFIX,ebslondon.ac.uk,PROXY
 HOST-SUFFIX,ebtcbank.com,PROXY
+HOST-SUFFIX,ebuyer.com,PROXY
 HOST-SUFFIX,ebuyheadphones.com,PROXY
 HOST-SUFFIX,eca.ac.uk,PROXY
 HOST-SUFFIX,ecampus-leeds.ac.uk,PROXY
@@ -11476,6 +11477,11 @@ HOST-SUFFIX,fra.ac.uk,PROXY
 HOST-SUFFIX,fracebook.com,PROXY
 HOST-SUFFIX,fragment.com,PROXY
 HOST-SUFFIX,fragrancebay.com,PROXY
+HOST-SUFFIX,framer.com,PROXY
+HOST-SUFFIX,framer.website,PROXY
+HOST-SUFFIX,framercanvas.com,PROXY
+HOST-SUFFIX,framerstatic.com,PROXY
+HOST-SUFFIX,framerusercontent.com,PROXY
 HOST-SUFFIX,francecasquebeatssolde.com,PROXY
 HOST-SUFFIX,francemail.com,PROXY
 HOST-SUFFIX,francistowne.ac.uk,PROXY
@@ -12836,6 +12842,7 @@ HOST-SUFFIX,grannylovesyoungcock.com,PROXY
 HOST-SUFFIX,grannytube.net,PROXY
 HOST-SUFFIX,grantham.ac.uk,PROXY
 HOST-SUFFIX,grantleyhall.ac.uk,PROXY
+HOST-SUFFIX,granulate.io,PROXY
 HOST-SUFFIX,graph.org,PROXY
 HOST-SUFFIX,graphenecentre.ac.uk,PROXY
 HOST-SUFFIX,graphengine.io,PROXY
@@ -13016,6 +13023,7 @@ HOST-SUFFIX,hackerfacebook.com,PROXY
 HOST-SUFFIX,hackerguardian.com,PROXY
 HOST-SUFFIX,hackfacebook.com,PROXY
 HOST-SUFFIX,hackfacebookid.com,PROXY
+HOST-SUFFIX,hackharassment.com,PROXY
 HOST-SUFFIX,hacklang.org,PROXY
 HOST-SUFFIX,hackmd.io,PROXY
 HOST-SUFFIX,hackney.ac.uk,PROXY
@@ -15023,6 +15031,7 @@ HOST-SUFFIX,insider.com,PROXY
 HOST-SUFFIX,insiderdevtour.com,PROXY
 HOST-SUFFIX,insiderintelligence.com,PROXY
 HOST-SUFFIX,insidevoa.com,PROXY
+HOST-SUFFIX,insight.tech,PROXY
 HOST-SUFFIX,inspire-dtp.ac.uk,PROXY
 HOST-SUFFIX,inspiretrust.ac.uk,PROXY
 HOST-SUFFIX,inst-of-oceanographic-sci.ac.uk,PROXY
@@ -15118,6 +15127,7 @@ HOST-SUFFIX,intel.cg,PROXY
 HOST-SUFFIX,intel.ch,PROXY
 HOST-SUFFIX,intel.cl,PROXY
 HOST-SUFFIX,intel.cm,PROXY
+HOST-SUFFIX,intel.co,PROXY
 HOST-SUFFIX,intel.co.ae,PROXY
 HOST-SUFFIX,intel.co.cr,PROXY
 HOST-SUFFIX,intel.co.id,PROXY
@@ -15131,6 +15141,7 @@ HOST-SUFFIX,intel.com.ar,PROXY
 HOST-SUFFIX,intel.com.au,PROXY
 HOST-SUFFIX,intel.com.bo,PROXY
 HOST-SUFFIX,intel.com.br,PROXY
+HOST-SUFFIX,intel.com.cn,PROXY
 HOST-SUFFIX,intel.com.co,PROXY
 HOST-SUFFIX,intel.com.ec,PROXY
 HOST-SUFFIX,intel.com.hk,PROXY
@@ -15149,6 +15160,7 @@ HOST-SUFFIX,intel.cr,PROXY
 HOST-SUFFIX,intel.cu,PROXY
 HOST-SUFFIX,intel.cz,PROXY
 HOST-SUFFIX,intel.de,PROXY
+HOST-SUFFIX,intel.dev,PROXY
 HOST-SUFFIX,intel.dk,PROXY
 HOST-SUFFIX,intel.dz,PROXY
 HOST-SUFFIX,intel.ec,PROXY
@@ -15161,6 +15173,7 @@ HOST-SUFFIX,intel.fr,PROXY
 HOST-SUFFIX,intel.ga,PROXY
 HOST-SUFFIX,intel.gd,PROXY
 HOST-SUFFIX,intel.ge,PROXY
+HOST-SUFFIX,intel.gg,PROXY
 HOST-SUFFIX,intel.gl,PROXY
 HOST-SUFFIX,intel.gm,PROXY
 HOST-SUFFIX,intel.gr,PROXY
@@ -15171,6 +15184,7 @@ HOST-SUFFIX,intel.hk,PROXY
 HOST-SUFFIX,intel.hn,PROXY
 HOST-SUFFIX,intel.ht,PROXY
 HOST-SUFFIX,intel.hu,PROXY
+HOST-SUFFIX,intel.id,PROXY
 HOST-SUFFIX,intel.ie,PROXY
 HOST-SUFFIX,intel.in,PROXY
 HOST-SUFFIX,intel.io,PROXY
@@ -15264,10 +15278,12 @@ HOST-SUFFIX,intellinuxgraphics.com,PROXY
 HOST-SUFFIX,intellinuxgraphics.net,PROXY
 HOST-SUFFIX,intellinuxwireless.net,PROXY
 HOST-SUFFIX,intelnervana.com,PROXY
-HOST-SUFFIX,intelnet.component,PROXY
 HOST-SUFFIX,intelplay.com,PROXY
 HOST-SUFFIX,intelquark.com,PROXY
+HOST-SUFFIX,intelrealsense.cn,PROXY
 HOST-SUFFIX,intelrealsense.com,PROXY
+HOST-SUFFIX,intelrealsense.net,PROXY
+HOST-SUFFIX,intelreimbursement.com,PROXY
 HOST-SUFFIX,intelrxt.com,PROXY
 HOST-SUFFIX,intelsalestraining.com,PROXY
 HOST-SUFFIX,intelsecurity.com,PROXY
@@ -17585,6 +17601,7 @@ HOST-SUFFIX,mahjongsoul.com,PROXY
 HOST-SUFFIX,mahsc.ac.uk,PROXY
 HOST-SUFFIX,maiio.net,PROXY
 HOST-SUFFIX,mail-archive.com,PROXY
+HOST-SUFFIX,mail.com,PROXY
 HOST-SUFFIX,mail.ru,PROXY
 HOST-SUFFIX,maileoch.com,PROXY
 HOST-SUFFIX,mailhealth.com,PROXY
@@ -18070,6 +18087,7 @@ HOST-SUFFIX,mearki.com,PROXY
 HOST-SUFFIX,meawallet.app,PROXY
 HOST-SUFFIX,meb.gov.mm,PROXY
 HOST-SUFFIX,mebank.ir,PROXY
+HOST-SUFFIX,meccontroller.com,PROXY
 HOST-SUFFIX,meddyliwchamgymru.ac.uk,PROXY
 HOST-SUFFIX,mede-innovation.ac.uk,PROXY
 HOST-SUFFIX,medev.ac.uk,PROXY
@@ -19063,6 +19081,7 @@ HOST-SUFFIX,moveonmoveup.ac.uk,PROXY
 HOST-SUFFIX,movetv.com,PROXY
 HOST-SUFFIX,movidius.com,PROXY
 HOST-SUFFIX,movidius.net,PROXY
+HOST-SUFFIX,movidius.org,PROXY
 HOST-SUFFIX,movie-erog.com,PROXY
 HOST-SUFFIX,movie1000.xyz,PROXY
 HOST-SUFFIX,moviefap.com,PROXY
@@ -21060,6 +21079,7 @@ HOST-SUFFIX,oncars.in,PROXY
 HOST-SUFFIX,one.one.one,PROXY
 HOST-SUFFIX,one889.app,PROXY
 HOST-SUFFIX,oneapi.com,PROXY
+HOST-SUFFIX,oneapi.io,PROXY
 HOST-SUFFIX,onedinesfree.com,PROXY
 HOST-SUFFIX,onedrive.co,PROXY
 HOST-SUFFIX,onedrive.co.uk,PROXY
@@ -21156,6 +21176,7 @@ HOST-SUFFIX,openamt.com,PROXY
 HOST-SUFFIX,openapiplatform.com,PROXY
 HOST-SUFFIX,openapiservice.com,PROXY
 HOST-SUFFIX,openart.ai,PROXY
+HOST-SUFFIX,opencas.io,PROXY
 HOST-SUFFIX,opencollective.com,PROXY
 HOST-SUFFIX,opencreate.org,PROXY
 HOST-SUFFIX,opendemocracy.net,PROXY
@@ -21198,6 +21219,7 @@ HOST-SUFFIX,openthread.io,PROXY
 HOST-SUFFIX,opentranslatorstothings.org,PROXY
 HOST-SUFFIX,openuniversity.ac.uk,PROXY
 HOST-SUFFIX,openurl.ac.uk,PROXY
+HOST-SUFFIX,openvino.ai,PROXY
 HOST-SUFFIX,openvinotoolkit.org,PROXY
 HOST-SUFFIX,openvpn.net,PROXY
 HOST-SUFFIX,openvpn.org,PROXY
@@ -21525,6 +21547,7 @@ HOST-SUFFIX,passion-hd.com,PROXY
 HOST-SUFFIX,passion.com,PROXY
 HOST-SUFFIX,passiontimes.hk,PROXY
 HOST-SUFFIX,passport.net,PROXY
+HOST-SUFFIX,passwordday.org,PROXY
 HOST-SUFFIX,pastahealth.com,PROXY
 HOST-SUFFIX,paste.ee,PROXY
 HOST-SUFFIX,pastebin.com,PROXY
@@ -22186,6 +22209,8 @@ HOST-SUFFIX,plzpf.com,PROXY
 HOST-SUFFIX,pm.me,PROXY
 HOST-SUFFIX,pmatehunter.com,PROXY
 HOST-SUFFIX,pmates.com,PROXY
+HOST-SUFFIX,pmem.org,PROXY
+HOST-SUFFIX,pmem.us,PROXY
 HOST-SUFFIX,pml.ac.uk,PROXY
 HOST-SUFFIX,pms.ac.uk,PROXY
 HOST-SUFFIX,pnas.org,PROXY
@@ -22809,6 +22834,7 @@ HOST-SUFFIX,project-syndicate.org,PROXY
 HOST-SUFFIX,projectapex.com,PROXY
 HOST-SUFFIX,projectara.com,PROXY
 HOST-SUFFIX,projectbaseline.com,PROXY
+HOST-SUFFIX,projectcircuitbreaker.com,PROXY
 HOST-SUFFIX,projecteuclid.org,PROXY
 HOST-SUFFIX,projectjav.com,PROXY
 HOST-SUFFIX,projectmurphy.net,PROXY
@@ -23525,6 +23551,7 @@ HOST-SUFFIX,remirepo.net,PROXY
 HOST-SUFFIX,rems-cdt.ac.uk,PROXY
 HOST-SUFFIX,renaissanceskin.ac.uk,PROXY
 HOST-SUFFIX,renchead.com,PROXY
+HOST-SUFFIX,renderingtoolkit.org,PROXY
 HOST-SUFFIX,renderos.com,PROXY
 HOST-SUFFIX,reneerossvideos.com,PROXY
 HOST-SUFFIX,renminbao.com,PROXY
@@ -24922,11 +24949,14 @@ HOST-SUFFIX,signalprocessingsociety.org,PROXY
 HOST-SUFFIX,signalr.net,PROXY
 HOST-SUFFIX,signalusers.org,PROXY
 HOST-SUFFIX,sigops.org,PROXY
+HOST-SUFFIX,sigopt.com,PROXY
 HOST-SUFFIX,sihe.ac.uk,PROXY
 HOST-SUFFIX,sijihuisuo.club,PROXY
 HOST-SUFFIX,sijihuisuo.com,PROXY
 HOST-SUFFIX,sikh-uni.ac.uk,PROXY
 HOST-SUFFIX,sikiswap.com,PROXY
+HOST-SUFFIX,silicon-mobility.com,PROXY
+HOST-SUFFIX,siliconmobility.com,PROXY
 HOST-SUFFIX,silkbook.com,PROXY
 HOST-SUFFIX,silkengirl.com,PROXY
 HOST-SUFFIX,silverchair-cdn.com,PROXY
@@ -25137,10 +25167,16 @@ HOST-SUFFIX,sma.ac.uk,PROXY
 HOST-SUFFIX,small-angle.ac.uk,PROXY
 HOST-SUFFIX,smallteenpussy.com,PROXY
 HOST-SUFFIX,smart-edge.com,PROXY
+HOST-SUFFIX,smart-edge.info,PROXY
+HOST-SUFFIX,smart-edge.io,PROXY
+HOST-SUFFIX,smart-edge.net,PROXY
+HOST-SUFFIX,smart-edge.org,PROXY
+HOST-SUFFIX,smart-edge.systems,PROXY
 HOST-SUFFIX,smart.ac.uk,PROXY
 HOST-SUFFIX,smartcommunitiescoalition.com,PROXY
 HOST-SUFFIX,smartcommunitiescoalition.org,PROXY
 HOST-SUFFIX,smartdnsproxy.com,PROXY
+HOST-SUFFIX,smartedge.info,PROXY
 HOST-SUFFIX,smartexpos.com,PROXY
 HOST-SUFFIX,smartfea.com,PROXY
 HOST-SUFFIX,smarthide.com,PROXY
@@ -25583,6 +25619,7 @@ HOST-SUFFIX,spitfire.ac.uk,PROXY
 HOST-SUFFIX,spizoo.com,PROXY
 HOST-SUFFIX,splatoon2tournament.com,PROXY
 HOST-SUFFIX,splint-cetl.ac.uk,PROXY
+HOST-SUFFIX,splunk.com,PROXY
 HOST-SUFFIX,spo-msedge.net,PROXY
 HOST-SUFFIX,spokenword.ac.uk,PROXY
 HOST-SUFFIX,sponichi.co.jp,PROXY
@@ -25962,6 +25999,8 @@ HOST-SUFFIX,stonefoxproductions.com,PROXY
 HOST-SUFFIX,stonyhurst.ac.uk,PROXY
 HOST-SUFFIX,stoporganharvesting.org,PROXY
 HOST-SUFFIX,stoptibetcrisis.net,PROXY
+HOST-SUFFIX,storageclassmemory.io,PROXY
+HOST-SUFFIX,storageclassmemory.org,PROXY
 HOST-SUFFIX,storagenewsletter.com,PROXY
 HOST-SUFFIX,storcuram.ac.uk,PROXY
 HOST-SUFFIX,store-bridgestonesports.com,PROXY
@@ -26997,6 +27036,7 @@ HOST-SUFFIX,thothub.ru,PROXY
 HOST-SUFFIX,thothub.to,PROXY
 HOST-SUFFIX,thottok.com,PROXY
 HOST-SUFFIX,thotvids.com,PROXY
+HOST-SUFFIX,threadingbuildingblocks.org,PROXY
 HOST-SUFFIX,threadreaderapp.com,PROXY
 HOST-SUFFIX,threads.com,PROXY
 HOST-SUFFIX,threads.net,PROXY
@@ -27954,10 +27994,13 @@ HOST-SUFFIX,uhr.ac.uk,PROXY
 HOST-SUFFIX,uhrp.org,PROXY
 HOST-SUFFIX,uhsl.ac.uk,PROXY
 HOST-SUFFIX,uhub.com,PROXY
+HOST-SUFFIX,ui-portal.de,PROXY
 HOST-SUFFIX,ui.com,PROXY
+HOST-SUFFIX,uicdn.com,PROXY
 HOST-SUFFIX,uighur.narod.ru,PROXY
 HOST-SUFFIX,uighur.nl,PROXY
 HOST-SUFFIX,uighurbiz.net,PROXY
+HOST-SUFFIX,uimserv.net,PROXY
 HOST-SUFFIX,uiporn.com,PROXY
 HOST-SUFFIX,uisp.com,PROXY
 HOST-SUFFIX,ujapanesesex.com,PROXY
@@ -28114,6 +28157,7 @@ HOST-SUFFIX,univault.ac.uk,PROXY
 HOST-SUFFIX,universalorlando.com,PROXY
 HOST-SUFFIX,universalpictures.com,PROXY
 HOST-SUFFIX,universalpicturesinternational.com,PROXY
+HOST-SUFFIX,universalscalablefirmware.org,PROXY
 HOST-SUFFIX,universalstudioshollywood.com,PROXY
 HOST-SUFFIX,universities-scotland.ac.uk,PROXY
 HOST-SUFFIX,universitiesengland.ac.uk,PROXY
