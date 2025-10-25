@@ -1,5 +1,5 @@
 # 规则名称:DIRECT
-# 规则统计:117034
+# 规则统计:117100
 
 HOST,265.com,DIRECT
 HOST,2mdn-cn.net,DIRECT
@@ -9,6 +9,7 @@ HOST,a2.mzstatic.com,DIRECT
 HOST,a3.mzstatic.com,DIRECT
 HOST,a4.mzstatic.com,DIRECT
 HOST,a5.mzstatic.com,DIRECT
+HOST,activation-v2.kaspersky.com,DIRECT
 HOST,adcdownload.apple.com,DIRECT
 HOST,adcdownload.apple.com.akadns.net,DIRECT
 HOST,admob-cn.com,DIRECT
@@ -111,6 +112,7 @@ HOST,crashlyticsreports-pa.googleapis.com,DIRECT
 HOST,crl-lb.apple.com.akadns.net,DIRECT
 HOST,crl.apple.com,DIRECT
 HOST,crl.globalsign.net,DIRECT
+HOST,crl.kaspersky.com,DIRECT
 HOST,crl.pki.goog,DIRECT
 HOST,crls.pki.goog,DIRECT
 HOST,csi.gstatic.com,DIRECT
@@ -132,6 +134,26 @@ HOST,discussionschinese.apple.com,DIRECT
 HOST,dl.dell.com,DIRECT
 HOST,dl.google.com,DIRECT
 HOST,dl.l.google.com,DIRECT
+HOST,dnl-00.geo.kaspersky.com,DIRECT
+HOST,dnl-01.geo.kaspersky.com,DIRECT
+HOST,dnl-02.geo.kaspersky.com,DIRECT
+HOST,dnl-03.geo.kaspersky.com,DIRECT
+HOST,dnl-04.geo.kaspersky.com,DIRECT
+HOST,dnl-05.geo.kaspersky.com,DIRECT
+HOST,dnl-06.geo.kaspersky.com,DIRECT
+HOST,dnl-07.geo.kaspersky.com,DIRECT
+HOST,dnl-08.geo.kaspersky.com,DIRECT
+HOST,dnl-09.geo.kaspersky.com,DIRECT
+HOST,dnl-10.geo.kaspersky.com,DIRECT
+HOST,dnl-11.geo.kaspersky.com,DIRECT
+HOST,dnl-12.geo.kaspersky.com,DIRECT
+HOST,dnl-13.geo.kaspersky.com,DIRECT
+HOST,dnl-14.geo.kaspersky.com,DIRECT
+HOST,dnl-15.geo.kaspersky.com,DIRECT
+HOST,dnl-16.geo.kaspersky.com,DIRECT
+HOST,dnl-17.geo.kaspersky.com,DIRECT
+HOST,dnl-18.geo.kaspersky.com,DIRECT
+HOST,dnl-19.geo.kaspersky.com,DIRECT
 HOST,docs.microsoft.com,DIRECT
 HOST,doubleclick-cn.net,DIRECT
 HOST,doubleclick.net,DIRECT
@@ -266,6 +288,10 @@ HOST,itunesconnect.apple.com,DIRECT
 HOST,js-cdn.music.apple.com,DIRECT
 HOST,kc.kexinshe.com,DIRECT
 HOST,km.support.apple.com,DIRECT
+HOST,ksn-cinfo-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-file-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-url-geo.kaspersky-labs.com,DIRECT
+HOST,ksn-verdict-geo.kaspersky-labs.com,DIRECT
 HOST,l2-uberproxy.corp.google.com,DIRECT
 HOST,learn.microsoft.com,DIRECT
 HOST,logger-dev.corp.google.com,DIRECT
@@ -315,7 +341,27 @@ HOST,oscdn.origin-apple.com.akadns.net,DIRECT
 HOST,osxapps.itunes.apple.com,DIRECT
 HOST,osxapps.itunes.g.aaplimg.com,DIRECT
 HOST,p.cdn.persaas.dell.com,DIRECT
+HOST,p00.upd.kaspersky.com,DIRECT
+HOST,p01.upd.kaspersky.com,DIRECT
+HOST,p02.upd.kaspersky.com,DIRECT
+HOST,p03.upd.kaspersky.com,DIRECT
+HOST,p04.upd.kaspersky.com,DIRECT
+HOST,p05.upd.kaspersky.com,DIRECT
+HOST,p06.upd.kaspersky.com,DIRECT
+HOST,p07.upd.kaspersky.com,DIRECT
+HOST,p08.upd.kaspersky.com,DIRECT
+HOST,p09.upd.kaspersky.com,DIRECT
 HOST,p1-juejin.byteimg.com,DIRECT
+HOST,p10.upd.kaspersky.com,DIRECT
+HOST,p11.upd.kaspersky.com,DIRECT
+HOST,p12.upd.kaspersky.com,DIRECT
+HOST,p13.upd.kaspersky.com,DIRECT
+HOST,p14.upd.kaspersky.com,DIRECT
+HOST,p15.upd.kaspersky.com,DIRECT
+HOST,p16.upd.kaspersky.com,DIRECT
+HOST,p17.upd.kaspersky.com,DIRECT
+HOST,p18.upd.kaspersky.com,DIRECT
+HOST,p19.upd.kaspersky.com,DIRECT
 HOST,p2-juejin.byteimg.com,DIRECT
 HOST,p3-juejin.byteimg.com,DIRECT
 HOST,p3-novel.byteimg.com,DIRECT
@@ -369,7 +415,27 @@ HOST,res-1.cdn.office.net,DIRECT
 HOST,res.cdn.office.net,DIRECT
 HOST,reserve-prime.apple.com,DIRECT
 HOST,s.mzstatic.com,DIRECT
+HOST,s00.upd.kaspersky.com,DIRECT
+HOST,s01.upd.kaspersky.com,DIRECT
+HOST,s02.upd.kaspersky.com,DIRECT
+HOST,s03.upd.kaspersky.com,DIRECT
+HOST,s04.upd.kaspersky.com,DIRECT
+HOST,s05.upd.kaspersky.com,DIRECT
+HOST,s06.upd.kaspersky.com,DIRECT
+HOST,s07.upd.kaspersky.com,DIRECT
+HOST,s08.upd.kaspersky.com,DIRECT
+HOST,s09.upd.kaspersky.com,DIRECT
 HOST,s1.mzstatic.com,DIRECT
+HOST,s10.upd.kaspersky.com,DIRECT
+HOST,s11.upd.kaspersky.com,DIRECT
+HOST,s12.upd.kaspersky.com,DIRECT
+HOST,s13.upd.kaspersky.com,DIRECT
+HOST,s14.upd.kaspersky.com,DIRECT
+HOST,s15.upd.kaspersky.com,DIRECT
+HOST,s16.upd.kaspersky.com,DIRECT
+HOST,s17.upd.kaspersky.com,DIRECT
+HOST,s18.upd.kaspersky.com,DIRECT
+HOST,s19.upd.kaspersky.com,DIRECT
 HOST,s2.mzstatic.com,DIRECT
 HOST,s3.mzstatic.com,DIRECT
 HOST,s4.mzstatic.com,DIRECT
