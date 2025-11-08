@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:5926
+# 规则统计:5927
 
 payload:
   - '+.000webhost.com'
@@ -2655,6 +2655,7 @@ payload:
   - '+.imageflea.com'
   - '+.imageglass.org'
   - '+.images-gaytube.com'
+  - '+.images.prismic.io'
   - '+.imageshack.us'
   - '+.imagevenue.com'
   - '+.imagezilla.net'
