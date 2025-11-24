@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:32397
+# 规则统计:32409
 
 payload:
   - DOMAIN,1password.drift.click
@@ -815,6 +815,7 @@ payload:
   - DOMAIN-SUFFIX,addyoutube.com
   - DOMAIN-SUFFIX,adelaidenow.com.au
   - DOMAIN-SUFFIX,adeptt.ac.uk
+  - DOMAIN-SUFFIX,adfox.ru
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN-SUFFIX,adguard-dns.io
@@ -849,6 +850,7 @@ payload:
   - DOMAIN-SUFFIX,adlib.ac.uk
   - DOMAIN-SUFFIX,adls.ac.uk
   - DOMAIN-SUFFIX,admeld.com
+  - DOMAIN-SUFFIX,admetrica.ru
   - DOMAIN-SUFFIX,admob-cn.com
   - DOMAIN-SUFFIX,adobe-aemassets-value.com
   - DOMAIN-SUFFIX,adobe-audience-finder.com
@@ -11046,6 +11048,7 @@ payload:
   - DOMAIN-SUFFIX,heywire.com
   - DOMAIN-SUFFIX,hf-iphone.com
   - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,hf.space
   - DOMAIN-SUFFIX,hfaes.ac.uk
   - DOMAIN-SUFFIX,hfals.ac.uk
   - DOMAIN-SUFFIX,hfma.ac.uk
@@ -13439,6 +13442,7 @@ payload:
   - DOMAIN-SUFFIX,kinkoid.com
   - DOMAIN-SUFFIX,kinkyfamily.com
   - DOMAIN-SUFFIX,kinkypeepz.com
+  - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
   - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,kir2kos.net
   - DOMAIN-SUFFIX,kirbysepicyarn.com
@@ -24144,6 +24148,8 @@ payload:
   - DOMAIN-SUFFIX,webster.ac.uk
   - DOMAIN-SUFFIX,webtoons.com
   - DOMAIN-SUFFIX,webtoonscorp.com
+  - DOMAIN-SUFFIX,webvisor.com
+  - DOMAIN-SUFFIX,webvisor.org
   - DOMAIN-SUFFIX,weekly-economist.com
   - DOMAIN-SUFFIX,weeklytimesnow.com.au
   - DOMAIN-SUFFIX,weimi180.com
@@ -25034,6 +25040,7 @@ payload:
   - DOMAIN-SUFFIX,yaburi.men
   - DOMAIN-SUFFIX,yaddal.tv
   - DOMAIN-SUFFIX,yadori.club
+  - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yaeby.info
   - DOMAIN-SUFFIX,yaeby.pro
   - DOMAIN-SUFFIX,yahoo-news.com.hk
@@ -25195,6 +25202,7 @@ payload:
   - DOMAIN-SUFFIX,yamoon.club
   - DOMAIN-SUFFIX,yandex-bank.net
   - DOMAIN-SUFFIX,yandex-images.clstorage.net
+  - DOMAIN-SUFFIX,yandex-team.ru
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.az
   - DOMAIN-SUFFIX,yandex.by
@@ -25226,6 +25234,7 @@ payload:
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yaohubaba.com
   - DOMAIN-SUFFIX,yaoimangaonline.com
@@ -25237,6 +25246,7 @@ payload:
   - DOMAIN-SUFFIX,yarininsuyu.com
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,yasarang.net
+  - DOMAIN-SUFFIX,yastat.net
   - DOMAIN-SUFFIX,yatong.info
   - DOMAIN-SUFFIX,yavtube.com
   - DOMAIN-SUFFIX,yaya.cyou
@@ -29454,6 +29464,7 @@ payload:
   - DOMAIN-SUFFIX,name.com
   - DOMAIN-SUFFIX,namgyal.org
   - DOMAIN-SUFFIX,namgyalmonastery.org
+  - DOMAIN-SUFFIX,namu.wiki
   - DOMAIN-SUFFIX,nanopool.org
   - DOMAIN-SUFFIX,nanyang.com
   - DOMAIN-SUFFIX,nanyangpost.com
@@ -29945,6 +29956,7 @@ payload:
   - DOMAIN-SUFFIX,picgo.net
   - DOMAIN-SUFFIX,picidae.net
   - DOMAIN-SUFFIX,picjs.xyz
+  - DOMAIN-SUFFIX,picsart.com
   - DOMAIN-SUFFIX,picturedip.com
   - DOMAIN-SUFFIX,picturesocial.com
   - DOMAIN-SUFFIX,picuki.com
