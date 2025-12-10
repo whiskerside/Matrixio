@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:32494
+# 规则统计:32496
 
 payload:
   - DOMAIN,1password.drift.click
@@ -12076,6 +12076,7 @@ payload:
   - DOMAIN-SUFFIX,imagebam.com
   - DOMAIN-SUFFIX,imagecurl.com
   - DOMAIN-SUFFIX,imagecurl.org
+  - DOMAIN-SUFFIX,imagedelivery.net
   - DOMAIN-SUFFIX,imagemodeler.com
   - DOMAIN-SUFFIX,imagepost.com
   - DOMAIN-SUFFIX,imageshack.com
@@ -19115,6 +19116,7 @@ payload:
   - DOMAIN-SUFFIX,r18av.com
   - DOMAIN-SUFFIX,r18lu-avi.shop
   - DOMAIN-SUFFIX,r18lu.com
+  - DOMAIN-SUFFIX,r2.dev
   - DOMAIN-SUFFIX,r34porn.net
   - DOMAIN-SUFFIX,ra-review.ac.uk
   - DOMAIN-SUFFIX,raa.ac.uk
