@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:32606
+# 规则统计:32609
 
 payload:
   - DOMAIN,1password.drift.click
@@ -2630,6 +2630,7 @@ payload:
   - DOMAIN-SUFFIX,awlc.ac.uk
   - DOMAIN-SUFFIX,aws-iot-hackathon.com
   - DOMAIN-SUFFIX,aws.com
+  - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,awsapprunner.com
   - DOMAIN-SUFFIX,awsapps.com
   - DOMAIN-SUFFIX,awsautopilot.com
@@ -26592,6 +26593,7 @@ payload:
   - DOMAIN-SUFFIX,bit.do
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,bit.no.com
+  - DOMAIN-SUFFIX,bitbaby.com
   - DOMAIN-SUFFIX,bitbay.net
   - DOMAIN-SUFFIX,bitbucket.org
   - DOMAIN-SUFFIX,bitchute.com
@@ -28634,6 +28636,7 @@ payload:
   - DOMAIN-SUFFIX,icu-project.org
   - DOMAIN-SUFFIX,id.hao123.com
   - DOMAIN-SUFFIX,idaiwan.com
+  - DOMAIN-SUFFIX,idcflare.com
   - DOMAIN-SUFFIX,iddddg.com
   - DOMAIN-SUFFIX,idemocracy.asia
   - DOMAIN-SUFFIX,identi.ca
