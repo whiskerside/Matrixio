@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:32609
+# 规则统计:32617
 
 payload:
   - DOMAIN,1password.drift.click
@@ -7022,6 +7022,8 @@ payload:
   - DOMAIN-SUFFIX,dm-event.net
   - DOMAIN-SUFFIX,dmed.technology
   - DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+  - DOMAIN-SUFFIX,dmit.io
+  - DOMAIN-SUFFIX,dmit.sh
   - DOMAIN-SUFFIX,dml-lang.org
   - DOMAIN-SUFFIX,dml.ac.uk
   - DOMAIN-SUFFIX,dmm-extension.com
@@ -8053,6 +8055,7 @@ payload:
   - DOMAIN-SUFFIX,entrustdatacard.com
   - DOMAIN-SUFFIX,enveast.ac.uk
   - DOMAIN-SUFFIX,environment-health.ac.uk
+  - DOMAIN-SUFFIX,eotarchive.org
   - DOMAIN-SUFFIX,epa.gov.tw
   - DOMAIN-SUFFIX,epc.ac.uk
   - DOMAIN-SUFFIX,epic.ac.uk
@@ -9912,6 +9915,7 @@ payload:
   - DOMAIN-SUFFIX,ghbi.ir
   - DOMAIN-SUFFIX,ghettotube.com
   - DOMAIN-SUFFIX,ghil.ac.uk
+  - DOMAIN-SUFFIX,ghostarchive.org
   - DOMAIN-SUFFIX,ghostgames.com
   - DOMAIN-SUFFIX,ghtv666.top
   - DOMAIN-SUFFIX,giantessbooru.com
@@ -14974,6 +14978,7 @@ payload:
   - DOMAIN-SUFFIX,melonstube.com
   - DOMAIN-SUFFIX,meme111.com
   - DOMAIN-SUFFIX,memealerts.com
+  - DOMAIN-SUFFIX,mementoweb.org
   - DOMAIN-SUFFIX,men.com
   - DOMAIN-SUFFIX,men18.net
   - DOMAIN-SUFFIX,menai.ac.uk
@@ -18096,6 +18101,7 @@ payload:
   - DOMAIN-SUFFIX,perfecttitspics.com
   - DOMAIN-SUFFIX,performancescience.ac.uk
   - DOMAIN-SUFFIX,perl.org
+  - DOMAIN-SUFFIX,perma.cc
   - DOMAIN-SUFFIX,perplexity.com
   - DOMAIN-SUFFIX,persagg.com
   - DOMAIN-SUFFIX,pershore.ac.uk
@@ -24303,6 +24309,7 @@ payload:
   - DOMAIN-SUFFIX,webcammedellin.co
   - DOMAIN-SUFFIX,webcams.tv
   - DOMAIN-SUFFIX,webcamtubexxx.com
+  - DOMAIN-SUFFIX,webcitation.org
   - DOMAIN-SUFFIX,webex.ca
   - DOMAIN-SUFFIX,webex.co.in
   - DOMAIN-SUFFIX,webex.co.it
@@ -30072,6 +30079,7 @@ payload:
   - DOMAIN-SUFFIX,parler.com
   - DOMAIN-SUFFIX,parse.com
   - DOMAIN-SUFFIX,parsevideo.com
+  - DOMAIN-SUFFIX,partnerstack.xyz
   - DOMAIN-SUFFIX,passion.com
   - DOMAIN-SUFFIX,passiontimes.hk
   - DOMAIN-SUFFIX,paste.ee
