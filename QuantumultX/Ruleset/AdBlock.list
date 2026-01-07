@@ -1,5 +1,5 @@
 # 规则名称:AdBlock
-# 规则统计:98910
+# 规则统计:98911
 
 HOST-SUFFIX,000dn.com,REJECT
 HOST-SUFFIX,0013.cc,REJECT
@@ -7042,7 +7042,8 @@ HOST-SUFFIX,pbmp.ali213.net,REJECT
 HOST-SUFFIX,web.ali213.net,REJECT
 HOST-SUFFIX,alia-iso.com,REJECT
 HOST-SUFFIX,tr.info.aliae.com,REJECT
-HOST-SUFFIX,aliapp.org,REJECT
+HOST-SUFFIX,cdn.ynuf.aliapp.org,REJECT
+HOST-SUFFIX,umdc.aliapp.org,REJECT
 HOST-SUFFIX,aliasanvil.com,REJECT
 HOST-SUFFIX,aliasfoot.com,REJECT
 HOST-SUFFIX,crm-eve.b2b.alibaba-inc.com,REJECT
