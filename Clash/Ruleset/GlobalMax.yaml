@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:32783
+# 规则统计:32798
 
 payload:
   - DOMAIN,1password.drift.click
@@ -6460,7 +6460,6 @@ payload:
   - DOMAIN-SUFFIX,daytonbmw.com
   - DOMAIN-SUFFIX,daytontrucktires.com
   - DOMAIN-SUFFIX,dazn-api.com
-  - DOMAIN-SUFFIX,dazn.com
   - DOMAIN-SUFFIX,dazndn.com
   - DOMAIN-SUFFIX,daznfeeds.com
   - DOMAIN-SUFFIX,daznplayer.com
@@ -16765,6 +16764,15 @@ payload:
   - DOMAIN-SUFFIX,nginx.org
   - DOMAIN-SUFFIX,nginxconfig.io
   - DOMAIN-SUFFIX,ngodupdongchung.com
+  - DOMAIN-SUFFIX,ngrok-free.app
+  - DOMAIN-SUFFIX,ngrok-free.dev
+  - DOMAIN-SUFFIX,ngrok-free.pizza
+  - DOMAIN-SUFFIX,ngrok.app
+  - DOMAIN-SUFFIX,ngrok.com
+  - DOMAIN-SUFFIX,ngrok.dev
+  - DOMAIN-SUFFIX,ngrok.io
+  - DOMAIN-SUFFIX,ngrok.pizza
+  - DOMAIN-SUFFIX,ngrok.pro
   - DOMAIN-SUFFIX,ngs.ac.uk
   - DOMAIN-SUFFIX,ngwnet.ac.uk
   - DOMAIN-SUFFIX,nhc.ac.uk
@@ -17640,7 +17648,6 @@ payload:
   - DOMAIN-SUFFIX,onxxxtube.com
   - DOMAIN-SUFFIX,onxxxvideo.com
   - DOMAIN-SUFFIX,oocdtp.ac.uk
-  - DOMAIN-SUFFIX,ooni.org
   - DOMAIN-SUFFIX,ootbstudio.co.kr
   - DOMAIN-SUFFIX,op.gg
   - DOMAIN-SUFFIX,op7979.com
@@ -18339,6 +18346,8 @@ payload:
   - DOMAIN-SUFFIX,pinflix.com
   - DOMAIN-SUFFIX,ping.sx
   - DOMAIN-SUFFIX,pingguotv.xyz
+  - DOMAIN-SUFFIX,pinggy.io
+  - DOMAIN-SUFFIX,pinggy.link
   - DOMAIN-SUFFIX,pingxiangpuer.com
   - DOMAIN-SUFFIX,pinkcore.com
   - DOMAIN-SUFFIX,pinkcore.net
@@ -20011,6 +20020,7 @@ payload:
   - DOMAIN-SUFFIX,rutc.ac.uk
   - DOMAIN-SUFFIX,rutherford.ac.uk
   - DOMAIN-SUFFIX,rutlandcollege.ac.uk
+  - DOMAIN-SUFFIX,rutor.info
   - DOMAIN-SUFFIX,rutracker.cc
   - DOMAIN-SUFFIX,rutracker.cr
   - DOMAIN-SUFFIX,rutracker.me
@@ -26335,6 +26345,7 @@ payload:
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.dev
+  - DOMAIN-SUFFIX,ai.studio
   - DOMAIN-SUFFIX,aiosearch.com
   - DOMAIN-SUFFIX,aiph.net
   - DOMAIN-SUFFIX,airasia.com
@@ -27445,6 +27456,7 @@ payload:
   - DOMAIN-SUFFIX,dayabook.com
   - DOMAIN-SUFFIX,daylife.com
   - DOMAIN-SUFFIX,dayone.me
+  - DOMAIN-SUFFIX,dazn.com
   - DOMAIN-SUFFIX,db.tt
   - DOMAIN-SUFFIX,dbc.hk
   - DOMAIN-SUFFIX,dbgjd.com
@@ -30132,6 +30144,8 @@ payload:
   - DOMAIN-SUFFIX,onthehunt.com
   - DOMAIN-SUFFIX,ontrac.com
   - DOMAIN-SUFFIX,oojj.de
+  - DOMAIN-SUFFIX,ooni.io
+  - DOMAIN-SUFFIX,ooni.org
   - DOMAIN-SUFFIX,oopsforum.com
   - DOMAIN-SUFFIX,ooyala.com
   - DOMAIN-SUFFIX,open.com.hk
@@ -32352,6 +32366,7 @@ payload:
   - DOMAIN-SUFFIX,xbookcn.com
   - DOMAIN-SUFFIX,xbtce.com
   - DOMAIN-SUFFIX,xcafe.in
+  - DOMAIN-SUFFIX,xcancel.com
   - DOMAIN-SUFFIX,xcity.jp
   - DOMAIN-SUFFIX,xclient.info
   - DOMAIN-SUFFIX,xcritic.com
