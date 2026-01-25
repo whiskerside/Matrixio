@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout target repository
-      uses: actions/checkout@v4.1.6
+      uses: actions/checkout@v4.2.1
       with:
         repository: whiskerside/Matrixio
         path: Matrixio-repo
