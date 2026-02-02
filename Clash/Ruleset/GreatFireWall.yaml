@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:6007
+# 规则统计:6008
 
 payload:
   - '+.000webhost.com'
@@ -4747,6 +4747,7 @@ payload:
   - '+.tafm.org'
   - '+.tagwalk.com'
   - '+.tahr.org.tw'
+  - '+.tails.net'
   - '+.taipei.gov.tw'
   - '+.taipeisociety.org'
   - '+.taipeitimes.com'

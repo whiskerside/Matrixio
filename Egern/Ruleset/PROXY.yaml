@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:26468
+# 规则统计:26472
 
 domain_set:
   - 1password.drift.click
@@ -297,6 +297,7 @@ domain_set:
   - osu.ppy.sh
   - p-events-delivery.akamaized.net
   - p16-tiktokcdn-com.akamaized.net
+  - packages.microsoft.com
   - paper-attachments.s3.amazonaws.com
   - pchomeonline.com.tw
   - pki.google.com
@@ -5105,6 +5106,7 @@ domain_suffix_set:
   - brutaltgp.com
   - bs-adreview.com
   - bs-awh.ne.jp
+  - bsappapi.com
   - bsi.ir
   - bsky.app
   - bsky.network
@@ -18613,6 +18615,7 @@ domain_suffix_set:
   - pjbyj.top
   - pjful-app.lol
   - pjgirls.com
+  - pjsekai.sega.jp
   - pk.com
   - pki-post.ch
   - pki-posta.ch
@@ -22017,6 +22020,7 @@ domain_suffix_set:
   - taiav.com
   - tail-f.com
   - tailf.com
+  - tails.net
   - tailscale.com
   - tailscale.io
   - tailwindtraders.com
