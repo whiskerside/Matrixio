@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:32874
+# 规则统计:32878
 
 payload:
   - DOMAIN,1password.drift.click
@@ -4576,6 +4576,7 @@ payload:
   - DOMAIN-SUFFIX,bs-adreview.com
   - DOMAIN-SUFFIX,bs-awh.ne.jp
   - DOMAIN-SUFFIX,bsa.ac.uk
+  - DOMAIN-SUFFIX,bsappapi.com
   - DOMAIN-SUFFIX,bsaw.ac.uk
   - DOMAIN-SUFFIX,bsbec.ac.uk
   - DOMAIN-SUFFIX,bsdc.ac.uk
@@ -18453,6 +18454,7 @@ payload:
   - DOMAIN-SUFFIX,pjbyj.top
   - DOMAIN-SUFFIX,pjful-app.lol
   - DOMAIN-SUFFIX,pjgirls.com
+  - DOMAIN-SUFFIX,pjsekai.sega.jp
   - DOMAIN-SUFFIX,pki-post.ch
   - DOMAIN-SUFFIX,pki-posta.ch
   - DOMAIN-SUFFIX,pki-poste.ch
@@ -20119,6 +20121,7 @@ payload:
   - DOMAIN-SUFFIX,salebeatslasteststyle4you.com
   - DOMAIN-SUFFIX,saleblackfridaydrebeats.com
   - DOMAIN-SUFFIX,salecheaphandbags.com
+  - DOMAIN-SUFFIX,salesforce-setup.com
   - DOMAIN-SUFFIX,salesforce.com
   - DOMAIN-SUFFIX,salesforce.org
   - DOMAIN-SUFFIX,salesforceiq.com
@@ -31335,6 +31338,7 @@ payload:
   - DOMAIN-SUFFIX,tagwa.org.au
   - DOMAIN-SUFFIX,tagwalk.com
   - DOMAIN-SUFFIX,tahr.org.tw
+  - DOMAIN-SUFFIX,tails.net
   - DOMAIN-SUFFIX,taipei.gov.tw
   - DOMAIN-SUFFIX,taipeisociety.org
   - DOMAIN-SUFFIX,taipeitimes.com
