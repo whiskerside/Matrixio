@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:32878
+# 规则统计:32880
 
 payload:
   - DOMAIN,1password.drift.click
@@ -17792,6 +17792,7 @@ payload:
   - DOMAIN-SUFFIX,osiri-suki-club.com
   - DOMAIN-SUFFIX,osl.com
   - DOMAIN-SUFFIX,osm.org
+  - DOMAIN-SUFFIX,osmand.net
   - DOMAIN-SUFFIX,osmfoundation.org
   - DOMAIN-SUFFIX,osmosis.ac.uk
   - DOMAIN-SUFFIX,ospray.net
@@ -30899,6 +30900,7 @@ payload:
   - DOMAIN-SUFFIX,seesmic.com
   - DOMAIN-SUFFIX,seevpn.com
   - DOMAIN-SUFFIX,seezone.net
+  - DOMAIN-SUFFIX,sef.org.tw
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,sejie.com
