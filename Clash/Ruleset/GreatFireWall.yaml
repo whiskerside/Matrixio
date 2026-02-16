@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4210
+# 规则统计:4213
 
 payload:
   - '+.000webhost.com'
@@ -1420,6 +1420,7 @@ payload:
   - '+.glype.com'
   - '+.gmail.com'
   - '+.gmgard.com'
+  - '+.gmgn.ai'
   - '+.gmodules.com'
   - '+.gmp4.com'
   - '+.gnci.org.hk'
@@ -3209,6 +3210,7 @@ payload:
   - '+.sowers.org.hk'
   - '+.soylentnews.org'
   - '+.spaces.hightail.com'
+  - '+.spacex.com'
   - '+.spankbang.com'
   - '+.sparkpool.com'
   - '+.spatial.io'
@@ -3845,6 +3847,7 @@ payload:
   - '+.waffle1999.com'
   - '+.wainao.me'
   - '+.walletconnect.com'
+  - '+.walletconnect.org'
   - '+.wallmama.com'
   - '+.wallpapercasa.com'
   - '+.wallsttv.com'
