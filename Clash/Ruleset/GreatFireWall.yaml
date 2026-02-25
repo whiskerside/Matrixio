@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4188
+# 规则统计:4189
 
 payload:
   - '+.000webhost.com'
@@ -1265,6 +1265,7 @@ payload:
   - '+.freebeacon.com'
   - '+.freebrowser.org'
   - '+.freechinaweibo.com'
+  - '+.freedom.gov'
   - '+.freedomhouse.org'
   - '+.freedominfonetweb.wordpress.com'
   - '+.freedomsherald.org'
