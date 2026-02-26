@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25125
+# 规则统计:25139
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -1300,6 +1300,7 @@ HOST-SUFFIX,aboutamazon.in,PROXY
 HOST-SUFFIX,aboutamazon.it,PROXY
 HOST-SUFFIX,aboutamazon.jp,PROXY
 HOST-SUFFIX,aboutamazon.pl,PROXY
+HOST-SUFFIX,aboutamazon.sg,PROXY
 HOST-SUFFIX,aboutfacebook.com,PROXY
 HOST-SUFFIX,aboutmcdonalds.com,PROXY
 HOST-SUFFIX,aboutporno.net,PROXY
@@ -2170,23 +2171,34 @@ HOST-SUFFIX,amazon-lantern.com,PROXY
 HOST-SUFFIX,amazon-launchpad.com,PROXY
 HOST-SUFFIX,amazon.ae,PROXY
 HOST-SUFFIX,amazon.ca,PROXY
+HOST-SUFFIX,amazon.cl,PROXY
 HOST-SUFFIX,amazon.co.jp,PROXY
 HOST-SUFFIX,amazon.co.uk,PROXY
+HOST-SUFFIX,amazon.co.za,PROXY
 HOST-SUFFIX,amazon.com,PROXY
 HOST-SUFFIX,amazon.com.au,PROXY
+HOST-SUFFIX,amazon.com.be,PROXY
 HOST-SUFFIX,amazon.com.br,PROXY
+HOST-SUFFIX,amazon.com.co,PROXY
 HOST-SUFFIX,amazon.com.mx,PROXY
+HOST-SUFFIX,amazon.com.ng,PROXY
 HOST-SUFFIX,amazon.com.tr,PROXY
 HOST-SUFFIX,amazon.de,PROXY
 HOST-SUFFIX,amazon.dev,PROXY
+HOST-SUFFIX,amazon.eg,PROXY
 HOST-SUFFIX,amazon.es,PROXY
 HOST-SUFFIX,amazon.fr,PROXY
+HOST-SUFFIX,amazon.ie,PROXY
 HOST-SUFFIX,amazon.in,PROXY
 HOST-SUFFIX,amazon.it,PROXY
 HOST-SUFFIX,amazon.jobs,PROXY
 HOST-SUFFIX,amazon.jp,PROXY
+HOST-SUFFIX,amazon.lu,PROXY
 HOST-SUFFIX,amazon.nl,PROXY
+HOST-SUFFIX,amazon.pl,PROXY
 HOST-SUFFIX,amazon.red,PROXY
+HOST-SUFFIX,amazon.sa,PROXY
+HOST-SUFFIX,amazon.se,PROXY
 HOST-SUFFIX,amazon.sg,PROXY
 HOST-SUFFIX,amazonalexavoxcon.com,PROXY
 HOST-SUFFIX,amazonauthorinsights.com,PROXY
@@ -3316,6 +3328,7 @@ HOST-SUFFIX,awsstatic.com,PROXY
 HOST-SUFFIX,awsthinkbox.com,PROXY
 HOST-SUFFIX,awstrack.me,PROXY
 HOST-SUFFIX,awstrust.com,PROXY
+HOST-SUFFIX,awswaf.com,PROXY
 HOST-SUFFIX,awwcn.buzz,PROXY
 HOST-SUFFIX,awwcn.xyz,PROXY
 HOST-SUFFIX,awxcdn.com,PROXY
@@ -19442,6 +19455,7 @@ HOST-SUFFIX,search.xxx,PROXY
 HOST-SUFFIX,searx.me,PROXY
 HOST-SUFFIX,seasidestory.tokyo,PROXY
 HOST-SUFFIX,seattlefdc.com,PROXY
+HOST-SUFFIX,seattlespheres.com,PROXY
 HOST-SUFFIX,secom.co.jp,PROXY
 HOST-SUFFIX,secomtrust.net,PROXY
 HOST-SUFFIX,second-ns.com,PROXY
