@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4193
+# 规则统计:4194
 
 payload:
   - '+.000webhost.com'
@@ -1007,6 +1007,7 @@ payload:
   - '+.dougscripts.com'
   - '+.doujincafe.com'
   - '+.download.aircrack-ng.org'
+  - '+.download.dappcdn.com'
   - '+.dpool.top'
   - '+.dpp.org.tw'
   - '+.dpr.info'
