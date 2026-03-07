@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4194
+# 规则统计:4197
 
 domain_suffix_set:
   - 000webhost.com
@@ -979,6 +979,7 @@ domain_suffix_set:
   - dmcdn.net
   - dmhy.org
   - dmm.co.jp
+  - dns.cloudflare.com
   - dns2go.com
   - dnscrypt.org
   - dnssec.net
@@ -1566,6 +1567,7 @@ domain_suffix_set:
   - google.cv
   - google.cz
   - google.de
+  - google.dev
   - google.dj
   - google.dk
   - google.dm
@@ -1981,6 +1983,7 @@ domain_suffix_set:
   - interseclab.org
   - inthenameofconfuciusmovie.com
   - investigating.wordpress.com
+  - investing.com
   - invidio.us
   - inxian.com
   - ipdefenseforum.com
