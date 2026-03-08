@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25167
+# 规则统计:25170
 
 payload:
   - '1password.drift.click'
@@ -2460,6 +2460,7 @@ payload:
   - '+.app-dynamics.com'
   - '+.app-measurement-cn.com'
   - '+.app-measurement.com'
+  - '+.app-pay.jp'
   - '+.app-store.wang'
   - '+.app.box.com'
   - '+.app.smartmailcloud.com'
@@ -19292,6 +19293,7 @@ payload:
   - '+.samsunggalaxyfriends.com'
   - '+.samsunghealth.com'
   - '+.samsungiotcloud.com'
+  - '+.samsungiots.com'
   - '+.samsungknox.com'
   - '+.samsungosp.com'
   - '+.samsungqbe.com'
@@ -20137,6 +20139,7 @@ payload:
   - '+.smartonesolutions.com.hk'
   - '+.smartonesolutions.hk'
   - '+.smartstream.ne.jp'
+  - '+.smartthings.com'
   - '+.smashed.xxx'
   - '+.smbc.co.jp'
   - '+.smbctb.co.jp'
