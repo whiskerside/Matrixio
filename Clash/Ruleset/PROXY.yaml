@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25170
+# 规则统计:25172
 
 payload:
   - '1password.drift.click'
@@ -85,7 +85,6 @@ payload:
   - 'cbsservice.aws.syncbak.com'
   - 'cdn-spotify-experiments.conductrics.com'
   - 'cdn.js7k.com'
-  - 'cdn.jsdelivr.net'
   - 'cdngarenanow-a.akamaihd.net'
   - 'chinapower.csis.org'
   - 'cisco.evergage.com'
@@ -7709,6 +7708,7 @@ payload:
   - '+.dynamobuilds.com'
   - '+.dynamopackages.com'
   - '+.dynamoreach.com'
+  - '+.dynatrace.com'
   - '+.dynawebinc.com'
   - '+.dyncdn.me'
   - '+.dynu.com'
@@ -8757,6 +8757,7 @@ payload:
   - '+.familypies.net'
   - '+.familyporn.tv'
   - '+.familypornhd.com'
+  - '+.familysearch.org'
   - '+.familysexsimulator.com'
   - '+.familysimulator.com'
   - '+.familysimulator.io'
@@ -19850,6 +19851,7 @@ payload:
   - '+.shit-porn.net'
   - '+.shithd.com'
   - '+.shitjav.com'
+  - '+.shitjournal.org'
   - '+.shittytube.com'
   - '+.shixiao.org'
   - '+.shizhao.org'
