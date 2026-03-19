@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25183
+# 规则统计:25188
 
 payload:
   - '1password.drift.click'
@@ -21568,6 +21568,11 @@ payload:
   - '+.tiktokv.us'
   - '+.tiktokw.eu'
   - '+.tiktokw.us'
+  - '+.tilda.cc'
+  - '+.tilda.ru'
+  - '+.tilda.ws'
+  - '+.tildaapi.com'
+  - '+.tildacdn.com'
   - '+.tiltbrush.com'
   - '+.timdir.com'
   - '+.time.com'
