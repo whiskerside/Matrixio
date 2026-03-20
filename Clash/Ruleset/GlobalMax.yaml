@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:33186
+# 规则统计:33191
 
 payload:
   - DOMAIN,1password.drift.click
@@ -677,7 +677,6 @@ payload:
   - DOMAIN-SUFFIX,aapl.tw
   - DOMAIN-SUFFIX,aaschool.ac.uk
   - DOMAIN-SUFFIX,aau.ac.uk
-  - DOMAIN-SUFFIX,aave.com
   - DOMAIN-SUFFIX,aavs.xyz
   - DOMAIN-SUFFIX,abank.com.mm
   - DOMAIN-SUFFIX,abb.travel
@@ -22932,6 +22931,11 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
+  - DOMAIN-SUFFIX,tilda.cc
+  - DOMAIN-SUFFIX,tilda.ru
+  - DOMAIN-SUFFIX,tilda.ws
+  - DOMAIN-SUFFIX,tildaapi.com
+  - DOMAIN-SUFFIX,tildacdn.com
   - DOMAIN-SUFFIX,tilehill.ac.uk
   - DOMAIN-SUFFIX,time.gov
   - DOMAIN-SUFFIX,time.nrc.ca
@@ -26674,6 +26678,7 @@ payload:
   - DOMAIN-SUFFIX,9to5mac.com
   - DOMAIN-SUFFIX,a-normal-day.com
   - DOMAIN-SUFFIX,aamacau.com
+  - DOMAIN-SUFFIX,aave.com
   - DOMAIN-SUFFIX,abc.com
   - DOMAIN-SUFFIX,abc.net.au
   - DOMAIN-SUFFIX,abc.xyz
