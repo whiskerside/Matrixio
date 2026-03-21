@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4202
+# 规则统计:4203
 
 payload:
   - '+.000webhost.com'
@@ -748,6 +748,7 @@ payload:
   - '+.chromestatus.com'
   - '+.chromium.org'
   - '+.ci-en.jp'
+  - '+.cia.gov'
   - '+.cici.com'
   - '+.ciciai.com'
   - '+.cirosantilli.com'
