@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25194
+# 规则统计:25197
 
 domain_set:
   - 1password.drift.click
@@ -149,6 +149,7 @@ domain_set:
   - docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
   - docker-pinata-support.s3.amazonaws.com
   - download.visualstudio.microsoft.com
+  - dqd0jw5gvbchn.cloudfront.net
   - dqrpb9wgowsf5.cloudfront.net
   - ds-linear-abematv.akamaized.net
   - ds-vod-abematv.akamaized.net
@@ -17077,6 +17078,7 @@ domain_suffix_set:
   - openlibrary.org
   - openmaps.org
   - openreality.com
+  - openrec.tv
   - openresty.org
   - openreview.net
   - openrouter.ai
@@ -19253,6 +19255,7 @@ domain_suffix_set:
   - s-nbcnews.com
   - s-rewards.hk
   - s-xoom.com
+  - s.rmimg.com
   - s.team
   - s1s1s1.com
   - s2csntp.miz.nao.ac.jp
