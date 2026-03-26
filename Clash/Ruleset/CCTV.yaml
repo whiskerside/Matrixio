@@ -1,10 +1,3 @@
-# 规则名称:CCTV
-# 规则统计:6
+  - 429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
-payload:
-  - DOMAIN-SUFFIX,cctv.cn
-  - DOMAIN-SUFFIX,cctv.com
-  - DOMAIN-SUFFIX,cctvpic.com
-  - DOMAIN-SUFFIX,cntv.cn
-  - DOMAIN-SUFFIX,cntv.com
-  - DOMAIN-SUFFIX,livechina.com

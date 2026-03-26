@@ -1,11 +1,3 @@
-# 规则名称:Discovery+
-# 规则统计:7
+  - 429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
-payload:
-  - DOMAIN-SUFFIX,disco-api.com
-  - DOMAIN-SUFFIX,discovery.com
-  - DOMAIN-SUFFIX,discoveryplus.co.uk
-  - DOMAIN-SUFFIX,discoveryplus.com
-  - DOMAIN-SUFFIX,discoveryplus.in
-  - DOMAIN-SUFFIX,dnitv.com
-  - DOMAIN-SUFFIX,uplynk.com

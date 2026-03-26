@@ -1,13 +1,3 @@
-# 规则名称:AMAP 高德地图
-# 规则统计:9
+  - 429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
-payload:
-  - DOMAIN-SUFFIX,anav.com
-  - DOMAIN-SUFFIX,amap.com
-  - DOMAIN-SUFFIX,amapauto.com
-  - DOMAIN-SUFFIX,gaode.com
-  - DOMAIN-SUFFIX,a-map.cn
-  - DOMAIN-SUFFIX,a-map.link
-  - DOMAIN-SUFFIX,a-map.co
-  - DOMAIN-SUFFIX,autonavi.com
-  - DOMAIN-SUFFIX,a-map.vip

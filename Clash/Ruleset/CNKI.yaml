@@ -1,22 +1,3 @@
-# 规则名称:CNKI 中国知网
-# 规则统计:18
+  - 429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
-payload:
-  - DOMAIN-SUFFIX,bbf.org.cn
-  - DOMAIN-SUFFIX,bjsbnet.com
-  - DOMAIN-SUFFIX,chndoi.cn
-  - DOMAIN-SUFFIX,chndoi.com
-  - DOMAIN-SUFFIX,chndoi.com.cn
-  - DOMAIN-SUFFIX,chndoi.net
-  - DOMAIN-SUFFIX,chndoi.org
-  - DOMAIN-SUFFIX,cnki.com.cn
-  - DOMAIN-SUFFIX,cnki.net
-  - DOMAIN-SUFFIX,cnkidoi.cn
-  - DOMAIN-SUFFIX,cnkidoi.com
-  - DOMAIN-SUFFIX,cnkidoi.net
-  - DOMAIN-SUFFIX,cnkidoi.org
-  - DOMAIN-SUFFIX,wuxizazhi.cn
-  - DOMAIN-SUFFIX,wuxizazhi.com
-  - DOMAIN-SUFFIX,wuxizazhi.com.cn
-  - DOMAIN-SUFFIX,wuxizazhi.net
-  - DOMAIN-SUFFIX,wuxizazhi.net.cn
