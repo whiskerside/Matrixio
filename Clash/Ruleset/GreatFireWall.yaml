@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4210
+# 规则统计:4211
 
 payload:
   - '+.000webhost.com'
@@ -848,6 +848,7 @@ payload:
   - '+.cpu-monkey.com'
   - '+.cq99.us'
   - '+.crackle.com'
+  - '+.crashlytics.com'
   - '+.crazypool.org'
   - '+.crazyshit.com'
   - '+.crbug.com'
