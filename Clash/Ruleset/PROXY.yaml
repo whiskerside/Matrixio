@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25997
+# 规则统计:25998
 
 payload:
   - '1password.drift.click'
@@ -1426,6 +1426,7 @@ payload:
   - '+.adguard.io'
   - '+.adguard.org'
   - '+.adguardaccount.com'
+  - '+.adguardcdn.com'
   - '+.adguardvpn.com'
   - '+.adhelpnews.com'
   - '+.adidas-archive.org'

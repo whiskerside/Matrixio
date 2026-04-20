@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25997
+# 规则统计:25998
 
 domain_set:
   - 1password.drift.click
@@ -1427,6 +1427,7 @@ domain_suffix_set:
   - adguard.io
   - adguard.org
   - adguardaccount.com
+  - adguardcdn.com
   - adguardvpn.com
   - adhelpnews.com
   - adidas-archive.org

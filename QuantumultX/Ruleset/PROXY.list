@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:25997
+# 规则统计:25998
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -1425,6 +1425,7 @@ HOST-SUFFIX,adguard.info,PROXY
 HOST-SUFFIX,adguard.io,PROXY
 HOST-SUFFIX,adguard.org,PROXY
 HOST-SUFFIX,adguardaccount.com,PROXY
+HOST-SUFFIX,adguardcdn.com,PROXY
 HOST-SUFFIX,adguardvpn.com,PROXY
 HOST-SUFFIX,adhelpnews.com,PROXY
 HOST-SUFFIX,adidas-archive.org,PROXY
