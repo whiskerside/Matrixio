@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:34008
+# 规则统计:34011
 
 payload:
   - DOMAIN,1password.drift.click
@@ -874,6 +874,7 @@ payload:
   - DOMAIN-SUFFIX,adguard.info
   - DOMAIN-SUFFIX,adguard.io
   - DOMAIN-SUFFIX,adguardaccount.com
+  - DOMAIN-SUFFIX,adguardcdn.com
   - DOMAIN-SUFFIX,adguardvpn.com
   - DOMAIN-SUFFIX,adhelpnews.com
   - DOMAIN-SUFFIX,adidas-archive.org
@@ -16101,6 +16102,7 @@ payload:
   - DOMAIN-SUFFIX,minim.ac.uk
   - DOMAIN-SUFFIX,minimarkham.ca
   - DOMAIN-SUFFIX,minimarkham.com
+  - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,minimoncton.ca
   - DOMAIN-SUFFIX,minimoncton.com
   - DOMAIN-SUFFIX,minimontrealcentre.ca
@@ -21082,6 +21084,7 @@ payload:
   - DOMAIN-SUFFIX,scope-uk.ac.uk
   - DOMAIN-SUFFIX,scopic.ac.uk
   - DOMAIN-SUFFIX,score.ac.uk
+  - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,scoreclassics.com
   - DOMAIN-SUFFIX,scorediscounts.club
   - DOMAIN-SUFFIX,scoregroup.com
