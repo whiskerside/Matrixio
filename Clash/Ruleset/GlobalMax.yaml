@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:34309
+# 规则统计:34310
 
 payload:
   - DOMAIN,1password.drift.click
@@ -15995,6 +15995,7 @@ payload:
   - DOMAIN-SUFFIX,midentsolutions.com
   - DOMAIN-SUFFIX,midfife.ac.uk
   - DOMAIN-SUFFIX,midhurst.ac.uk
+  - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,midkent.ac.uk
   - DOMAIN-SUFFIX,midlands3cities.ac.uk
   - DOMAIN-SUFFIX,midlands4cities.ac.uk
@@ -16640,7 +16641,6 @@ payload:
   - DOMAIN-SUFFIX,moxing.news
   - DOMAIN-SUFFIX,moystoys.com
   - DOMAIN-SUFFIX,mozgcp.net
-  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community
   - DOMAIN-SUFFIX,mozilla.net
@@ -31194,6 +31194,7 @@ payload:
   - DOMAIN-SUFFIX,movements.org
   - DOMAIN-SUFFIX,moves-export.com
   - DOMAIN-SUFFIX,moviefap.com
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,moztw.org
   - DOMAIN-SUFFIX,mp3buscador.com
