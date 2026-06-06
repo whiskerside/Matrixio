@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4251
+# 规则统计:4252
 
 payload:
   - '+.000webhost.com'
@@ -2724,7 +2724,6 @@ payload:
   - '+.pacom.mil'
   - '+.pacopacomama.com'
   - '+.page.link'
-  - '+.pages.dev'
   - '+.paimon.moe'
   - '+.pancakeswap.finance'
   - '+.pandafan.pub'
@@ -3337,6 +3336,7 @@ payload:
   - '+.surfeasy.com.au'
   - '+.surfshark.com'
   - '+.surrenderat20.net'
+  - '+.suyingtv.com'
   - '+.swagbucks.com'
   - '+.swapspace.co'
   - '+.swissinfo.ch'
@@ -4020,6 +4020,7 @@ payload:
   - '+.wowporn.com'
   - '+.woyaolian.org'
   - '+.wp.com'
+  - '+.wplace.live'
   - '+.wpoforum.com'
   - '+.writesonic.com'
   - '+.wsj.com'
