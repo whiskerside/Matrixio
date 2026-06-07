@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:26541
+# 规则统计:26583
 
 domain_set:
   - 1password.drift.click
@@ -215,6 +215,7 @@ domain_set:
   - google-ohttp-relay-safebrowsing.fastly-edge.com
   - hamivideo.hinet.net
   - hammerandchisel.ssl.zendesk.com
+  - hb.imgix.net
   - heads-ak-spotify-com.akamaized.net
   - heads4-ak-spotify-com.akamaized.net
   - himalaya-exchange.zendesk.com
@@ -2317,6 +2318,7 @@ domain_suffix_set:
   - amd.com
   - amd.com.cn
   - amdfanstore.com
+  - amdgaming.com
   - amdigital.co.uk
   - ameba.jp
   - amebame.com
@@ -5263,6 +5265,7 @@ domain_suffix_set:
   - budatt.com
   - buddymedia.com
   - buffered.com
+  - bugsnag.com
   - bugzilla.org
   - buhidoh.net
   - buicha.social
@@ -5733,6 +5736,7 @@ domain_suffix_set:
   - cciernslabs.com
   - cciesecuritylabs.com
   - ccievoicelabs.com
+  - ccleaner.com
   - cclife.org
   - cclifefl.org
   - ccna5.net
@@ -6136,6 +6140,7 @@ domain_suffix_set:
   - cityoflove.com
   - citypopulation.de
   - citytourgirls.com
+  - cityu.hk
   - civicparty.hk
   - civil3d.com
   - civilcc.com
@@ -6680,6 +6685,7 @@ domain_suffix_set:
   - cuckwimp.com
   - cuebic.biz
   - cuffiesaldi.com
+  - cuhk.hk
   - cuinc.oen.tw
   - cuinc.tw
   - cuiweiping.net
@@ -8244,9 +8250,11 @@ domain_suffix_set:
   - editorx.com
   - edninfo.com
   - edu-research.org
+  - edu.hk
   - edu.ir
   - edubridge.com
   - education-cadcam.com
+  - eduhk.hk
   - eduplus.hk
   - edx-cdn.org
   - edx.org
@@ -9317,6 +9325,7 @@ domain_suffix_set:
   - fileflyer.com
   - filesmonster.vip
   - filesor.com
+  - filezilla-project.org
   - filipino-music.net
   - filme2.xxx
   - filmeleporno.xxx
@@ -10448,6 +10457,7 @@ domain_suffix_set:
   - git.io
   - gitbook.com
   - gitbook.io
+  - gitgud.io
   - github.ai
   - github.blog
   - github.com
@@ -11648,6 +11658,7 @@ domain_suffix_set:
   - hitxhot.com
   - hive.blog
   - hiveon.net
+  - hivepress.io
   - hjb246.top
   - hjb7e9.top
   - hk-pub.com
@@ -11660,6 +11671,7 @@ domain_suffix_set:
   - hkbn.net
   - hkbnes.net
   - hkbookcity.com
+  - hkbu.hk
   - hkchronicles.com
   - hkcircleapp.com
   - hkcitizenmedia.com
@@ -11694,6 +11706,8 @@ domain_suffix_set:
   - hkteducation.com
   - hktpremier.com
   - hktshop.com
+  - hku.hk
+  - hkust.hk
   - hlbelygl.com
   - hlsp1.pw
   - hm.com
@@ -13756,7 +13770,6 @@ domain_suffix_set:
   - jmcomic1.rocks
   - jmcomic2.moe
   - jmlr.org
-  - jmsc.hku.hk
   - jmscult.com
   - jmvbt.com
   - jneurosci.org
@@ -14273,6 +14286,7 @@ domain_suffix_set:
   - landofhope.tv
   - langchain.com
   - langsuirs.com
+  - languagetool.org
   - lanik.us
   - lanmdh.net
   - lanniser-ylo.shop
@@ -14433,7 +14447,6 @@ domain_suffix_set:
   - liboggirls.net
   - library-access.sk
   - library.lol
-  - library.usc.cuhk.edu.hk
   - librarylovefest.com
   - libraryofthumbs.com
   - libredd.it
@@ -15924,7 +15937,6 @@ domain_suffix_set:
   - mji.rip
   - mjj.rip
   - mjj.today
-  - mjlsh.usc.cuhk.edu.hk
   - mjv-art.org
   - mk.shrimpia.network
   - mk.yopo.work
@@ -16159,6 +16171,7 @@ domain_suffix_set:
   - motionpictureser.com
   - moto.com
   - motolia.com
+  - motopress.com
   - motorola.ca
   - motorola.cl
   - motorola.co
@@ -16310,6 +16323,7 @@ domain_suffix_set:
   - msudalosti.com
   - msunlimitedcloudsummit.com
   - mswe1.org
+  - msys2.org
   - mt.lv
   - mt0011.site
   - mtao.fun
@@ -17523,6 +17537,7 @@ domain_suffix_set:
   - o3t.ru
   - o3team.ru
   - oaistatic.com
+  - oaistatsig.com
   - oaiusercontent.com
   - oanda.com
   - oanencore.com
@@ -18711,6 +18726,7 @@ domain_suffix_set:
   - polymer-project.org
   - polymerhk.com
   - polymerproject.org
+  - polyu.hk
   - ponyanimalsex.com
   - poofetish.com
   - pool.ntp.org
@@ -19416,6 +19432,7 @@ domain_suffix_set:
   - qmttqg3k.me
   - qnap.com
   - qobuz.com
+  - qoder.com
   - qombol.com
   - qoo-app.com
   - qoo10.jp
@@ -25042,6 +25059,7 @@ domain_suffix_set:
   - wp.com
   - wpewebkit.org
   - wplace.live
+  - wpmailsmtp.com
   - wpoforum.com
   - wpvip.com
   - wrenchead.com
@@ -25375,9 +25393,15 @@ domain_suffix_set:
   - xn--d4ty0ojsqzfd.com
   - xn--e1adjldbbpv.xn--90ais
   - xn--e1aigb.xn--p1ai
+  - xn--fiqs8s1bxp3anr7a.hk
+  - xn--fiqs8s1bxp3anr7a.xn--j6w193g
+  - xn--fiqs8s1byzqyvl.hk
+  - xn--fiqs8s1byzqyvl.xn--j6w193g
   - xn--fiqs8sxootzz.xn--hxt814e
   - xn--flw351e
   - xn--flw351e.com
+  - xn--gdt08a.hk
+  - xn--gdt08a.xn--j6w193g
   - xn--ggle-55da.com
   - xn--gmq348bujlxrb.com
   - xn--gmq92kd2rm1kx34a.com
@@ -25397,11 +25421,23 @@ domain_suffix_set:
   - xn--kput3imi374g.xn--hxt814e
   - xn--mts47c3w9b1qr.net
   - xn--mtswd61ejxq.com
+  - xn--mxtq18a.hk
+  - xn--mxtq18a.xn--j6w193g
   - xn--ngstr-lra8j.com
   - xn--noss43i.com
   - xn--oiq.cc
   - xn--p8j9a0d9c9a.xn--q9jyb4c
   - xn--pearsonenespaol-brb.com
+  - xn--pssu7ci2j23mp9ny48b.hk
+  - xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+  - xn--pssu7cv61af1tcs59bnvd.hk
+  - xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+  - xn--pssu7cv61af44b.hk
+  - xn--pssu7cv61af44b.xn--j6w193g
+  - xn--pssu7cv61ahw8aq79bztd.hk
+  - xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+  - xn--pssu7cv61ahwcb1p2yk.hk
+  - xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
   - xn--q41am8x.com
   - xn--qcka1pmc
   - xn--qoq462m.com
@@ -25414,7 +25450,13 @@ domain_suffix_set:
   - xn--u2u927b.com
   - xn--ubt498knmf.com
   - xn--uis17aj9kmuf.com
+  - xn--uis44a.xn--j6w193g
   - xn--urs05q.jp
+  - xn--wcv22d.hk
+  - xn--wcv22d.xn--j6w193g
+  - xn--wcvs22d.xn--j6w193g
+  - xn--wcvs22d1m.hk
+  - xn--wcvs22d1m.xn--j6w193g
   - xn--x-qeu1ji09tzlg.biz
   - xn--x-qeu1ji09tzlg.net
   - xn--xsq421m.com
