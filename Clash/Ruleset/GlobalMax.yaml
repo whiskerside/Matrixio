@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:34765
+# 规则统计:34766
 
 payload:
   - DOMAIN,1password.drift.click
@@ -29188,6 +29188,7 @@ payload:
   - DOMAIN-SUFFIX,crbug.com
   - DOMAIN-SUFFIX,crchina.org
   - DOMAIN-SUFFIX,crd-net.org
+  - DOMAIN-SUFFIX,creader.com
   - DOMAIN-SUFFIX,creaders.net
   - DOMAIN-SUFFIX,creadersnet.com
   - DOMAIN-SUFFIX,creativelab5.com
