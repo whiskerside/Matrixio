@@ -1,3 +1,12 @@
-429: Too Many Requests,AMAP
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+# 规则名称:AMAP 高德地图
+# 规则统计:9
 
+HOST-SUFFIX,anav.com,AMAP
+HOST-SUFFIX,amap.com,AMAP
+HOST-SUFFIX,amapauto.com,AMAP
+HOST-SUFFIX,gaode.com,AMAP
+HOST-SUFFIX,a-map.cn,AMAP
+HOST-SUFFIX,a-map.link,AMAP
+HOST-SUFFIX,a-map.co,AMAP
+HOST-SUFFIX,autonavi.com,AMAP
+HOST-SUFFIX,a-map.vip,AMAP

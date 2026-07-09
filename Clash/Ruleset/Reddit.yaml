@@ -1,3 +1,7 @@
-  - 429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+# 规则名称:Reddit
+# 规则统计:3
 
+payload:
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,reddit.com
