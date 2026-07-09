@@ -1,11 +1,3 @@
-# 规则名称:BiliBiliIntl 哔哩哔哩国际版
-# 规则统计:6
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
-domain_set:
-  - apm-misaka.biliapi.net
-  - p.bstarstatic.com
-  - p-bstarstatic.akamaized.net
-  - upos-bstar-mirrorakam.akamaized.net
-  - upos-bstar1-mirrorakam.akamaized.net
-domain_suffix_set:
-  - biliintl.com

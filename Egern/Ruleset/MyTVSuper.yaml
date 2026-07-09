@@ -1,12 +1,3 @@
-# 规则名称:MyTVSuper
-# 规则统计:6
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
-domain_set:
-  - mytvsuperlimited.hb.omtrdc.net
-  - mytvsuperlimited.sc.omtrdc.net
-domain_suffix_set:
-  - mytvsuper.com
-  - tvb.com
-domain_keyword_set:
-  - nowtv100
-  - rthklive
