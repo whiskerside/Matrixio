@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:26953
+# 规则统计:26995
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -167,6 +167,7 @@ HOST,developers.facebook.com,PROXY
 HOST,dfp6rglgjqszk.cloudfront.net,PROXY
 HOST,dgeft87wbj63p.cloudfront.net,PROXY
 HOST,discord-attachments-uploads-prd.storage.googleapis.com,PROXY
+HOST,disneyplus.com.ssl.sc.omtrdc.net,PROXY
 HOST,dl.begellhouse.com,PROXY
 HOST,dlgarenanow-a.akamaihd.net,PROXY
 HOST,dlmobilegarena-a.akamaihd.net,PROXY
@@ -277,9 +278,11 @@ HOST,lmlicenses.wip4.adobe.com,PROXY
 HOST,location.microsoft.com,PROXY
 HOST,lolstatic-a.akamaihd.net,PROXY
 HOST,m1.ppy.sh,PROXY
+HOST,matsuridayo.github.io,PROXY
 HOST,mdn.mozillademos.org,PROXY
 HOST,media-rockstargames-com.akamaized.net,PROXY
 HOST,medone-education.thieme.com,PROXY
+HOST,metacubex.github.io,PROXY
 HOST,misa-prod.s3.ap-northeast-1.amazonaws.com,PROXY
 HOST,mobilelive-hamivideo.cdn.hinet.net,PROXY
 HOST,mozilla-ohttp.fastly-edge.com,PROXY
@@ -293,8 +296,6 @@ HOST,mtalk4.google.com,PROXY
 HOST,muse.jhu.edu,PROXY
 HOST,mwf-service.akamaized.net,PROXY
 HOST,na1r.services.adobe.com,PROXY
-HOST,nab.demdex.net,PROXY
-HOST,nationalaustraliaban.tt.omtrdc.net,PROXY
 HOST,nbbb1bb7.pmhcjk.com,PROXY
 HOST,netflix.com.edgesuite.net,PROXY
 HOST,notary-submissions-prod.s3-accelerate.amazonaws.com,PROXY
@@ -389,6 +390,7 @@ HOST,push-apple.com.akadns.net,PROXY
 HOST,pvr-hamivideo.cdn.hinet.net,PROXY
 HOST,q676790b.pmhcjk.com,PROXY
 HOST,qualcomm.sc.omtrdc.net,PROXY
+HOST,rabbit-hole-1.gitbook.io,PROXY
 HOST,rink.hockeyapp.net,PROXY
 HOST,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com,PROXY
 HOST,roblox-poc.global.ssl.fastly.net,PROXY
@@ -532,6 +534,7 @@ HOST,t.ssp.hinet.net,PROXY
 HOST,t21.nikkei.co.jp,PROXY
 HOST,t21ipau.nikkei.co.jp,PROXY
 HOST,teamviewer.com.cdn.cloudflare.net,PROXY
+HOST,throneproj.github.io,PROXY
 HOST,thumbnail-hamivideo.cdn.hinet.net,PROXY
 HOST,time-a-b.nist.gov,PROXY
 HOST,time-a-g.nist.gov,PROXY
@@ -953,6 +956,7 @@ HOST-SUFFIX,2025copy.com,PROXY
 HOST-SUFFIX,2047.name,PROXY
 HOST-SUFFIX,2047.one,PROXY
 HOST-SUFFIX,2049bbs.xyz,PROXY
+HOST-SUFFIX,20thcenturystudios.com,PROXY
 HOST-SUFFIX,20thcenturystudios.com.au,PROXY
 HOST-SUFFIX,20thcenturystudios.com.br,PROXY
 HOST-SUFFIX,20thcenturystudios.jp,PROXY
@@ -982,10 +986,14 @@ HOST-SUFFIX,2beeg.me,PROXY
 HOST-SUFFIX,2bit8.com,PROXY
 HOST-SUFFIX,2buybeatsbydre.com,PROXY
 HOST-SUFFIX,2ch.hk,PROXY
+HOST-SUFFIX,2ch.life,PROXY
 HOST-SUFFIX,2ch.net,PROXY
+HOST-SUFFIX,2ch.org,PROXY
+HOST-SUFFIX,2ch.su,PROXY
 HOST-SUFFIX,2chav.com,PROXY
 HOST-SUFFIX,2dgen.com,PROXY
 HOST-SUFFIX,2drdrebeats.com,PROXY
+HOST-SUFFIX,2dust.link,PROXY
 HOST-SUFFIX,2gayboys.com,PROXY
 HOST-SUFFIX,2gis.ae,PROXY
 HOST-SUFFIX,2gis.am,PROXY
@@ -1374,6 +1382,7 @@ HOST-SUFFIX,abc.net.au,PROXY
 HOST-SUFFIX,abc.xyz,PROXY
 HOST-SUFFIX,abcheadphones.com,PROXY
 HOST-SUFFIX,abclider.com,PROXY
+HOST-SUFFIX,abcnews.com,PROXY
 HOST-SUFFIX,abeatsbydrdre.com,PROXY
 HOST-SUFFIX,abebooks.co.uk,PROXY
 HOST-SUFFIX,abebooks.com,PROXY
@@ -2380,6 +2389,7 @@ HOST-SUFFIX,amlg.io,PROXY
 HOST-SUFFIX,amnesty.org,PROXY
 HOST-SUFFIX,amnesty.org.hk,PROXY
 HOST-SUFFIX,amnestyusa.org,PROXY
+HOST-SUFFIX,amnezia.org,PROXY
 HOST-SUFFIX,amodoll.com,PROXY
 HOST-SUFFIX,amourangels.com,PROXY
 HOST-SUFFIX,amp.dev,PROXY
@@ -3629,6 +3639,7 @@ HOST-SUFFIX,baltimorebmw.com,PROXY
 HOST-SUFFIX,baltnews.com,PROXY
 HOST-SUFFIX,baltnews.lt,PROXY
 HOST-SUFFIX,bamgrid.com,PROXY
+HOST-SUFFIX,bamtech.net,PROXY
 HOST-SUFFIX,bamtoki.com,PROXY
 HOST-SUFFIX,banan.tv,PROXY
 HOST-SUFFIX,banana-vpn.com,PROXY
@@ -5485,7 +5496,6 @@ HOST-SUFFIX,byrut.org,PROXY
 HOST-SUFFIX,byspotify.com,PROXY
 HOST-SUFFIX,bystys.tech,PROXY
 HOST-SUFFIX,bytedapm.com,PROXY
-HOST-SUFFIX,byteoversea.com,PROXY
 HOST-SUFFIX,bytick.com,PROXY
 HOST-SUFFIX,c-est-simple.com,PROXY
 HOST-SUFFIX,c-ij.com,PROXY
@@ -6247,10 +6257,13 @@ HOST-SUFFIX,clannad-movie.jp,PROXY
 HOST-SUFFIX,claravenger.com,PROXY
 HOST-SUFFIX,clarivate.com,PROXY
 HOST-SUFFIX,clash.com,PROXY
+HOST-SUFFIX,clashmi.app,PROXY
 HOST-SUFFIX,clashmini.com,PROXY
 HOST-SUFFIX,clashofclans.com,PROXY
+HOST-SUFFIX,clashparty.org,PROXY
 HOST-SUFFIX,clashroyale.com,PROXY
 HOST-SUFFIX,clashroyaleapp.com,PROXY
+HOST-SUFFIX,clashverge.dev,PROXY
 HOST-SUFFIX,clashyun.com,PROXY
 HOST-SUFFIX,clasporno.org,PROXY
 HOST-SUFFIX,classicalguitarblog.net,PROXY
@@ -6313,9 +6326,11 @@ HOST-SUFFIX,cloudflare-gateway.com,PROXY
 HOST-SUFFIX,cloudflare-ipfs.com,PROXY
 HOST-SUFFIX,cloudflare-quic.com,PROXY
 HOST-SUFFIX,cloudflare-terms-of-service-abuse.com,PROXY
+HOST-SUFFIX,cloudflare.app,PROXY
 HOST-SUFFIX,cloudflare.com,PROXY
 HOST-SUFFIX,cloudflare.dev,PROXY
 HOST-SUFFIX,cloudflare.net,PROXY
+HOST-SUFFIX,cloudflare.pay,PROXY
 HOST-SUFFIX,cloudflare.tv,PROXY
 HOST-SUFFIX,cloudflareaccess.com,PROXY
 HOST-SUFFIX,cloudflareapps.com,PROXY
@@ -7236,7 +7251,6 @@ HOST-SUFFIX,deltacredit.ru,PROXY
 HOST-SUFFIX,deluxe.com.hk,PROXY
 HOST-SUFFIX,delvenetworks.com,PROXY
 HOST-SUFFIX,demandware.com,PROXY
-HOST-SUFFIX,demdex.net,PROXY
 HOST-SUFFIX,demo.unlock-music.dev,PROXY
 HOST-SUFFIX,democracy.earth,PROXY
 HOST-SUFFIX,demonoid.is,PROXY
@@ -7287,6 +7301,7 @@ HOST-SUFFIX,destinationbim.com,PROXY
 HOST-SUFFIX,detaliczny.com,PROXY
 HOST-SUFFIX,detentiongirls.com,PROXY
 HOST-SUFFIX,detodosparatodos.org,PROXY
+HOST-SUFFIX,detpress.com,PROXY
 HOST-SUFFIX,dettol-prize.com,PROXY
 HOST-SUFFIX,dettol.at,PROXY
 HOST-SUFFIX,dettol.be,PROXY
@@ -7561,7 +7576,9 @@ HOST-SUFFIX,disney.ro,PROXY
 HOST-SUFFIX,disney.ru,PROXY
 HOST-SUFFIX,disney.se,PROXY
 HOST-SUFFIX,disney.sg,PROXY
+HOST-SUFFIX,disneyaccount.com,PROXY
 HOST-SUFFIX,disneyadsales.com,PROXY
+HOST-SUFFIX,disneyanimation.com,PROXY
 HOST-SUFFIX,disneyarena.com,PROXY
 HOST-SUFFIX,disneyaulani.com,PROXY
 HOST-SUFFIX,disneybaby.com,PROXY
@@ -7577,6 +7594,7 @@ HOST-SUFFIX,disneyinternational.com,PROXY
 HOST-SUFFIX,disneyinternationalhd.com,PROXY
 HOST-SUFFIX,disneyjunior.com,PROXY
 HOST-SUFFIX,disneyjuniortreataday.com,PROXY
+HOST-SUFFIX,disneylandparis.com,PROXY
 HOST-SUFFIX,disneylatino.com,PROXY
 HOST-SUFFIX,disneymagicmoments.co.il,PROXY
 HOST-SUFFIX,disneymagicmoments.co.uk,PROXY
@@ -7598,11 +7616,13 @@ HOST-SUFFIX,disneynow.com,PROXY
 HOST-SUFFIX,disneypeoplesurveys.com,PROXY
 HOST-SUFFIX,disneyplus.bn5x.net,PROXY
 HOST-SUFFIX,disneyplus.com,PROXY
+HOST-SUFFIX,disneyprivacycenter.com,PROXY
 HOST-SUFFIX,disneyredirects.com,PROXY
 HOST-SUFFIX,disneysrivieraresort.com,PROXY
 HOST-SUFFIX,disneystore.com,PROXY
 HOST-SUFFIX,disneystreaming.com,PROXY
 HOST-SUFFIX,disneysubscription.com,PROXY
+HOST-SUFFIX,disneytermsofuse.com,PROXY
 HOST-SUFFIX,disneytickets.co.uk,PROXY
 HOST-SUFFIX,disneyturkiye.com.tr,PROXY
 HOST-SUFFIX,disneytvajobs.com,PROXY
@@ -9600,6 +9620,7 @@ HOST-SUFFIX,flathub.org,PROXY
 HOST-SUFFIX,flatmates.com.au,PROXY
 HOST-SUFFIX,flatpak.org,PROXY
 HOST-SUFFIX,flatt.tech,PROXY
+HOST-SUFFIX,flclashx.app,PROXY
 HOST-SUFFIX,fldz8.buzz,PROXY
 HOST-SUFFIX,flecheinthepeche.fr,PROXY
 HOST-SUFFIX,fleshbot.com,PROXY
@@ -9636,6 +9657,7 @@ HOST-SUFFIX,flowfront.net,PROXY
 HOST-SUFFIX,flowgpt.com,PROXY
 HOST-SUFFIX,flowhongkong.net,PROXY
 HOST-SUFFIX,flowtype.org,PROXY
+HOST-SUFFIX,flowvy.io,PROXY
 HOST-SUFFIX,flowwow-images.com,PROXY
 HOST-SUFFIX,flowwow.com,PROXY
 HOST-SUFFIX,fluffychat.im,PROXY
@@ -9970,6 +9992,7 @@ HOST-SUFFIX,freefacebook.net,PROXY
 HOST-SUFFIX,freefacebookads.net,PROXY
 HOST-SUFFIX,freefblikes.com,PROXY
 HOST-SUFFIX,freefbx.com,PROXY
+HOST-SUFFIX,freeform.com,PROXY
 HOST-SUFFIX,freegao.com,PROXY
 HOST-SUFFIX,freegaypornhdtube.com,PROXY
 HOST-SUFFIX,freegaysexgames.com,PROXY
@@ -11963,6 +11986,7 @@ HOST-SUFFIX,honawalaan.com,PROXY
 HOST-SUFFIX,honestpornreviews.com,PROXY
 HOST-SUFFIX,hongjie10.xyz,PROXY
 HOST-SUFFIX,hongjie11.xyz,PROXY
+HOST-SUFFIX,hongkongdisneyland.com,PROXY
 HOST-SUFFIX,hongkongdoll.tv,PROXY
 HOST-SUFFIX,hongkongdollvideo.org,PROXY
 HOST-SUFFIX,hongkongfp.com,PROXY
@@ -12919,6 +12943,7 @@ HOST-SUFFIX,incloak.com,PROXY
 HOST-SUFFIX,inclusivegrowthscore.com,PROXY
 HOST-SUFFIX,incommon-rsa.org,PROXY
 HOST-SUFFIX,incredibox.fr,PROXY
+HOST-SUFFIX,incy.cc,PROXY
 HOST-SUFFIX,ind.sh,PROXY
 HOST-SUFFIX,indazn.com,PROXY
 HOST-SUFFIX,indaznlab.com,PROXY
@@ -14149,6 +14174,7 @@ HOST-SUFFIX,kards.com,PROXY
 HOST-SUFFIX,karechat.ai,PROXY
 HOST-SUFFIX,karger.com,PROXY
 HOST-SUFFIX,karinahart.com,PROXY
+HOST-SUFFIX,karing.app,PROXY
 HOST-SUFFIX,karlajames.com,PROXY
 HOST-SUFFIX,karmahelp.ru,PROXY
 HOST-SUFFIX,karta-banka-rf.ru,PROXY
@@ -14956,6 +14982,7 @@ HOST-SUFFIX,luanlunmv.cc,PROXY
 HOST-SUFFIX,lubetube.com,PROXY
 HOST-SUFFIX,lucahmelayu.club,PROXY
 HOST-SUFFIX,lucasentertainment.com,PROXY
+HOST-SUFFIX,lucasfilm.com,PROXY
 HOST-SUFFIX,luckydesigner.space,PROXY
 HOST-SUFFIX,luckyissue.com,PROXY
 HOST-SUFFIX,luckymobile.ca,PROXY
@@ -16935,6 +16962,7 @@ HOST-SUFFIX,nbtvpn.com,PROXY
 HOST-SUFFIX,nbys.tv,PROXY
 HOST-SUFFIX,nbys1.tv,PROXY
 HOST-SUFFIX,nbyy.tv,PROXY
+HOST-SUFFIX,ncbi.nlm.nih.gov,PROXY
 HOST-SUFFIX,nchrd.org,PROXY
 HOST-SUFFIX,ncl.edu.tw,PROXY
 HOST-SUFFIX,ncloud.com,PROXY
@@ -16964,6 +16992,7 @@ HOST-SUFFIX,negoziomonsterbeats.com,PROXY
 HOST-SUFFIX,neicad.com,PROXY
 HOST-SUFFIX,neiexplicit.com,PROXY
 HOST-SUFFIX,neifea.com,PROXY
+HOST-SUFFIX,neigbuy.com,PROXY
 HOST-SUFFIX,neimotion.com,PROXY
 HOST-SUFFIX,neinastranincad.com,PROXY
 HOST-SUFFIX,neisoftware.com,PROXY
@@ -17548,6 +17577,7 @@ HOST-SUFFIX,nsfw.xxx,PROXY
 HOST-SUFFIX,nsfw247.to,PROXY
 HOST-SUFFIX,nsfwmemes.com,PROXY
 HOST-SUFFIX,nsimg.net,PROXY
+HOST-SUFFIX,nsloon.com,PROXY
 HOST-SUFFIX,nspk.ru,PROXY
 HOST-SUFFIX,ntc.party,PROXY
 HOST-SUFFIX,ntd.com,PROXY
@@ -17977,6 +18007,7 @@ HOST-SUFFIX,oneteamconference.com,PROXY
 HOST-SUFFIX,onetrust.com,PROXY
 HOST-SUFFIX,onevps.com,PROXY
 HOST-SUFFIX,oneworldmanystories.com,PROXY
+HOST-SUFFIX,onexray.com,PROXY
 HOST-SUFFIX,onfinality.io,PROXY
 HOST-SUFFIX,onindiansex.com,PROXY
 HOST-SUFFIX,oninstagram.com,PROXY
@@ -18814,6 +18845,7 @@ HOST-SUFFIX,pivotalinitiative.com,PROXY
 HOST-SUFFIX,piwheels.org,PROXY
 HOST-SUFFIX,pixanalytics.com,PROXY
 HOST-SUFFIX,pixapp.net,PROXY
+HOST-SUFFIX,pixar.com,PROXY
 HOST-SUFFIX,pixate.com,PROXY
 HOST-SUFFIX,pixeldrain.com,PROXY
 HOST-SUFFIX,pixelqi.com,PROXY
@@ -19494,6 +19526,7 @@ HOST-SUFFIX,privatevpn.com,PROXY
 HOST-SUFFIX,privilege.hk,PROXY
 HOST-SUFFIX,privilege.tw,PROXY
 HOST-SUFFIX,privoxy.org,PROXY
+HOST-SUFFIX,prizrak.app,PROXY
 HOST-SUFFIX,procopytips.com,PROXY
 HOST-SUFFIX,proctoscopeexam.com,PROXY
 HOST-SUFFIX,prod-my.games,PROXY
@@ -20732,6 +20765,7 @@ HOST-SUFFIX,seaporn.org,PROXY
 HOST-SUFFIX,search.aol.com,PROXY
 HOST-SUFFIX,search.com,PROXY
 HOST-SUFFIX,search.xxx,PROXY
+HOST-SUFFIX,searchlightpictures.com,PROXY
 HOST-SUFFIX,searx.me,PROXY
 HOST-SUFFIX,seasidestory.tokyo,PROXY
 HOST-SUFFIX,seattlefdc.com,PROXY
@@ -21051,6 +21085,7 @@ HOST-SUFFIX,sh83.xyz,PROXY
 HOST-SUFFIX,shadbase.com,PROXY
 HOST-SUFFIX,shadeyouvpn.com,PROXY
 HOST-SUFFIX,shadowcomplex.com,PROXY
+HOST-SUFFIX,shadowlaunch.com,PROXY
 HOST-SUFFIX,shadowslaves.com,PROXY
 HOST-SUFFIX,shadowsocks.be,PROXY
 HOST-SUFFIX,shadowsocks.com,PROXY
@@ -21978,6 +22013,8 @@ HOST-SUFFIX,starwarsgalacticstarcruiser.com,PROXY
 HOST-SUFFIX,starwarsjedifallenorder.com,PROXY
 HOST-SUFFIX,starwarskids.com,PROXY
 HOST-SUFFIX,starwarstheoldrepublic.com,PROXY
+HOST-SUFFIX,stash.wiki,PROXY
+HOST-SUFFIX,stash.ws,PROXY
 HOST-SUFFIX,stateofthemap.com,PROXY
 HOST-SUFFIX,stateofthemap.org,PROXY
 HOST-SUFFIX,static-cisco.com,PROXY
@@ -22809,6 +22846,7 @@ HOST-SUFFIX,thetype.com,PROXY
 HOST-SUFFIX,theuab.net,PROXY
 HOST-SUFFIX,theverge.com,PROXY
 HOST-SUFFIX,thevirtualsexreview.com,PROXY
+HOST-SUFFIX,thewaltdisneycompany.com,PROXY
 HOST-SUFFIX,theweek.com,PROXY
 HOST-SUFFIX,theweek.in,PROXY
 HOST-SUFFIX,thewgo.org,PROXY
@@ -23067,6 +23105,7 @@ HOST-SUFFIX,tokyo-porn-tube.com,PROXY
 HOST-SUFFIX,tokyo-sports.co.jp,PROXY
 HOST-SUFFIX,tokyo-tosho.net,PROXY
 HOST-SUFFIX,tokyocn.com,PROXY
+HOST-SUFFIX,tokyodisneyresort.jp,PROXY
 HOST-SUFFIX,tokyomotion.com,PROXY
 HOST-SUFFIX,tokyomotion.net,PROXY
 HOST-SUFFIX,tokyonightstyle.com,PROXY
@@ -24841,6 +24880,7 @@ HOST-SUFFIX,walmart-content.com,PROXY
 HOST-SUFFIX,walmart.com,PROXY
 HOST-SUFFIX,walmart.pharmacy,PROXY
 HOST-SUFFIX,walmartimages.com,PROXY
+HOST-SUFFIX,waltdisneystudios.com,PROXY
 HOST-SUFFIX,waltermartin.com,PROXY
 HOST-SUFFIX,waltermartin.org,PROXY
 HOST-SUFFIX,wana-tv.sbs,PROXY
@@ -25067,6 +25107,7 @@ HOST-SUFFIX,wfm.com,PROXY
 HOST-SUFFIX,wforum.com,PROXY
 HOST-SUFFIX,wgcdn.co,PROXY
 HOST-SUFFIX,wgcrowd.io,PROXY
+HOST-SUFFIX,wgtunnel.com,PROXY
 HOST-SUFFIX,whasil.xyz,PROXY
 HOST-SUFFIX,what-fan.net,PROXY
 HOST-SUFFIX,whatblocked.com,PROXY
@@ -25282,6 +25323,7 @@ HOST-SUFFIX,wirelessgroup.co.uk,PROXY
 HOST-SUFFIX,wirelessreach.com,PROXY
 HOST-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com,PROXY
 HOST-SUFFIX,wireshark.org,PROXY
+HOST-SUFFIX,wiresock.net,PROXY
 HOST-SUFFIX,wise-research.com,PROXY
 HOST-SUFFIX,wise.com,PROXY
 HOST-SUFFIX,wisecoin.com,PROXY
