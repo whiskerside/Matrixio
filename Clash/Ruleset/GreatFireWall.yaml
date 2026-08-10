@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4368
+# 规则统计:4372
 
 payload:
   - '+.000webhost.com'
@@ -132,6 +132,7 @@ payload:
   - '+.agro.hk'
   - '+.ai.dev'
   - '+.ai.studio'
+  - '+.aihub.top'
   - '+.aiosearch.com'
   - '+.aiph.net'
   - '+.airconsole.com'
@@ -346,6 +347,7 @@ payload:
   - '+.barnabu.co.uk'
   - '+.bartender.dowjones.com'
   - '+.barton.de'
+  - '+.basemaps.arcgis.com'
   - '+.bastillepost.com'
   - '+.bayvoice.net'
   - '+.bb-chat.tv'
@@ -1148,6 +1150,7 @@ payload:
   - '+.eromangadouzin.com'
   - '+.eromon.net'
   - '+.esg.t91y.com'
+  - '+.esim.redteago.com'
   - '+.eslite.com'
   - '+.esurance.com'
   - '+.etherdelta.com'
@@ -1170,6 +1173,7 @@ payload:
   - '+.expatshield.com'
   - '+.expecthim.com'
   - '+.expekt.com'
+  - '+.experience.arcgis.com'
   - '+.exploader.net'
   - '+.expressnews.com'
   - '+.expressvpn.com'
