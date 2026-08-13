@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:27027
+# 规则统计:27039
 
 payload:
   - '1password.drift.click'
@@ -299,6 +299,7 @@ payload:
   - 'na1r.services.adobe.com'
   - 'nbbb1bb7.pmhcjk.com'
   - 'netflix.com.edgesuite.net'
+  - 'nix-community.github.io'
   - 'notary-submissions-prod.s3-accelerate.amazonaws.com'
   - 'notary-submissions-prod.s3.us-west-2.amazonaws.com'
   - 'notebooklm-pa.googleapis.com'
@@ -5360,6 +5361,7 @@ payload:
   - '+.buicha.social'
   - '+.building3dcontent.com'
   - '+.builtfromebay.com'
+  - '+.builtwithnix.org'
   - '+.bukkake-jav.com'
   - '+.bullguard.com'
   - '+.bullog.org'
@@ -16811,6 +16813,7 @@ payload:
   - '+.mynavi.jp'
   - '+.mynetname.net'
   - '+.mynike.com'
+  - '+.mynixos.com'
   - '+.myoctocat.com'
   - '+.myparagliding.com'
   - '+.mypearson.com'
@@ -17505,7 +17508,15 @@ payload:
   - '+.nivod.tv'
   - '+.nivodi.tv'
   - '+.nivodz.com'
+  - '+.nix-community.org'
+  - '+.nix.dev'
+  - '+.nix.store'
+  - '+.nixcon.org'
+  - '+.nixcon2017.org'
+  - '+.nixlang.com'
   - '+.nixos.org'
+  - '+.nixos.wiki'
+  - '+.nixpkgs.org'
   - '+.niziero.info'
   - '+.njactb.org'
   - '+.njav.tv'
@@ -26376,6 +26387,7 @@ payload:
   - '+.yandex.eu'
   - '+.yandex.fi'
   - '+.yandex.fr'
+  - '+.yandex.it'
   - '+.yandex.jobs'
   - '+.yandex.kg'
   - '+.yandex.kz'
