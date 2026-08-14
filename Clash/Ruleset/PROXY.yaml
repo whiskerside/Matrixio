@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:27039
+# 规则统计:27042
 
 payload:
   - '1password.drift.click'
@@ -20377,6 +20377,7 @@ payload:
   - '+.rsdlmonitor.com'
   - '+.rsf-chinese.org'
   - '+.rsf.org'
+  - '+.rsg.ms'
   - '+.rsg.sc'
   - '+.rshb.ru'
   - '+.rsk.co'
@@ -20703,6 +20704,8 @@ payload:
   - '+.sbux.com.my'
   - '+.sbuxcard.com'
   - '+.sc-cdn.net'
+  - '+.sc-gw.com'
+  - '+.sc-static.net'
   - '+.sc.com'
   - '+.sca-tolo.info'
   - '+.scala-lang.org'
