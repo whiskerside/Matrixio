@@ -1,5 +1,5 @@
 # 规则名称:DIRECT
-# 规则统计:111522
+# 规则统计:111492
 
 HOST,2mdn-cn.net,DIRECT
 HOST,2mdn.net,DIRECT
@@ -16,7 +16,6 @@ HOST,adcdownload.apple.com,DIRECT
 HOST,adcdownload.apple.com.akadns.net,DIRECT
 HOST,admob-cn.com,DIRECT
 HOST,adservice.google.com,DIRECT
-HOST,afcs.dell.com,DIRECT
 HOST,ai.zhaomi.cn,DIRECT
 HOST,alibaba.cdn.steampipe.steamcontent.com,DIRECT
 HOST,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,DIRECT
@@ -102,7 +101,6 @@ HOST,clickserver.googleads.com,DIRECT
 HOST,client-api.itunes.apple.com,DIRECT
 HOST,clientflow.apple.com,DIRECT
 HOST,clientflow.apple.com.akadns.net,DIRECT
-HOST,clientperipherals.dell.com,DIRECT
 HOST,clientservices.googleapis.com,DIRECT
 HOST,cma.itunes.apple.com,DIRECT
 HOST,cn-smp-paymentservices.apple.com,DIRECT
@@ -129,7 +127,6 @@ HOST,cstat.cdn-apple.com,DIRECT
 HOST,ctdsb.clouddiffuse.xyz,DIRECT
 HOST,ctldl.windowsupdate.com,DIRECT
 HOST,cueme-api.quark.cn,DIRECT
-HOST,customization-cdn.dell.com,DIRECT
 HOST,dartsearch-cn.net,DIRECT
 HOST,dc1-cert.ksn.kaspersky-labs.com,DIRECT
 HOST,dc1-file.ksn.kaspersky-labs.com,DIRECT
@@ -137,14 +134,12 @@ HOST,dc1-pp.ksn.kaspersky-labs.com,DIRECT
 HOST,dc1-st.ksn.kaspersky-labs.com,DIRECT
 HOST,dc1.ksn.kaspersky-labs.com,DIRECT
 HOST,dd-cdn.origin-apple.com.akadns.net,DIRECT
-HOST,dds.dell.com,DIRECT
 HOST,dejavu.apple.com,DIRECT
 HOST,developer.microsoft.com,DIRECT
 HOST,devimages-cdn.apple.com,DIRECT
 HOST,devstreaming-cdn.apple.com,DIRECT
 HOST,dg-meta.video.google.com,DIRECT
 HOST,discussionschinese.apple.com,DIRECT
-HOST,dl.dell.com,DIRECT
 HOST,dl.google.com,DIRECT
 HOST,dl.l.google.com,DIRECT
 HOST,dnl-00.geo.kaspersky.com,DIRECT
@@ -177,33 +172,22 @@ HOST,download.visualstudio.microsoft.com,DIRECT
 HOST,downloaddispatch.itunes.apple.com,DIRECT
 HOST,dreamspark.download.prss.microsoft.com,DIRECT
 HOST,dreamsparkuat.download.prss.microsoft.com,DIRECT
-HOST,ea2cn-dev-outlet.dell.com,DIRECT
-HOST,ea2cn-prod-outlet.dell.com,DIRECT
-HOST,ea2cn-staging-outlet.dell.com,DIRECT
 HOST,edge.geo.kaspersky.com,DIRECT
-HOST,emoi-cncdn.bing.com,DIRECT
 HOST,end-api.shallow.ink,DIRECT
 HOST,end.shallow.ink,DIRECT
 HOST,entitlements-edge.itunes.apple.com,DIRECT
 HOST,experiments.apple.com,DIRECT
 HOST,f.c2r.ts.cdn.office.net,DIRECT
-HOST,fcs.dell.com,DIRECT
 HOST,fides-pol.apple.com,DIRECT
 HOST,firebase-settings.crashlytics.com,DIRECT
 HOST,fontfiles.googleapis.com,DIRECT
 HOST,fonts.googleapis.com,DIRECT
 HOST,fonts.gstatic.com,DIRECT
 HOST,fpinit.itunes.apple.com,DIRECT
-HOST,fta.dell.com,DIRECT
-HOST,ftaapj.dell.com,DIRECT
-HOST,ftaemea.dell.com,DIRECT
-HOST,ftasitapj.dell.com,DIRECT
 HOST,g0.gstatic.com,DIRECT
 HOST,g1.gstatic.com,DIRECT
 HOST,g2.gstatic.com,DIRECT
 HOST,g3.gstatic.com,DIRECT
-HOST,gbxgateway-dev.dell.com,DIRECT
-HOST,gbxgateway.dell.com,DIRECT
 HOST,geetest.datasink.sensorsdata.cn,DIRECT
 HOST,gog.qtlglb.com,DIRECT
 HOST,gonglchuangl.net,DIRECT
@@ -257,7 +241,6 @@ HOST,guzzoni.smoot.apple.com,DIRECT
 HOST,hellofontpreview.oss-cn-beijing.aliyuncs.com,DIRECT
 HOST,hellowebfonts.oss-cn-beijing.aliyuncs.com,DIRECT
 HOST,hospital.pku.edu.cn,DIRECT
-HOST,i.dell.com,DIRECT
 HOST,i.pki.goog,DIRECT
 HOST,images-cn-8.ssl-images-amazon.com,DIRECT
 HOST,images-cn.ssl-images-amazon.com,DIRECT
@@ -349,7 +332,6 @@ HOST,musicstatus.music.apple.com,DIRECT
 HOST,mvod.itunes.apple.com,DIRECT
 HOST,myapp.itunes.apple.com,DIRECT
 HOST,myvs.download.prss.microsoft.com,DIRECT
-HOST,nexus.dell.com,DIRECT
 HOST,np-edge.itunes.apple.com,DIRECT
 HOST,ntp.aliyun.com,DIRECT
 HOST,ntp.tencent.com,DIRECT
@@ -380,7 +362,6 @@ HOST,oscdn.origin-apple.com.akadns.net,DIRECT
 HOST,osrelease.download.prss.microsoft.com,DIRECT
 HOST,osxapps.itunes.apple.com,DIRECT
 HOST,osxapps.itunes.g.aaplimg.com,DIRECT
-HOST,p.cdn.persaas.dell.com,DIRECT
 HOST,p00.upd.kaspersky.com,DIRECT
 HOST,p01.upd.kaspersky.com,DIRECT
 HOST,p02.upd.kaspersky.com,DIRECT
@@ -475,7 +456,6 @@ HOST,s4.mzstatic.com,DIRECT
 HOST,s5.mzstatic.com,DIRECT
 HOST,safebrowsing-cache.google.com,DIRECT
 HOST,safebrowsing.googleapis.com,DIRECT
-HOST,scene7-cdn.dell.com,DIRECT
 HOST,sdx.microsoft.com,DIRECT
 HOST,se-edge.itunes.apple.com,DIRECT
 HOST,se2.itunes.apple.com,DIRECT
@@ -489,11 +469,7 @@ HOST,sf-api-token-service.itunes.apple.com,DIRECT
 HOST,sh-pod2-smp-device.apple.com,DIRECT
 HOST,shazam-insights.cdn-apple.com,DIRECT
 HOST,shell.cdn.office.net,DIRECT
-HOST,si.cdn.dell.com,DIRECT
-HOST,sm.dell.com,DIRECT
 HOST,smp-device-content.apple.com,DIRECT
-HOST,snp.cdn.dell.com,DIRECT
-HOST,snpi.dell.com,DIRECT
 HOST,software.download.prss.microsoft.com,DIRECT
 HOST,sp.itunes.apple.com,DIRECT
 HOST,speedysub.music.apple.com,DIRECT
@@ -521,7 +497,6 @@ HOST,study.163.com,DIRECT
 HOST,su.itunes.apple.com,DIRECT
 HOST,support-china.apple-support.akadns.net,DIRECT
 HOST,support.apple.com,DIRECT
-HOST,supportassist.dell.com,DIRECT
 HOST,surface.download.prss.microsoft.com,DIRECT
 HOST,surface.downloads.prss.microsoft.com,DIRECT
 HOST,swallow-apple-com.v.aaplimg.com,DIRECT
@@ -545,14 +520,12 @@ HOST,tj-pod1-smp-device.apple.com,DIRECT
 HOST,tj-pod2-smp-device.apple.com,DIRECT
 HOST,tj-pod3-smp-device.apple.com,DIRECT
 HOST,tools.google.com,DIRECT
-HOST,tp.louisvuitton.com,DIRECT
 HOST,universal-activity-service.itunes.apple.com,DIRECT
 HOST,update.crashlytics.com,DIRECT
 HOST,update.googleapis.com,DIRECT
 HOST,updates-http.cdn-apple.com,DIRECT
 HOST,updates-http.cdn-apple.com.akadns.net,DIRECT
 HOST,updates.cdn-apple.com,DIRECT
-HOST,uplaypc-s-ubisoft.cdn.ubi.com,DIRECT
 HOST,upp.itunes.apple.com,DIRECT
 HOST,valid.apple.com,DIRECT
 HOST,valid.origin-apple.com.akadns.net,DIRECT
@@ -567,13 +540,10 @@ HOST,weather-map.apple.com,DIRECT
 HOST,weather-map2.apple.com,DIRECT
 HOST,weatherkit.apple.com,DIRECT
 HOST,windbg.download.prss.microsoft.com,DIRECT
-HOST,www-csb.dell.com,DIRECT
 HOST,www-google-analytics.l.google.com,DIRECT
 HOST,www-googletagmanager.l.google.com,DIRECT
-HOST,www.amd.com,DIRECT
 HOST,www.apple.com,DIRECT
 HOST,www.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
-HOST,www.dell.com,DIRECT
 HOST,www.destinationurl.com,DIRECT
 HOST,www.entrust.cn,DIRECT
 HOST,www.gstatic.com,DIRECT
