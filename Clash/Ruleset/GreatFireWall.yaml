@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4377
+# 规则统计:4379
 
 payload:
   - '+.000webhost.com'
@@ -566,6 +566,7 @@ payload:
   - '+.breakgfw.com'
   - '+.breakingtweets.com'
   - '+.breakwall.net'
+  - '+.briarproject.org'
   - '+.brill.com'
   - '+.brizzly.com'
   - '+.broadpressinc.com'
@@ -708,6 +709,7 @@ payload:
   - '+.chat.com'
   - '+.chat.lmsys.org'
   - '+.chatgpt.com'
+  - '+.chatgpt.site'
   - '+.chatpdf.com'
   - '+.chaturbate.com'
   - '+.checkgfw.com'
