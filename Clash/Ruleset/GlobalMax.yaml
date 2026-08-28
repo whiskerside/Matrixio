@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:35019
+# 规则统计:35023
 
 payload:
   - DOMAIN,1password.drift.click
@@ -891,6 +891,7 @@ payload:
   - DOMAIN-SUFFIX,adguard.info
   - DOMAIN-SUFFIX,adguard.io
   - DOMAIN-SUFFIX,adguardaccount.com
+  - DOMAIN-SUFFIX,adguardaccount.net
   - DOMAIN-SUFFIX,adguardcdn.com
   - DOMAIN-SUFFIX,adguardvpn.com
   - DOMAIN-SUFFIX,adhelpnews.com
@@ -11394,6 +11395,7 @@ payload:
   - DOMAIN-SUFFIX,h-webtoon.com
   - DOMAIN-SUFFIX,h0930.com
   - DOMAIN-SUFFIX,h18ani1.vip
+  - DOMAIN-SUFFIX,h264.io
   - DOMAIN-SUFFIX,h2o.ai
   - DOMAIN-SUFFIX,h2porn.com
   - DOMAIN-SUFFIX,habr.com
@@ -18957,6 +18959,7 @@ payload:
   - DOMAIN-SUFFIX,oursexgames.com
   - DOMAIN-SUFFIX,ourshdtv.com
   - DOMAIN-SUFFIX,ourshemales.com
+  - DOMAIN-SUFFIX,ouryahoo.com
   - DOMAIN-SUFFIX,oustudios.ac.uk
   - DOMAIN-SUFFIX,out-app-purchase.com
   - DOMAIN-SUFFIX,outbound.io
@@ -27520,6 +27523,7 @@ payload:
   - DOMAIN-SUFFIX,yahoodns.net
   - DOMAIN-SUFFIX,yahoofinance.com
   - DOMAIN-SUFFIX,yahoohealth.com
+  - DOMAIN-SUFFIX,yahooinc.com
   - DOMAIN-SUFFIX,yahoomusic.com
   - DOMAIN-SUFFIX,yahoosportsbook.com
   - DOMAIN-SUFFIX,yaklass.ru
