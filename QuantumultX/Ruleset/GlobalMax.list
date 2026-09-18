@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:35044
+# 规则统计:35047
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -23358,6 +23358,9 @@ HOST-SUFFIX,stripchat.com,GlobalMax
 HOST-SUFFIX,stripe-terminal-local-reader.net,GlobalMax
 HOST-SUFFIX,stripe.ac.uk,GlobalMax
 HOST-SUFFIX,stripe.com,GlobalMax
+HOST-SUFFIX,stripe.dev,GlobalMax
+HOST-SUFFIX,stripe.events,GlobalMax
+HOST-SUFFIX,stripe.global,GlobalMax
 HOST-SUFFIX,stripe.network,GlobalMax
 HOST-SUFFIX,stripecdn.com,GlobalMax
 HOST-SUFFIX,stripparadise.com,GlobalMax
