@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4384
+# 规则统计:4386
 
 payload:
   - '+.000webhost.com'
@@ -758,6 +758,7 @@ payload:
   - '+.chinesegay.org'
   - '+.chinesen.de'
   - '+.chinesenews.net.au'
+  - '+.chineseposters.net'
   - '+.chineseradioseattle.com'
   - '+.chineseupress.com'
   - '+.chingcheong.com'
@@ -2680,6 +2681,7 @@ payload:
   - '+.nordstromrack.com'
   - '+.nordvpn.com'
   - '+.nos.nl'
+  - '+.note.com'
   - '+.notepad-plus-plus.org'
   - '+.nottinghampost.com'
   - '+.now.com'
