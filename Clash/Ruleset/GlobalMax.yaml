@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:35063
+# 规则统计:35066
 
 payload:
   - DOMAIN,1password.drift.click
@@ -5996,6 +5996,7 @@ payload:
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.dev
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
@@ -26168,7 +26169,6 @@ payload:
   - DOMAIN-SUFFIX,walker.ac.uk
   - DOMAIN-SUFFIX,wallberis.ru
   - DOMAIN-SUFFIX,wallet.com
-  - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,walmart-content.com
   - DOMAIN-SUFFIX,walmart.com
   - DOMAIN-SUFFIX,walmart.pharmacy
@@ -26528,7 +26528,6 @@ payload:
   - DOMAIN-SUFFIX,wikifeet.com
   - DOMAIN-SUFFIX,wikihow.com
   - DOMAIN-SUFFIX,wikimediacloud.org
-  - DOMAIN-SUFFIX,wikimediafoundation.org
   - DOMAIN-SUFFIX,wikiporn.tv
   - DOMAIN-SUFFIX,wikisexguide.com
   - DOMAIN-SUFFIX,wilberes.ru
@@ -34367,6 +34366,7 @@ payload:
   - DOMAIN-SUFFIX,waiwaier.com
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletconnect.org
+  - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,wallmama.com
   - DOMAIN-SUFFIX,wallornot.org
   - DOMAIN-SUFFIX,wallpapercasa.com
@@ -34486,6 +34486,7 @@ payload:
   - DOMAIN-SUFFIX,wikia.com
   - DOMAIN-SUFFIX,wikibooks.org
   - DOMAIN-SUFFIX,wikidata.org
+  - DOMAIN-SUFFIX,wikifunctions.org
   - DOMAIN-SUFFIX,wikileaks-forum.com
   - DOMAIN-SUFFIX,wikileaks.ch
   - DOMAIN-SUFFIX,wikileaks.com
@@ -34498,12 +34499,14 @@ payload:
   - DOMAIN-SUFFIX,wikilivres.info
   - DOMAIN-SUFFIX,wikimapia.org
   - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikimediafoundation.org
   - DOMAIN-SUFFIX,wikinews.org
   - DOMAIN-SUFFIX,wikipedia.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikiquote.org
   - DOMAIN-SUFFIX,wikis.tw
   - DOMAIN-SUFFIX,wikisource.org
+  - DOMAIN-SUFFIX,wikispecies.org
   - DOMAIN-SUFFIX,wikiunblocked.org
   - DOMAIN-SUFFIX,wikiversity.org
   - DOMAIN-SUFFIX,wikivoyage.org
