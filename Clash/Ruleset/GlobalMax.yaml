@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:35066
+# 规则统计:35067
 
 payload:
   - DOMAIN,1password.drift.click
@@ -11154,6 +11154,7 @@ payload:
   - DOMAIN-SUFFIX,googlepagecreator.com
   - DOMAIN-SUFFIX,googlephotos.com
   - DOMAIN-SUFFIX,googleplay.com
+  - DOMAIN-SUFFIX,googleplaycensorship.com
   - DOMAIN-SUFFIX,googleplex.com
   - DOMAIN-SUFFIX,googleplus.com
   - DOMAIN-SUFFIX,googlescholar.com
