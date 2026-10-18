@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:35183
+# 规则统计:35189
 
 payload:
   - DOMAIN,1password.drift.click
@@ -4877,6 +4877,7 @@ payload:
   - DOMAIN-SUFFIX,bsappapi.com
   - DOMAIN-SUFFIX,bsaw.ac.uk
   - DOMAIN-SUFFIX,bsbec.ac.uk
+  - DOMAIN-SUFFIX,bscdnweb.com
   - DOMAIN-SUFFIX,bsdc.ac.uk
   - DOMAIN-SUFFIX,bsersd.xyz
   - DOMAIN-SUFFIX,bsfc.ac.uk
@@ -16124,8 +16125,6 @@ payload:
   - DOMAIN-SUFFIX,messybrainz.org
   - DOMAIN-SUFFIX,messytube.com
   - DOMAIN-SUFFIX,met-nude.com
-  - DOMAIN-SUFFIX,meta.ai
-  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metabolomics.ac.uk
   - DOMAIN-SUFFIX,metabora.io
   - DOMAIN-SUFFIX,metabrainz.org
@@ -21736,6 +21735,7 @@ payload:
   - DOMAIN-SUFFIX,sccjr.ac.uk
   - DOMAIN-SUFFIX,scct.ac.uk
   - DOMAIN-SUFFIX,scde.ac.uk
+  - DOMAIN-SUFFIX,scea.com
   - DOMAIN-SUFFIX,scene7.com
   - DOMAIN-SUFFIX,scenesource.me
   - DOMAIN-SUFFIX,scentro.ac.uk
@@ -22822,6 +22822,7 @@ payload:
   - DOMAIN-SUFFIX,sony.com.pa
   - DOMAIN-SUFFIX,sony.com.pe
   - DOMAIN-SUFFIX,sony.com.ph
+  - DOMAIN-SUFFIX,sony.com.py
   - DOMAIN-SUFFIX,sony.com.sg
   - DOMAIN-SUFFIX,sony.com.sv
   - DOMAIN-SUFFIX,sony.com.tr
@@ -22864,8 +22865,10 @@ payload:
   - DOMAIN-SUFFIX,sonydesign.com
   - DOMAIN-SUFFIX,sonydna.com
   - DOMAIN-SUFFIX,sonyglobalsolutions.jp
+  - DOMAIN-SUFFIX,sonyinteractive.com
   - DOMAIN-SUFFIX,sonykigyo.jp
   - DOMAIN-SUFFIX,sonylatvija.com
+  - DOMAIN-SUFFIX,sonymusic.com.hk
   - DOMAIN-SUFFIX,sonynetwork.co.jp
   - DOMAIN-SUFFIX,sonypcl.jp
   - DOMAIN-SUFFIX,sonypictures.com
@@ -28405,6 +28408,7 @@ payload:
   - DOMAIN-SUFFIX,7capture.com
   - DOMAIN-SUFFIX,7cow.com
   - DOMAIN-SUFFIX,7mmtv.tv
+  - DOMAIN-SUFFIX,7x24hrs.com
   - DOMAIN-SUFFIX,8-d.com
   - DOMAIN-SUFFIX,85cc.net
   - DOMAIN-SUFFIX,85cc.us
@@ -31840,7 +31844,9 @@ payload:
   - DOMAIN-SUFFIX,meshrep.com
   - DOMAIN-SUFFIX,mesotw.com
   - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metacafe.com
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,metafilter.com
