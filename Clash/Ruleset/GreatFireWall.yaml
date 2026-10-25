@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4434
+# 规则统计:4443
 
 payload:
   - '+.000webhost.com'
@@ -10,6 +10,7 @@ payload:
   - '+.10musume.com'
   - '+.123av.com'
   - '+.123av.me'
+  - '+.123av.org'
   - '+.12bet.com'
   - '+.12vpn.com'
   - '+.12vpn.net'
@@ -2227,6 +2228,7 @@ payload:
   - '+.kichiku-doujinko.com'
   - '+.kik.com'
   - '+.killwall.com'
+  - '+.kimootoko.net'
   - '+.kindle4rss.com'
   - '+.kindleren.com'
   - '+.kingdomsalvation.org'
@@ -2509,6 +2511,7 @@ payload:
   - '+.minhhue.net'
   - '+.miningpoolhub.com'
   - '+.ministrybooks.org'
+  - '+.minkch.com'
   - '+.minzhuzhongguo.org'
   - '+.miraheze.org'
   - '+.mirdc.org.tw'
@@ -2570,6 +2573,7 @@ payload:
   - '+.mosavi.io'
   - '+.motherless.com'
   - '+.movements.org'
+  - '+.movie.eroterest.net'
   - '+.moviefap.com'
   - '+.mpettis.com'
   - '+.mpfinance.com'
@@ -2703,6 +2707,9 @@ payload:
   - '+.niu.moe'
   - '+.niusnews.com'
   - '+.njactb.org'
+  - '+.njav.com'
+  - '+.njav.tv'
+  - '+.njavtv.com'
   - '+.nlfreevpn.com'
   - '+.nmsl.website'
   - '+.nnews.eu'
@@ -2956,6 +2963,7 @@ payload:
   - '+.plurk.com'
   - '+.plus.codes'
   - '+.pmatehunter.com'
+  - '+.po-kaki-to.com'
   - '+.po2b.com'
   - '+.podbean.com'
   - '+.podcast.co'
@@ -4427,6 +4435,7 @@ payload:
   - '+.zophar.net'
   - '+.zorrovpn.com'
   - '+.zozotown.com'
+  - '+.zozovideo.com'
   - '+.zpn.im'
   - '+.zspeeder.me'
   - '+.zuo.la'
