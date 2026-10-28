@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:35266
+# 规则统计:35277
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -33,6 +33,7 @@ HOST,courier-push-apple.com.akadns.net,GlobalMax
 HOST,crl.versign.net,GlobalMax
 HOST,databank.worldbank.org,GlobalMax
 HOST,datarouter.apps.netherrealm.com,GlobalMax
+HOST,dc.services.visualstudio.com,GlobalMax
 HOST,deutschewelle.h-cdn.com,GlobalMax
 HOST,dl.begellhouse.com,GlobalMax
 HOST,ea.tt.omtrdc.net,GlobalMax
@@ -101,6 +102,7 @@ HOST,rsshub.rssforever.com,GlobalMax
 HOST,rsshub.umzzz.com,GlobalMax
 HOST,rsshub.woodland.cafe,GlobalMax
 HOST,rsshub2.asailor.org,GlobalMax
+HOST,rt.services.visualstudio.com,GlobalMax
 HOST,standchartbank.sc.omtrdc.net,GlobalMax
 HOST,standchartbank.tt.omtrdc.net,GlobalMax
 HOST,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com,GlobalMax
@@ -878,6 +880,7 @@ HOST-SUFFIX,addison-wesley.ch,GlobalMax
 HOST-SUFFIX,addison.ac.uk,GlobalMax
 HOST-SUFFIX,addthiscdn.com,GlobalMax
 HOST-SUFFIX,addtoany.com,GlobalMax
+HOST-SUFFIX,addtodropbox.com,GlobalMax
 HOST-SUFFIX,addyoutube.com,GlobalMax
 HOST-SUFFIX,adelaidenow.com.au,GlobalMax
 HOST-SUFFIX,adeptt.ac.uk,GlobalMax
@@ -6868,6 +6871,7 @@ HOST-SUFFIX,darwinsourcecode.com,GlobalMax
 HOST-SUFFIX,dasaob.online,GlobalMax
 HOST-SUFFIX,dasg.ac.uk,GlobalMax
 HOST-SUFFIX,dash-1.ac.uk,GlobalMax
+HOST-SUFFIX,dash.ai,GlobalMax
 HOST-SUFFIX,dashly.app,GlobalMax
 HOST-SUFFIX,dashly.help,GlobalMax
 HOST-SUFFIX,dashly.io,GlobalMax
@@ -7671,6 +7675,7 @@ HOST-SUFFIX,doclercdn.com,GlobalMax
 HOST-SUFFIX,docs.com,GlobalMax
 HOST-SUFFIX,docs.rs,GlobalMax
 HOST-SUFFIX,docs.rw,GlobalMax
+HOST-SUFFIX,docsend.com,GlobalMax
 HOST-SUFFIX,doctor-videos.com,GlobalMax
 HOST-SUFFIX,documentforce.com,GlobalMax
 HOST-SUFFIX,docusend.ac.uk,GlobalMax
@@ -7854,12 +7859,15 @@ HOST-SUFFIX,dropbox.tech,GlobalMax
 HOST-SUFFIX,dropboxapi.com,GlobalMax
 HOST-SUFFIX,dropboxbusiness.com,GlobalMax
 HOST-SUFFIX,dropboxcaptcha.com,GlobalMax
+HOST-SUFFIX,dropboxexperiment.com,GlobalMax
 HOST-SUFFIX,dropboxforum.com,GlobalMax
 HOST-SUFFIX,dropboxforums.com,GlobalMax
 HOST-SUFFIX,dropboxinsiders.com,GlobalMax
+HOST-SUFFIX,dropboxlegal.com,GlobalMax
 HOST-SUFFIX,dropboxmail.com,GlobalMax
 HOST-SUFFIX,dropboxpartners.com,GlobalMax
 HOST-SUFFIX,dropboxstatic.com,GlobalMax
+HOST-SUFFIX,dropboxteam.com,GlobalMax
 HOST-SUFFIX,dropboxusercontent.com,GlobalMax
 HOST-SUFFIX,drpc.org,GlobalMax
 HOST-SUFFIX,drunk6.com,GlobalMax
@@ -11807,9 +11815,11 @@ HOST-SUFFIX,heinonline.org,GlobalMax
 HOST-SUFFIX,heise360181.buzz,GlobalMax
 HOST-SUFFIX,heise360182.buzz,GlobalMax
 HOST-SUFFIX,helf.ac.uk,GlobalMax
+HOST-SUFFIX,hellofax.com,GlobalMax
 HOST-SUFFIX,hellofuture.ac.uk,GlobalMax
 HOST-SUFFIX,hellokittybeats.com,GlobalMax
 HOST-SUFFIX,hellomoto.com,GlobalMax
+HOST-SUFFIX,hellosign.com,GlobalMax
 HOST-SUFFIX,hellosmartbook.com,GlobalMax
 HOST-SUFFIX,hellporno.com,GlobalMax
 HOST-SUFFIX,hellven.net,GlobalMax
@@ -15058,6 +15068,7 @@ HOST-SUFFIX,liboggirls.net,GlobalMax
 HOST-SUFFIX,library.lol,GlobalMax
 HOST-SUFFIX,librarylovefest.com,GlobalMax
 HOST-SUFFIX,libraryofthumbs.com,GlobalMax
+HOST-SUFFIX,librewolf.dev,GlobalMax
 HOST-SUFFIX,librewolf.net,GlobalMax
 HOST-SUFFIX,libsolutions.app,GlobalMax
 HOST-SUFFIX,libsolutions.domains,GlobalMax
