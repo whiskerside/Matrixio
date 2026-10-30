@@ -1,5 +1,5 @@
 # 规则名称:AdBlock
-# 规则统计:100686
+# 规则统计:100682
 
 HOST-SUFFIX,000491b06a.com,REJECT
 HOST-SUFFIX,000dn.com,REJECT
@@ -24108,7 +24108,6 @@ HOST-SUFFIX,datadoghq-browser-agent.com,REJECT
 HOST-SUFFIX,iam-rum-intake.datadoghq.com,REJECT
 HOST-SUFFIX,logs.datadoghq.com,REJECT
 HOST-SUFFIX,datadoghq.eu,REJECT
-HOST-SUFFIX,datadome.co,REJECT
 HOST-SUFFIX,adsmartget.datads.cn,REJECT
 HOST-SUFFIX,datadsk.com,REJECT
 HOST-SUFFIX,datafa.st,REJECT
@@ -30022,7 +30021,7 @@ HOST-SUFFIX,communications.enrouteglobalexchange.com,REJECT
 HOST-SUFFIX,enrtx.com,REJECT
 HOST-SUFFIX,ensealplaners.com,REJECT
 HOST-SUFFIX,enseq50a.xyz,REJECT
-HOST-SUFFIX,ensighten.com,REJECT
+HOST-SUFFIX,nexus.ensighten.com,REJECT
 HOST-SUFFIX,ensmwonhtzpdh.space,REJECT
 HOST-SUFFIX,ensosignal.com,REJECT
 HOST-SUFFIX,metrics.enspryng-hcp.com,REJECT
@@ -36085,7 +36084,6 @@ HOST-SUFFIX,smetrics.gemfinance.co.nz,REJECT
 HOST-SUFFIX,xwpzlz.gemimarket.it,REJECT
 HOST-SUFFIX,geminisailingzillion.com,REJECT
 HOST-SUFFIX,cmp.gemius.com,REJECT
-HOST-SUFFIX,gemius.pl,REJECT
 HOST-SUFFIX,gemlithium.com,REJECT
 HOST-SUFFIX,ovrsso.gemo.fr,REJECT
 HOST-SUFFIX,gemorganic.com,REJECT
@@ -52113,7 +52111,6 @@ HOST-SUFFIX,literallyflickercomplaints.com,REJECT
 HOST-SUFFIX,scdn.literatur-couch.de,REJECT
 HOST-SUFFIX,stats.literaturkreis.online,REJECT
 HOST-SUFFIX,ini.litingxin.cn,REJECT
-HOST-SUFFIX,litix.io,REJECT
 HOST-SUFFIX,link.litnet.com,REJECT
 HOST-SUFFIX,litpzshqdkjvn.online,REJECT
 HOST-SUFFIX,litrujsxxymfn.website,REJECT
@@ -63058,7 +63055,6 @@ HOST-SUFFIX,videos.oms.eu,REJECT
 HOST-SUFFIX,omshedinjaor.com,REJECT
 HOST-SUFFIX,d.omsnative.de,REJECT
 HOST-SUFFIX,omswwmgtqwekb.space,REJECT
-HOST-SUFFIX,omtrdc.net,REJECT
 HOST-SUFFIX,omwvapmytccsc.online,REJECT
 HOST-SUFFIX,omwvtaafvqa.in,REJECT
 HOST-SUFFIX,omxpiremgszzv.space,REJECT
@@ -66835,7 +66831,6 @@ HOST-SUFFIX,placidactivity.com,REJECT
 HOST-SUFFIX,placidityelite.com,REJECT
 HOST-SUFFIX,placiditylever.com,REJECT
 HOST-SUFFIX,placidperson.com,REJECT
-HOST-SUFFIX,pladform.ru,REJECT
 HOST-SUFFIX,hsvrww.plain-me.com,REJECT
 HOST-SUFFIX,plain-plane.com,REJECT
 HOST-SUFFIX,plaincapsize.com,REJECT
@@ -76039,7 +76034,8 @@ HOST-SUFFIX,sefsdvc.com,REJECT
 HOST-SUFFIX,a8clk.segatoys.com,REJECT
 HOST-SUFFIX,nossl.segfault.net,REJECT
 HOST-SUFFIX,stat.segitek.hu,REJECT
-HOST-SUFFIX,segment.com,REJECT
+HOST-SUFFIX,cdn-settings.segment.com,REJECT
+HOST-SUFFIX,mobile-service.segment.com,REJECT
 HOST-SUFFIX,segment.io,REJECT
 HOST-SUFFIX,segmenthub.com,REJECT
 HOST-SUFFIX,segmentify.com,REJECT
