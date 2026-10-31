@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4443
+# 规则统计:4448
 
 HOST-SUFFIX,000webhost.com,GreatFireWall
 HOST-SUFFIX,0rz.tw,GreatFireWall
@@ -207,6 +207,7 @@ HOST-SUFFIX,anobii.com,GreatFireWall
 HOST-SUFFIX,anonfiles.com,GreatFireWall
 HOST-SUFFIX,anonymouse.org,GreatFireWall
 HOST-SUFFIX,anthonycalzadilla.com,GreatFireWall
+HOST-SUFFIX,anthropic.auth0.com,GreatFireWall
 HOST-SUFFIX,anthropic.com,GreatFireWall
 HOST-SUFFIX,antiwave.net,GreatFireWall
 HOST-SUFFIX,antpool.com,GreatFireWall
@@ -576,6 +577,7 @@ HOST-SUFFIX,broadpressinc.com,GreatFireWall
 HOST-SUFFIX,brookings.edu,GreatFireWall
 HOST-SUFFIX,brutaltgp.com,GreatFireWall
 HOST-SUFFIX,bsky.app,GreatFireWall
+HOST-SUFFIX,bsky.chat,GreatFireWall
 HOST-SUFFIX,bsky.network,GreatFireWall
 HOST-SUFFIX,bsky.social,GreatFireWall
 HOST-SUFFIX,bt4g.org,GreatFireWall
@@ -801,7 +803,10 @@ HOST-SUFFIX,ck101.com,GreatFireWall
 HOST-SUFFIX,clashyun.com,GreatFireWall
 HOST-SUFFIX,classicalguitarblog.net,GreatFireWall
 HOST-SUFFIX,claude.ai,GreatFireWall
+HOST-SUFFIX,claude.app,GreatFireWall
 HOST-SUFFIX,claude.com,GreatFireWall
+HOST-SUFFIX,claudemcpcontent.com,GreatFireWall
+HOST-SUFFIX,claudeusercontent.com,GreatFireWall
 HOST-SUFFIX,cldr.unicode.org,GreatFireWall
 HOST-SUFFIX,clearsurance.com,GreatFireWall
 HOST-SUFFIX,clementine-player.org,GreatFireWall

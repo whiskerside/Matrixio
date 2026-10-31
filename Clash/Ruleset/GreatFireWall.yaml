@@ -1,5 +1,5 @@
 # 规则名称:GreatFireWall GFW
-# 规则统计:4443
+# 规则统计:4448
 
 payload:
   - '+.000webhost.com'
@@ -208,6 +208,7 @@ payload:
   - '+.anonfiles.com'
   - '+.anonymouse.org'
   - '+.anthonycalzadilla.com'
+  - '+.anthropic.auth0.com'
   - '+.anthropic.com'
   - '+.antiwave.net'
   - '+.antpool.com'
@@ -577,6 +578,7 @@ payload:
   - '+.brookings.edu'
   - '+.brutaltgp.com'
   - '+.bsky.app'
+  - '+.bsky.chat'
   - '+.bsky.network'
   - '+.bsky.social'
   - '+.bt4g.org'
@@ -802,7 +804,10 @@ payload:
   - '+.clashyun.com'
   - '+.classicalguitarblog.net'
   - '+.claude.ai'
+  - '+.claude.app'
   - '+.claude.com'
+  - '+.claudemcpcontent.com'
+  - '+.claudeusercontent.com'
   - '+.cldr.unicode.org'
   - '+.clearsurance.com'
   - '+.clementine-player.org'
